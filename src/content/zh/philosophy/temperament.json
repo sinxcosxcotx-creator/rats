@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "eyebrow": "鼠舍理念",
+    "title": "性格在选育里永远是第一位",
+    "subtitle": "这是 Ratopia 在执行选育工作时最优先考虑的核心原则。",
+    "backgroundImage": "/home/rat-daily3.jpg",
+    "buttons": [
+      {
+        "text": "返回上一级",
+        "href": "/philosophy",
+        "variant": "ghost"
+      }  
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "为什么性格优先？",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "温和、亲人、具好奇心的性格，是一只伴侣鼠能够真正融入家庭的关键。即使是最稀有的花色，也无法弥补糟糕的性格。"
+        },
+        {
+          "type": "paragraph",
+          "text": "我们重视：愿意主动与人类互动、对压力的快速恢复能力，以及那种让人感到安心与信任的温柔气质。"
+        }
+      ]
+    }
+  ]
+}

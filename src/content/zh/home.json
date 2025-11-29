@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "eyebrow": "Ratopia Rattery",
+    "title": "专注于性格与健康",
+    "subtitle": "我更关注花枝气质、健康，繁育的绝大部分重心都将偏向这俩部分，当然，如果有多余的精力，我也会花时间选育自己喜欢的标记、毛质、颜色。",
+    "backgroundImage": "/home/rat-hero.jpg",
+    "buttons": [
+     {
+        "text": "了解鼠舍理念",
+        "href": "/philosophy",
+        "variant": "primary"
+      },
+      {
+        "text": "查询鼠舍科普",
+        "href": "/science",
+        "variant": "primary"
+      },
+
+  
+      {
+        "text": "查看待领养鼠",
+        "href": "/adoption",
+        "variant": "primary"
+      }
+      
+    
+    ]
+  },
+  "sections": [
+    
+    {
+      "id": "about-shelter",
+      "type": "split",
+      "title": "关于 Ratopia",
+      "layout": "image-left",
+      "image": {
+        "src": "/home/rat-cage.jpg",
+        "alt": "Ratopia 鼠舍环境"
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ratopia 是一个小规模的花枝鼠舍，更像是一个被精心管理的家庭而不是工厂。我们希望每一只鼠都能被叫出名字，而不是只被当成“某一胎里的某一只”。"
+        },
+        {
+          "type": "paragraph",
+          "text": "与其追求稀有颜色，我们更在意：当它们走进你的生活时，会不会让你觉得安全、安心、或者被治愈。颜色只是最后的锦上添花。"
+        }
+      ]
+    },
+
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "title": "生活日常",
+      "images": [
+        {
+          "src": "/home/rat-daily1.jpg",
+          "alt": "Group of rats playing together",
+          "caption": "Group playtime and socialisation."
+        },
+        {
+          "src": "/home/rat-daily2.jpg",
+          "alt": "Rat on a human shoulder",
+          "caption": "We aim for confident, human-focused companions."
+        },
+        {
+          "src": "/home/rat-daily3.jpg",
+          "alt": "Cage with enrichment items",
+          "caption": "Cages are set up with enrichment, not just bare minimum."
+        },
+        {
+          "src": "/home/rat-daily4.jpg",
+          "alt": "Cage with enrichment items",
+          "caption": "Cages are set up with enrichment, not just bare minimum."
+        }
+      ]
+    }
+  ]
+}

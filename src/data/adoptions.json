@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rr-blueberry",
+    "name": "RR-Blueberry",
+    "sex": "Female",
+    "dob": "2025-09-18",
+    "color": "Blue agouti",
+    "pattern": "Variegated",
+    "bloodline": "RR-Blue Line F4",
+    "temperament": "Curious, human-focused, enjoys shoulder time.",
+    "status": "Available",
+    "image": "/assets/adoptions/blueberry.jpg"
+  },
+  {
+    "id": "rr-orbit",
+    "name": "RR-Orbit",
+    "sex": "Male",
+    "dob": "2025-08-02",
+    "color": "Agouti",
+    "pattern": "Irish",
+    "bloodline": "RR-Temperament Line F3",
+    "temperament": "Relaxed, confident, good with handling.",
+    "status": "Reserved",
+    "image": "/assets/adoptions/orbit.jpg"
+  },
+   {
+    "id": "rr-orbit",
+    "name": "RR-Orbit",
+    "sex": "Male",
+    "dob": "2025-08-02",
+    "color": "Agouti",
+    "pattern": "Irish",
+    "bloodline": "RR-Temperament Line F3",
+    "temperament": "Relaxed, confident, good with handling.",
+    "status": "Reserved",
+    "image": "/assets/adoptions/orbit.jpg"
+  },
+   {
+    "id": "rr-orbit",
+    "name": "RR-Orbit",
+    "sex": "Male",
+    "dob": "2025-08-02",
+    "color": "Agouti",
+    "pattern": "Irish",
+    "bloodline": "RR-Temperament Line F3",
+    "temperament": "Relaxed, confident, good with handling.",
+    "status": "Reserved",
+    "image": "/assets/adoptions/orbit.jpg"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "eyebrow": "理念",
+    "title": "Core Principles of Ratopia",
+    "subtitle": "These values guide every pairing decision and every communication.",
+    "backgroundImage": "/home/rat-daily1.jpg"
+    
+  },
+
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "Overview",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ratopia's philosophy is built on four key pillars: temperament, health, sustainable scale, and transparency. These principles define our breeding direction and how we hope each rat lives a better life."
+        }
+      ]
+    },
+
+    {
+      "id": "links",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [
+        {
+          "title": "Temperament First",
+          "text": "Read full content ",
+          "href": "/philosophy/temperament"
+        },
+        {
+          "title": "Health & Longevity",
+          "text": "Read full content ",
+          "href": "/philosophy/health"
+        },
+        {
+          "title": "Sustainable Scale",
+          "text": "Read full content ",
+          "href": "/philosophy/scale"
+        },
+        {
+          "title": "Honesty & Transparency",
+          "text": "Read full content ",
+          "href": "/philosophy/honesty"
+        }
+      ]
+    }
+  ]
+}

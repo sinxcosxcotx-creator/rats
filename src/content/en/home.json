@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "eyebrow": "Ratopia Rattery",
+    "title": "Ethical fancy rat breeding grounded in science.",
+    "subtitle": "Temperament, health and transparency are at the heart of every pairing.",
+    "backgroundImage": "/home/rat-hero.jpg",
+    "buttons": [
+     {
+        "text": "Read our philosophy",
+        "href": "/philosophy",
+        "variant": "primary"
+      },
+     
+      {
+        "text": "Learn more Knowledge",
+        "href": "/sceince",
+        "variant": "primary"
+      },
+      {
+        "text": "See adoptable rats",
+        "href": "/adoption",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+   
+    {
+      "id": "about-shelter",
+      "type": "split",
+      "title": "About Ratopia",
+      "layout": "image-left",
+      "image": {
+        "src": "/home/rat-cage.jpg",
+        "alt": "Ratopia rattery setup"
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ratopia is a small-scale fancy rat rattery focused on temperament, health and welfare. We keep limited numbers so that every rat is known as an individual."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our goal is not to chase rare colors, but to build reliable lines you can trust to live in your home and in your hands."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Thoughtful pairings instead of mass breeding",
+            "Clean, enriched housing and good nutrition",
+            "Clear communication with adopters"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "title": "A glimpse into daily life",
+      "images": [
+        {
+          "src": "/home/rat-daily1.jpg",
+          "alt": "Group of rats playing together",
+          "caption": "Group playtime and socialisation."
+        },
+        {
+          "src": "/home/rat-daily2.jpg",
+          "alt": "Rat on a human shoulder",
+          "caption": "We aim for confident, human-focused companions."
+        },
+        {
+          "src": "/home/rat-daily3.jpg",
+          "alt": "Rat on a human shoulder",
+          "caption": "We aim for confident, human-focused companions."
+        },
+        {
+          "src": "/public/home/rat-daily4.jpg",
+          "alt": "Cage with enrichment items",
+          "caption": "Cages are set up with enrichment, not just bare minimum."
+        }
+      ]
+    }
+  ]
+}

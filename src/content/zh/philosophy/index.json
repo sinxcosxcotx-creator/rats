@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "eyebrow": "鼠舍理念",
+    "title": "Ratopia 的核心理念",
+    "subtitle": "这些价值观指导着我们的每一次配对决策与每一次沟通。",
+    "backgroundImage": "/home/rat-daily1.jpg"
+  },
+
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "概述",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ratopia 的理念建立在四个关键支柱之上：性格、健康、可持续规模与透明度。这些原则定义了我们的育种方向，也代表了我们希望每只花枝鼠都能拥有更好生活的愿景。"
+        }
+      ]
+    },
+
+    {
+      "id": "links",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [
+        {
+          "title": "性格为先",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/temperament"
+        },
+        {
+          "title": "健康与寿命",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/health"
+        },
+        {
+          "title": "可持续规模",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/scale"
+        },
+        {
+          "title": "诚实与透明",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/honesty"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "eyebrow": "Adoption",
+    "title": "Rats currently looking for homes",
+    "subtitle": "We only list rats that are ready or nearly ready to leave. Some may be held longer for evaluation.",
+    "buttons": [
+      {
+        "text": "Read our philosophy",
+        "href": "/philosophy",
+        "variant": "ghost"
+      },
+      {
+        "text": "What to prepare before adopting",
+        "href": "/science",
+        "variant": "ghost"
+      },
+      {
+        "text": "Learn about our bloodlines",
+        "href": "/bloodlines",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "available",
+      "type": "mouse-grid",
+      "title": "Available and reserved rats",
+      "subtitle": "Details such as temperament and background can be discussed further by message.",
+      "columns": 2
+    },
+    {
+      "id": "adoption-notes",
+      "type": "rich-text",
+      "title": "Before you apply",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "We prefer to place rats in pairs or compatible groups unless there is a strong reason otherwise. Single rats are only placed into existing groups or under special circumstances."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Please be prepared to share information about your housing, diet and previous experience.",
+            "It is okay if you are new, as long as you are willing to learn.",
+            "We reserve the right to decline placements that we feel are not a good fit."
+          ]
+        }
+      ]
+    }
+  ]
+}
