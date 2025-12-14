@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Philosophy",
+    "title": "Medical Philosophy",
+    "subtitle": "At Ratopia Rattery, I treat veterinary care as a disciplined responsibility grounded in real-world constraints—not as a showcase of technique or a form of emotional compensation. For rodents like rats, medical care is not about “how much we can do”, but about minimizing additional harm caused by misguided intervention under conditions of high uncertainty.",
+    "backgroundImage": "/home/rat-daily2.jpg",
+    "buttons": [
+      {
+        "text": "Back",
+        "href": "/philosophy",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "What is Ratopia’s medical philosophy?",
+      "body": [
+        { "type": "heading", "level": 3, "text": "A necessary premise" },
+
+        {
+          "type": "paragraph",
+          "text": "First, we must acknowledge a basic reality: for companion rats, there is no fully mature, standardized, and widely experienced medical system. It is precisely under this premise that a medical philosophy becomes crucial—because it defines the attitude and boundaries humans should adopt when facing illness, aging, and irreversible outcomes."
+        },
+
+        {
+          "type": "paragraph",
+          "text": "It should be clearly understood that within the current exotic-pet medical landscape, veterinarians with long-term, systematic diagnostic and treatment experience in rodents are extremely rare.\n\nAs a result, many recommendations inevitably rely on extrapolations from dog-and-cat medicine or on inferences drawn from limited case histories. This is not a personal failure of individual veterinarians; it is an objective limitation of the overall system.\n\nFor that reason, I put the following principles first: medical advice is not a certain conclusion; test results are not a definitive prognosis; and technical “feasibility” is not the same as “worth doing”.\n\nIn rodent medicine, over-trusting the technique itself is often more dangerous than admitting uncertainty. Medical decisions must treat “lack of experience” as a source of risk in its own right, rather than ignoring it.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Medication principles" },
+
+        {
+          "type": "paragraph",
+          "text": "Rats are small, metabolize quickly, and have a very narrow margin of tolerance. They are extremely sensitive to dosage, frequency, and side effects. Any pharmacological intervention is, at its core, using one risk to hedge against another.\n\nTherefore, I follow these medication principles:\n\nOnly consider medication when there is a clear indication; prioritize drugs with relatively well-defined ingredients and metabolic pathways; and do not initiate treatment simply because “it might be worth a try” or “it could help”.\n\nWithin this framework, I am especially conservative about the use of traditional Chinese medicine (TCM) and compound herbal formulas.\n\nEven in dogs and cats, TCM lacks a strict evidence-based system; in rodents, the uncertainty is amplified further: complex ingredients, difficulty in precise dosing, and a blurred boundary between therapeutic effect and toxicity. Any assumption that something is “gentle” or “tonic” can, in reality, translate into an uncontrollable risk.\n\nMy stance is therefore explicit:\n\nIn the absence of clear, rodent-specific evidence, I do not use TCM as a primary or adjunct treatment. TCM is considered only when all standard medical options available have failed to reverse the course of disease.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Resisting overtreatment" },
+
+        {
+          "type": "paragraph",
+          "text": "I reject the idea that medical care means “doing everything possible to prolong life”.\n\nIn rodents, invasive diagnostics, frequent anesthesia, repeated surgeries, and experimental treatments can quickly become new sources of suffering.\n\nAny intervention must repeatedly answer one question:\n\nDoes it truly improve the animal’s quality of life—rather than merely extending biological time?\n\nIf treatment itself has become the primary burden, if the probability of meaningful recovery is extremely low and the suffering is clear, then continued intervention is more about meeting human psychological needs than serving the animal’s interests.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Euthanasia" },
+
+        {
+          "type": "paragraph",
+          "text": "I do not view euthanasia as “giving up” or “being irresponsible”.\n\nWhen disease is irreversible, aging is severe, or suffering cannot be effectively controlled, choosing euthanasia can be a serious, rational, and responsible medical decision.\n\nOur standard is not “how much longer can they live”, but rather:\n\nThe current and foreseeable level of suffering; whether basic comfort, eating, and interaction are still possible; and whether treatment still has realistic meaning.\n\nThe goal of euthanasia is not to end life—it is to end suffering that cannot be relieved.\n\nWhen prolonging life only means ongoing fear, respiratory distress, pain, or organ failure, letting go is not necessarily more cruel than insisting.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Spay / neuter / castration" },
+
+        {
+          "type": "paragraph",
+          "text": "Within our medical philosophy, I take an extremely conservative stance on spaying/neutering in rats.\n\nI explicitly oppose spay/neuter in the following situations:\n\nSpaying/neutering for the purpose of mixed-sex housing; preventive spaying to reduce potential future disease risk (e.g., mammary tumors); spaying/neutering for convenience, easier management, or to satisfy human keeping preferences.\n\nThe reasoning is straightforward:\n\nRats have very low tolerance for anesthesia and surgical stress, and spay/neuter is an irreversible, high-risk invasive intervention. Without sufficiently robust, reliable long-term rodent data, exchanging a certain risk for an uncertain potential benefit does not align with the principle of maximizing the animal’s welfare.\n\nAt present, the indications we recognize are:\n\nClear, persistent, hormone-driven aggression (HA) that cannot be mitigated by other means and has significantly threatened the safety and welfare of the individual or the group.\n\nDisease of the reproductive system where spay/neuter can meaningfully improve quality of life and clearly raise the animal’s day-to-day comfort.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "The goal of medical care" },
+
+        {
+          "type": "paragraph",
+          "text": "I do not believe medical care can solve every problem, nor do I believe every problem must be “solved”.\n\nIn rodent medicine, the truly responsible choice is often not the most aggressive, most expensive, or most technically complex option, but the option that leaves the least regret within real-world constraints.\n\nThat means admitting uncertainty, accepting the limits of life, and refusing to shift risk onto the animal in exchange for human peace of mind."
+        }
+      ]
+    }
+  ]
+}

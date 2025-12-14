@@ -27,20 +27,20 @@ const AppRouter = () => {
       />
       {/* 鼠舍理念子页：性情 / 健康 / 体型 / 诚信繁育 */}
       <Route
-        path={ROUTES.PHILOSOPHY_TEMPERAMENT}
-        element={<JSONPage pageKey="philosophy/temperament" />}
+        path={ROUTES.PHILOSOPHY_RAISE}
+        element={<JSONPage pageKey="philosophy/raise" />}
       />
       <Route
-        path={ROUTES.PHILOSOPHY_HEALTH} 
-        element={<JSONPage pageKey="philosophy/health" />}
+        path={ROUTES.PHILOSOPHY_MEDICAL}
+        element={<JSONPage pageKey="philosophy/medical" />}
       />
       <Route
-        path={ROUTES.PHILOSOPHY_SCALE}
-        element={<JSONPage pageKey="philosophy/scale" />}
+        path={ROUTES.PHILOSOPHY_BREED}
+        element={<JSONPage pageKey="philosophy/breed" />}
       />
       <Route
-        path={ROUTES.PHILOSOPHY_HONESTY}
-        element={<JSONPage pageKey="philosophy/honesty" />}
+        path={ROUTES.PHILOSOPHY_QA}
+        element={<JSONPage pageKey="philosophy/Q&A" />}
       />
 
       {/* 科普总览页：src/content/science/index.json */}

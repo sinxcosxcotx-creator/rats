@@ -1,9 +1,8 @@
 // src/components/renderer/RichText.jsx
 // 富文本渲染器：
-// - 将 JSON 数组形式的正文内容渲染为段落 / 列表等
-// - 每个 block 对象格式：
-//   { type: 'paragraph', text: '...' }
-//   { type: 'list', style: 'bullet' | 'numbered', items: ['...', '...'] }
+// - paragraph: { type: 'paragraph', text: '...' }
+// - heading:   { type: 'heading', level?: 2|3|4, text: '...' }
+// - list:      { type: 'list', style: 'bullet' | 'numbered', items: ['...', '...'] }
 
 import React from 'react';
 
@@ -15,10 +14,36 @@ const RichText = ({ content }) => {
       {content.map((block, idx) => {
         if (!block || !block.type) return null;
 
-        if (block.type === 'paragraph') {
-          return <p key={idx}>{block.text}</p>;
+        // ✅ 小标题
+        if (block.type === 'heading') {
+          const levelRaw = Number(block.level ?? 3);
+          const level = Math.min(Math.max(levelRaw, 2), 4); // 限制 2~4
+          const Tag = `h${level}`;
+
+          const cls =
+            level === 2
+              ? 'text-xl md:text-2xl font-semibold text-white mt-8'
+              : level === 3
+              ? 'text-lg md:text-xl font-semibold text-white mt-6'
+              : 'text-base md:text-lg font-semibold text-white mt-5';
+
+          return (
+            <Tag key={idx} className={cls}>
+              {block.text}
+            </Tag>
+          );
         }
 
+        // ✅ 段落（支持 \n 换行 / \n\n 空行）
+        if (block.type === 'paragraph') {
+          return (
+            <p key={idx} className="whitespace-pre-line">
+              {block.text}
+            </p>
+          );
+        }
+
+        // ✅ 列表
         if (block.type === 'list') {
           const ListTag = block.style === 'numbered' ? 'ol' : 'ul';
           return (
@@ -27,7 +52,11 @@ const RichText = ({ content }) => {
               className={block.style === 'numbered' ? 'list-decimal pl-5' : 'list-disc pl-5'}
             >
               {Array.isArray(block.items) &&
-                block.items.map((itemText, liIdx) => <li key={liIdx}>{itemText}</li>)}
+                block.items.map((itemText, liIdx) => (
+                  <li key={liIdx} className="whitespace-pre-line">
+                    {itemText}
+                  </li>
+                ))}
             </ListTag>
           );
         }

@@ -5,10 +5,10 @@
 import enHome from '@content/en/home.json';
 
 import enPhilosophyIndex from '@content/en/philosophy/index.json';
-import enPhilosophyTemperament from '@content/en/philosophy/temperament.json';
-import enPhilosophyHealth from '@content/en/philosophy/health.json';
-import enPhilosophyScale from '@content/en/philosophy/scale.json';
-import enPhilosophyHonesty from '@content/en/philosophy/honesty.json';
+import enPhilosophyRaise from '@content/en/philosophy/raise.json';
+import enPhilosophyMedical from '@content/en/philosophy/medical.json';
+import enPhilosophyBreed from '@content/en/philosophy/breed.json';
+import enPhilosophyQA from '@content/en/philosophy/Q&A.json';
 
 import enScienceIndex from '@content/en/science/index.json';
 import enScienceGenetics from '@content/en/science/genetics.json';
@@ -20,15 +20,14 @@ import enBloodlines from '@content/en/bloodlines.json';
 import enAdoption from '@content/en/adoption.json';
 import enContact from '@content/en/contact.json';
 
-
 // ------------ CHINESE CONTENT ------------
 import zhHome from '@content/zh/home.json';
 
 import zhPhilosophyIndex from '@content/zh/philosophy/index.json';
-import zhPhilosophyTemperament from '@content/zh/philosophy/temperament.json';
-import zhPhilosophyHealth from '@content/zh/philosophy/health.json';
-import zhPhilosophyScale from '@content/zh/philosophy/scale.json';
-import zhPhilosophyHonesty from '@content/zh/philosophy/honesty.json';
+import zhPhilosophyRaise from '@content/zh/philosophy/raise.json';
+import zhPhilosophyMedical from '@content/zh/philosophy/medical.json';
+import zhPhilosophyBreed from '@content/zh/philosophy/breed.json';
+import zhPhilosophyQA from '@content/zh/philosophy/Q&A.json';
 
 import zhScienceIndex from '@content/zh/science/index.json';
 import zhScienceGenetics from '@content/zh/science/genetics.json';
@@ -40,16 +39,15 @@ import zhBloodlines from '@content/zh/bloodlines.json';
 import zhAdoption from '@content/zh/adoption.json';
 import zhContact from '@content/zh/contact.json';
 
-
 // ------------ EN MAP ------------
 const EN_CONTENT_MAP = {
   'home': enHome,
 
   'philosophy/index': enPhilosophyIndex,
-  'philosophy/temperament': enPhilosophyTemperament,
-  'philosophy/health': enPhilosophyHealth,
-  'philosophy/scale': enPhilosophyScale,
-  'philosophy/honesty': enPhilosophyHonesty,
+  'philosophy/raise': enPhilosophyRaise,
+  'philosophy/medical': enPhilosophyMedical,
+  'philosophy/breed': enPhilosophyBreed,
+  'philosophy/Q&A': enPhilosophyQA,
 
   'science/index': enScienceIndex,
   'science/genetics': enScienceGenetics,
@@ -62,16 +60,15 @@ const EN_CONTENT_MAP = {
   'contact': enContact
 };
 
-
 // ------------ ZH MAP ------------
 const ZH_CONTENT_MAP = {
   'home': zhHome,
 
   'philosophy/index': zhPhilosophyIndex,
-  'philosophy/temperament': zhPhilosophyTemperament,
-  'philosophy/health': zhPhilosophyHealth,
-  'philosophy/scale': zhPhilosophyScale,
-  'philosophy/honesty': zhPhilosophyHonesty,
+  'philosophy/raise': zhPhilosophyRaise,
+  'philosophy/medical': zhPhilosophyMedical,
+  'philosophy/breed': zhPhilosophyBreed,
+  'philosophy/Q&A': zhPhilosophyQA,
 
   'science/index': zhScienceIndex,
   'science/genetics': zhScienceGenetics,
@@ -84,11 +81,9 @@ const ZH_CONTENT_MAP = {
   'contact': zhContact
 };
 
-
 // ------------ LOADER ------------
 export const loadContentJSON = (key, lang = 'en') => {
   const normalizedLang = lang.startsWith('zh') ? 'zh' : 'en';
-
   const langMap = normalizedLang === 'zh' ? ZH_CONTENT_MAP : EN_CONTENT_MAP;
 
   let data = langMap[key];

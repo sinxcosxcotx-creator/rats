@@ -9,10 +9,10 @@ export const ROUTES = {
   HOME: '/',
 
   PHILOSOPHY_INDEX: '/philosophy',
-  PHILOSOPHY_TEMPERAMENT: "/philosophy/temperament",
-  PHILOSOPHY_HEALTH: "/philosophy/health",
-  PHILOSOPHY_SCALE: "/philosophy/scale",
-  PHILOSOPHY_HONESTY: "/philosophy/honesty",
+  PHILOSOPHY_RAISE: "/philosophy/raise",
+  PHILOSOPHY_MEDICAL: "/philosophy/medical",
+  PHILOSOPHY_BREED: "/philosophy/breed",
+  PHILOSOPHY_QA: "/philosophy/Q&A",
 
   SCIENCE_INDEX: '/science',
   SCIENCE_GENETICS: '/science/genetics',

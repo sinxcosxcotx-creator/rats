@@ -1,12 +1,10 @@
 {
   "hero": {
-    "eyebrow": "理念",
-    "title": "Core Principles of Ratopia",
-    "subtitle": "These values guide every pairing decision and every communication.",
+    "eyebrow": "Rattery Philosophy",
+    "title": "Ratopia’s Core Principles",
+    "subtitle": "These values guide every pairing decision we make and every conversation we have.",
     "backgroundImage": "/home/rat-daily1.jpg"
-    
   },
-
   "sections": [
     {
       "id": "intro",
@@ -14,36 +12,36 @@
       "title": "Overview",
       "body": [
         {
-          "type": "paragraph",
-          "text": "Ratopia's philosophy is built on four key pillars: temperament, health, sustainable scale, and transparency. These principles define our breeding direction and how we hope each rat lives a better life."
+         "type": "paragraph",
+         "text": "Ratopia’s rattery philosophy consists of three core modules—Husbandry, Medical Care, and Breeding—plus a dedicated Q&A. Husbandry covers space, enrichment, feeding, and stress management; Medical Care emphasizes restraint under uncertainty and rejects overtreatment; Breeding is built on records and risk control and avoids extreme selection. The Q&A addresses common controversies and clarifies boundaries and responsibility. Together, these parts form Ratopia’s practical, testable framework."
         }
+
       ]
     },
-
     {
       "id": "links",
       "type": "grid-cards",
       "columns": 1,
       "items": [
         {
-          "title": "Temperament First",
-          "text": "Read full content ",
-          "href": "/philosophy/temperament"
+          "title": "Husbandry Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/raise"
         },
         {
-          "title": "Health & Longevity",
-          "text": "Read full content ",
-          "href": "/philosophy/health"
+          "title": "Medical Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/medical"
         },
         {
-          "title": "Sustainable Scale",
-          "text": "Read full content ",
-          "href": "/philosophy/scale"
+          "title": "Breeding Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/breed"
         },
         {
-          "title": "Honesty & Transparency",
-          "text": "Read full content ",
-          "href": "/philosophy/honesty"
+          "title": "Q&A",
+          "text": "View full content",
+          "href": "/philosophy/Q&A"
         }
       ]
     }

@@ -1,30 +1,23 @@
 {
   "hero": {
     "eyebrow": "Ratopia Rattery",
-    "title": "Ethical fancy rat breeding grounded in science.",
-    "subtitle": "Temperament, health and transparency are at the heart of every pairing.",
+    "title": "Ethical fancy rat breeding, grounded in responsibility.",
+    "subtitle": "We care more about long-term, stable temperament and health than short-term output or appearance. Transparent records and traceable boundaries are central to how Ratopia operates.",
     "backgroundImage": "/home/rat-hero.jpg",
     "buttons": [
-     {
+      {
         "text": "Read our philosophy",
         "href": "/philosophy",
         "variant": "primary"
       },
-     
       {
-        "text": "Learn more Knowledge",
+        "text": "Explore science & care",
         "href": "/sceince",
-        "variant": "primary"
-      },
-      {
-        "text": "See adoptable rats",
-        "href": "/adoption",
         "variant": "primary"
       }
     ]
   },
   "sections": [
-   
     {
       "id": "about-shelter",
       "type": "split",
@@ -37,19 +30,19 @@
       "body": [
         {
           "type": "paragraph",
-          "text": "Ratopia is a small-scale fancy rat rattery focused on temperament, health and welfare. We keep limited numbers so that every rat is known as an individual."
+          "text": "Ratopia is a small-scale fancy rat rattery. We focus on temperament that can thrive in long-term companionship, health outcomes that can be tracked over time, and welfare standards that are practical and consistently applied."
         },
         {
           "type": "paragraph",
-          "text": "Our goal is not to chase rare colors, but to build reliable lines you can trust to live in your home and in your hands."
+          "text": "My goal is not to chase rare colors or markings, but to build lines that are more stable and predictable: more human-friendly in everyday interaction, more manageable in stress response, and able to maintain relatively consistent health across multiple generations."
         },
         {
           "type": "list",
           "style": "bullet",
           "items": [
-            "Thoughtful pairings instead of mass breeding",
-            "Clean, enriched housing and good nutrition",
-            "Clear communication with adopters"
+            "Pairings prioritize temperament and health, supported by traceable pedigree records and inbreeding-coefficient tracking",
+            "Housing is built around zoned space and enrichment—not bare-minimum survival setups",
+            "Adoptions follow a written agreement, with long-term communication and take-back/support responsibility when needed"
           ]
         }
       ]
@@ -61,23 +54,23 @@
       "images": [
         {
           "src": "/home/rat-daily1.jpg",
-          "alt": "Group of rats playing together",
-          "caption": "Group playtime and socialisation."
+          "alt": "A group of rats playing together",
+          "caption": "Group interaction and daily socialisation: a key window into temperament and social dynamics."
         },
         {
           "src": "/home/rat-daily2.jpg",
-          "alt": "Rat on a human shoulder",
-          "caption": "We aim for confident, human-focused companions."
+          "alt": "A rat on a human shoulder",
+          "caption": "Affection isn’t a trained performance—it’s a stable, long-term temperament tendency."
         },
         {
           "src": "/home/rat-daily3.jpg",
-          "alt": "Rat on a human shoulder",
-          "caption": "We aim for confident, human-focused companions."
+          "alt": "Rats interacting with a human",
+          "caption": "Responses and recovery across different situations are one way we assess stress tolerance."
         },
         {
-          "src": "/public/home/rat-daily4.jpg",
-          "alt": "Cage with enrichment items",
-          "caption": "Cages are set up with enrichment, not just bare minimum."
+          "src": "/home/rat-daily4.jpg",
+          "alt": "A cage with enrichment items",
+          "caption": "Space and enrichment support real behavioral needs: climbing, hiding, exploring, and chewing."
         }
       ]
     }
