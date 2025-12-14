@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Philosophy",
+    "title": "Ratopia’s Core Principles",
+    "subtitle": "These principles form a practical decision-making framework, used to assess risk under uncertainty, define boundaries, and guide trade-offs and long-term responsibility across husbandry, medical care, and breeding.",
+    "backgroundImage": "/home/rat-daily1.jpg"
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "Overview",
+      "body": [
+        {
+         "type": "paragraph",
+         "text": "Ratopia’s rattery philosophy consists of three core modules—Husbandry, Medical Care, and Breeding—plus a dedicated Q&A. Husbandry covers space, enrichment, feeding, and stress management; Medical Care emphasizes restraint under uncertainty and rejects overtreatment; Breeding is built on records and risk control and avoids extreme selection. The Q&A addresses common controversies and clarifies boundaries and responsibility. Together, these parts form Ratopia’s practical, testable framework."
+        }
+
+      ]
+    },
+    {
+      "id": "links",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [
+        {
+          "title": "Husbandry Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/raise"
+        },
+        {
+          "title": "Medical Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/medical"
+        },
+        {
+          "title": "Breeding Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/breed"
+        },
+        {
+          "title": "Q&A",
+          "text": "View full content",
+          "href": "/philosophy/Q&A"
+        }
+      ]
+    }
+  ]
+}

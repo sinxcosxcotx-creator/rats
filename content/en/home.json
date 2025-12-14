@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "eyebrow": "Ratopia Rattery",
+    "title": "Ethical fancy rat breeding, grounded in responsibility.",
+    "subtitle": "We care more about long-term, stable temperament and health than short-term output or appearance. Transparent records and traceable boundaries are central to how Ratopia operates.",
+    "backgroundImage": "/home/rat-hero.jpg",
+    "buttons": [
+      {
+        "text": "Read our philosophy",
+        "href": "/philosophy",
+        "variant": "primary"
+      },
+      {
+        "text": "Explore science & care",
+        "href": "/sceince",
+        "variant": "primary"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "about-shelter",
+      "type": "split",
+      "title": "About Ratopia",
+      "layout": "image-left",
+      "image": {
+        "src": "/home/rat-cage.jpg",
+        "alt": "Ratopia rattery setup"
+      },
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ratopia is a small-scale fancy rat rattery. We focus on temperament that can thrive in long-term companionship, health outcomes that can be tracked over time, and welfare standards that are practical and consistently applied."
+        },
+        {
+          "type": "paragraph",
+          "text": "My goal is not to chase rare colors or markings, but to build lines that are more stable and predictable: more human-friendly in everyday interaction, more manageable in stress response, and able to maintain relatively consistent health across multiple generations."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Pairings prioritize temperament and health, supported by traceable pedigree records and inbreeding-coefficient tracking",
+            "Housing is built around zoned space and enrichment—not bare-minimum survival setups",
+            "Adoptions follow a written agreement, with long-term communication and take-back/support responsibility when needed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "title": "A glimpse into daily life",
+      "images": [
+        {
+          "src": "/home/rat-daily1.jpg",
+          "alt": "A group of rats playing together",
+          "caption": "Group interaction and daily socialisation: a key window into temperament and social dynamics."
+        },
+        {
+          "src": "/home/rat-daily2.jpg",
+          "alt": "A rat on a human shoulder",
+          "caption": "Affection isn’t a trained performance—it’s a stable, long-term temperament tendency."
+        },
+        {
+          "src": "/home/rat-daily3.jpg",
+          "alt": "Rats interacting with a human",
+          "caption": "Responses and recovery across different situations are one way we assess stress tolerance."
+        },
+        {
+          "src": "/home/rat-daily4.jpg",
+          "alt": "A cage with enrichment items",
+          "caption": "Space and enrichment support real behavioral needs: climbing, hiding, exploring, and chewing."
+        }
+      ]
+    }
+  ]
+}

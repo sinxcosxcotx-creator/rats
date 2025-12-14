@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "eyebrow": "Science · Health",
+    "title": "Health, ageing and quality of life",
+    "subtitle": "Rats live fast and age quickly. Responsible keeping includes planning for illness and the end of life from the very beginning.",
+    "buttons": [  
+      {
+        "text": "BACK TO SCIENCE",
+        "href": "/science",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "common-issues",
+      "type": "rich-text",
+      "title": "Common health issues",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Respiratory infections, mammary tumors, abscesses and age-related weakness are among the most common health issues in pet rats."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Early vet visits can prevent mild problems from becoming emergencies.",
+            "Weight tracking helps catch subtle changes before they are visible.",
+            "Some conditions are more related to genetics, others to environment."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qol",
+      "type": "rich-text",
+      "title": "Thinking about quality of life",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Because rats age quickly, it is important to think about what a good life and a good end look like before a crisis happens."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Ratopia we encourage adopters to observe not only whether a rat is alive, but whether they can still do rat things: move, groom, interact, eat with minimal struggle and rest comfortably."
+        }
+      ]
+    }
+  ]
+}

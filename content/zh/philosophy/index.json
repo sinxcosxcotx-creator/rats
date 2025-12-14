@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "eyebrow": "鼠舍理念",
+    "title": "Ratopia 的核心理念",
+    "subtitle": "这些理念并非抽象立场，而是被落实到具体实践中的判断框架：它们用于在不确定条件下评估风险、设定边界，并指导我们在饲养、医疗与繁育中作出取舍与承担长期责任。",
+    "backgroundImage": "/home/rat-daily1.jpg"
+  },
+
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "概述",
+      "body": [
+        {
+          "type": "paragraph",
+         "text": "Ratopia 的“鼠舍理念”由饲养、医疗、繁育三大模块与 Q&A 组成。饲养关注空间、丰容、喂食与压力管理；医疗强调在不确定条件下保持克制，反对过度干预；繁育以记录与风险控制为前提，拒绝极端选育；Q&A 用于回应常见争议并明确边界与责任。四部分共同构成 Ratopia 可执行、可检验的实践框架。"
+        }
+
+
+      ]
+    },
+
+    {
+      "id": "links",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [
+        {
+          "title": "饲养理念",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/raise"
+        },
+        {
+          "title": "医疗理念",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/medical"
+        },
+        {
+          "title": "繁育理念",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/breed"
+        },
+        {
+          "title": "Q&A",
+          "text": "查看完整内容 ",
+          "href": "/philosophy/Q&A"
+        }
+      ]
+    }
+  ]
+}
