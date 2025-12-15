@@ -1,8 +1,8 @@
 {
   "hero": {
     "eyebrow": "Science & Care",
-    "title": "Before You Bring Rats Home",
-    "subtitle": "Many misunderstandings about rats come from not knowing what they truly need. Preparing in advance is how you give them a stable, respectful beginning.",
+    "title": "Before Adoption",
+    "subtitle": "Before adopting, I hope you’ll carefully read through the notes and care guidelines below. They cover the preparations you’ll need before we officially meet.",
     "buttons": [
       {
         "text": "Back",
@@ -15,18 +15,15 @@
     {
       "id": "commitment",
       "type": "rich-text",
-      "title": "1. What You’re Committing To",
+      "title": "",
       "body": [
         {
           "type": "paragraph",
-          "text": "Before Adoption"
+          "text": "Rats are truly incredible pets, but in the public imagination they carry an unfair—and completely unreasonable—reputation. Even so, rats are not suitable for everyone. Before deciding to keep them, you should take some time to think carefully: not only “Are rats right for you?”, but also “Can you become the kind of guardian they need?”"
         },
         {
-          "type": "paragraph",
-          "text": "Rats are truly incredible pets, yet in the public imagination they carry an unfair—and completely unreasonable—reputation. Even so, rats are not suitable for everyone. Before deciding to keep them, you should take time to think carefully: not only “Are rats right for you?”, but also “Can you become the kind of guardian they need?”"
-        },
-        {
-          "type": "paragraph",
+          "type": "heading",
+          "level": 3,
           "text": "Time and Space"
         },
         {
@@ -37,9 +34,9 @@
           "type": "list",
           "style": "bullet",
           "items": [
-            "1) You don’t mind them peeing on things or making a mess;",
-            "2) There are no dangerous wires or plants they can chew;",
-            "3) There are no gaps or hidden corners where they can escape—or squeeze into and “disappear.”"
+            "You don’t mind them peeing on things or making a mess;",
+            "There are no dangerous wires or plants they can chew;",
+            "There are no gaps or hidden corners where they can escape—or squeeze into and “disappear.”"
           ]
         },
         {
@@ -48,7 +45,7 @@
         },
         {
           "type": "paragraph",
-          "text": "You also need space for the cage. Rat cages are usually much larger than people imagine; the common small cages you see on many platforms are generally not enough to meet rats’ needs—rats require more space. While you can place the cage in a bedroom, rats are crepuscular animals—they are most alert and active around dawn and dusk—so they can be very noisy and disturb your sleep. I recommend placing the cage in the living room or another shared area with more foot traffic. That way, when you pass by, they can ask you for treats or cuddles, and these “fragmented little interactions” can be maximized."
+          "text": "You also need space for the cage. Rat cages are usually much larger than people imagine; the common small cages you see on many platforms are generally not enough to meet rats’ needs—rats require more space. While you can place the cage in a bedroom, rats are crepuscular animals: they are most alert and active around dawn and dusk, so they can be very noisy and disturb your sleep. I recommend placing the cage in the living room or another shared area with more foot traffic. That way, when you pass by, they can ask you for treats or cuddles, and these “fragmented little interactions” can be maximized."
         },
         {
           "type": "paragraph",
@@ -63,10 +60,11 @@
     {
       "id": "environment",
       "type": "rich-text",
-      "title": "2. Environment Preparation",
+      "title": "",
       "body": [
         {
-          "type": "paragraph",
+          "type": "heading",
+          "level": 3,
           "text": "Children and Rats"
         },
         {
@@ -75,10 +73,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Rats from responsible breeders are also very unlikely to bite. However, rats should absolutely not be left to a child to “take care of independently”—they must always be supervised by a responsible adult, who leads: regular health checks and continuous monitoring of daily care. If the adults in the household have no interest in rats, then even if the child really wants them and is responsible, rats may not be a good fit for that family. Monitoring health requires interest and knowledge; and children do not have adult-level financial independence, so it is crucial that the adults in the child’s life are committed enough to prioritize veterinary expenses."
+          "text": "Rats from responsible breeders are extremely unlikely to bite. However, rats should absolutely not be left to a child to “take care of independently”—they must always be supervised by a responsible adult, who leads: regular health checks and continuous monitoring of daily care. If the adults in the household have no interest in rats, then even if the child really wants them and is responsible, rats may not be a good fit for that family. Monitoring health requires interest and knowledge; and children do not have adult-level financial independence, so it is crucial that the adults in the child’s life are committed enough to prioritize veterinary expenses."
         },
         {
-          "type": "paragraph",
+          "type": "heading",
+          "level": 3,
           "text": "Other Pets"
         },
         {
@@ -90,7 +89,8 @@
           "text": "You don’t want to experience “a frightened rat biting a friendly dog’s nose,” nor do you want to discover—when you weren’t paying attention—that your rat has lost a leg because a dog bit through the cage bars. Taking rats out for so-called “interaction” is equally unsafe. Accidents happen very fast; as a responsible guardian, you should ensure that no pet is placed in danger."
         },
         {
-          "type": "paragraph",
+          "type": "heading",
+          "level": 3,
           "text": "Smell"
         },
         {
@@ -102,11 +102,12 @@
     {
       "id": "budget",
       "type": "rich-text",
-      "title": "3. Costs and Medical Preparation",
+      "title": "",
       "body": [
         {
-          "type": "paragraph",
-          "text": "Health Risks and Allergies"
+          "type": "heading",
+          "level": 3,
+          "text": "Potential Health Risks and Allergies"
         },
         {
           "type": "paragraph",
@@ -114,22 +115,24 @@
         },
         {
           "type": "paragraph",
-          "text": "This information may sound scary and even discouraging, but it is equally important to recognize: the health risk posed by pet rats is not greater than keeping dogs or cats. In reality, rat communities often understand these risks better than the general public (by contrast, the public is often less aware of risks related to dogs), so “risk awareness” is stronger. This higher knowledge level is often because people tend to keep multiple rats at once; and because rats have relatively short lifespans, keepers encounter health issues more frequently. For typical keepers, as long as you follow reasonable hygiene measures (for example, washing your hands after handling pets) and do not let them “groom” around or inside your mouth (they really love to try—this is referred to as “rodent dental/oral care”), you will not be carrying higher risk than with other common pets."
+          "text": "This information may sound scary and even discouraging, but it is equally important to recognize: the health risk posed by pet rats is not greater than keeping dogs or cats. In reality, rat communities often understand these risks better than the general public (by contrast, the public is often less aware of risks related to dogs), so “risk awareness” is stronger. This higher knowledge level is often because: people tend to keep multiple rats at once; and because rats have relatively short lifespans, keepers encounter health issues more frequently. For typical keepers, as long as you follow reasonable hygiene measures (for example, washing your hands after handling pets) and do not let them “groom” around or inside your mouth (they really love to try—this is referred to as “rodent dental/oral care”), you will not be carrying higher risk than with other common pets."
         },
         {
           "type": "paragraph",
-          "text": "A more common situation is allergies: you may be allergic to rat dander, saliva, or their bedding/substrate. If you already have a history of allergies, before deciding to keep rats, it’s best to go to a rat show or find another way to handle and cuddle rats first, to see whether you react. Allergic reactions can vary widely: from mild sneezing, runny nose, and hives triggered when they walk on bare skin, to severe asthma attacks and breathing difficulty. If you are allergic to bedding, you can try alternatives with lower allergen potential. If you are allergic but still very determined to keep rats, a once-daily over-the-counter antihistamine may work; more severe reactions can also be treated with stronger medications prescribed by a doctor. Wearing long sleeves and higher collars when interacting with rats can significantly reduce hives (itchy, red, raised bumps); and regularly trimming their nails can also help. "
+          "text": "A more common situation is allergies: you may be allergic to rat dander, saliva, or their bedding/substrate. If you already have a history of allergies, before deciding to keep rats, it’s best to go to a rat show or find another way to handle and cuddle rats first, to see whether you react. Allergic reactions can vary widely: from mild sneezing, runny nose, and hives triggered when they walk on bare skin, to severe asthma attacks and breathing difficulty. If you are allergic to bedding, you can try alternatives with lower allergen potential. If you are allergic but still very determined to keep rats, a once-daily over-the-counter antihistamine may work; more severe reactions can also be treated with stronger medications prescribed by a doctor. Wearing long sleeves and higher collars when interacting with rats can significantly reduce hives (itchy, red, raised bumps); and regularly trimming their nails can also help."
         },
         {
-          "type": "paragraph",
-          "text": "Cost"
+          "type": "heading",
+          "level": 3,
+          "text": "Costs"
         },
         {
           "type": "paragraph",
           "text": "The cost of keeping rats should absolutely not be underestimated. Building a cage setup with an appropriate level of enrichment is not cheap; and for many people, we eventually spend every extra bit on fresh, interesting enrichment. While ongoing daily basic care may not be extremely expensive, veterinary visits can be costly. The average rat lifespan is only slightly over 2 years, which means that when they enter old age, you may need multiple vet visits, and may eventually need to pay for humane euthanasia—these can all add up."
         },
         {
-          "type": "paragraph",
+          "type": "heading",
+          "level": 3,
           "text": "Emotional Impact"
         },
         {
@@ -137,8 +140,9 @@
           "text": "Even if money is not a problem, the emotional impact of “losing pets this frequently” can be very heavy. Because their lifespans are short, you may face emotional blows more often than owners of longer-lived larger pets. The hard part is not only the moment of loss; when a pet gets sick, you may repeatedly consider care plans, medication schedules, and make time for vet visits… these accumulate and create intense psychological load. In addition, not all veterinarians are familiar with rats, which adds extra pressure—you are not only worried about the rat itself, but may also worry: the vet does not know enough about rats, the advice is incorrect, or the treatment is not what the rat truly needs."
         },
         {
-          "type": "paragraph",
-          "text": "Reality Check"
+          "type": "heading",
+          "level": 3,
+          "text": "A Reality Check"
         },
         {
           "type": "paragraph",
