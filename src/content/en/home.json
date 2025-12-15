@@ -1,17 +1,17 @@
 {
   "hero": {
     "eyebrow": "Ratopia Rattery",
-    "title": "Ethical fancy rat breeding, grounded in responsibility.",
-    "subtitle": "We care more about long-term, stable temperament and health than short-term output or appearance. Transparent records and traceable boundaries are central to how Ratopia operates.",
+    "title": "Ethical Breeding as the Foundation of Companion Rats.",
+    "subtitle": "We prioritize long-term stability in temperament and health over short-term output or visual performance. Transparent records and traceable boundaries define Ratopia’s fundamental working attitude and methodology.",
     "backgroundImage": "/home/rat-hero.jpg",
     "buttons": [
       {
-        "text": "Read our philosophy",
+        "text": "Explore Our Philosophy",
         "href": "/philosophy",
         "variant": "primary"
       },
       {
-        "text": "Explore science & care",
+        "text": "Learn More Science",
         "href": "/sceince",
         "variant": "primary"
       }
@@ -25,52 +25,67 @@
       "layout": "image-left",
       "image": {
         "src": "/home/rat-cage.jpg",
-        "alt": "Ratopia rattery setup"
+        "alt": "Ratopia rattery environment"
       },
       "body": [
         {
           "type": "paragraph",
-          "text": "Ratopia is a small-scale fancy rat rattery. We focus on temperament that can thrive in long-term companionship, health outcomes that can be tracked over time, and welfare standards that are practical and consistently applied."
+          "text": "Ratopia Rattery was established in 2023, although I am not entirely sure when this website—still being continuously debugged—will fully present itself to you."
         },
         {
           "type": "paragraph",
-          "text": "My goal is not to chase rare colors or markings, but to build lines that are more stable and predictable: more human-friendly in everyday interaction, more manageable in stress response, and able to maintain relatively consistent health across multiple generations."
+          "text": "What I mean is that, during the early stages of the rattery, this website will only be shared on a small scale. You can reach me through the “Contact” section and let me know about any issues you encounter while browsing. I genuinely look forward to your feedback."
         },
         {
-          "type": "list",
-          "style": "bullet",
-          "items": [
-            "Pairings prioritize temperament and health, supported by traceable pedigree records and inbreeding-coefficient tracking",
-            "Housing is built around zoned space and enrichment—not bare-minimum survival setups",
-            "Adoptions follow a written agreement, with long-term communication and take-back/support responsibility when needed"
-          ]
+          "type": "paragraph",
+          "text": "Why build a website for a rattery? This question has lingered in my mind for a long time, and I would rather leave the answer to time."
+        },
+        {
+          "type": "paragraph",
+          "text": "At present, the site serves me primarily as a platform for expressing values and philosophy. I am also trying to develop it into a comprehensive hub for the fancy rat community in China, which may include many high-quality resources translated from abroad. You will find links to worthwhile websites throughout the pages, and you are welcome to browse the original versions if needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Through other sections of this website, you can learn more about my principles, breeding approaches, and breeding outcomes. If you have adopted rats from my rattery, you are of course welcome to contact me privately to view their pedigrees."
+        },
+        {
+          "type": "paragraph",
+          "text": "Internationally, there are already many well-established exotic pet platforms with continuously updated information, extensive case collections, and rich medical knowledge. I sincerely hope you can benefit from them and improve your overall husbandry and care skills—though unfortunately, access may require a bit of “magic.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Different associations also maintain their own websites, each with its own scope and limitations. If you need them, feel free to email me and I can forward some links. Replies may not always be immediate, and I appreciate your understanding."
+        },
+        {
+          "type": "paragraph",
+          "text": ""
         }
       ]
     },
     {
       "id": "gallery",
       "type": "gallery",
-      "title": "A glimpse into daily life",
+      "title": "A Glimpse of Daily Life",
       "images": [
         {
           "src": "/home/rat-daily1.jpg",
-          "alt": "A group of rats playing together",
-          "caption": "Group interaction and daily socialisation: a key window into temperament and social dynamics."
+          "alt": "A group of fancy rats playing together",
+          "caption": "Group interaction and daily socialization: an important window for observing temperament and social dynamics."
         },
         {
           "src": "/home/rat-daily2.jpg",
-          "alt": "A rat on a human shoulder",
-          "caption": "Affection isn’t a trained performance—it’s a stable, long-term temperament tendency."
+          "alt": "A fancy rat standing on a person’s shoulder",
+          "caption": "Affection toward humans is not a trained performance, but a long-term, stable temperament trait."
         },
         {
           "src": "/home/rat-daily3.jpg",
-          "alt": "Rats interacting with a human",
-          "caption": "Responses and recovery across different situations are one way we assess stress tolerance."
+          "alt": "Fancy rats interacting",
+          "caption": "Responses across different situations—and the speed of recovery—are part of how we assess stress tolerance."
         },
         {
           "src": "/home/rat-daily4.jpg",
-          "alt": "A cage with enrichment items",
-          "caption": "Space and enrichment support real behavioral needs: climbing, hiding, exploring, and chewing."
+          "alt": "A cage equipped with enrichment items",
+          "caption": "Space and enrichment are designed to support genuine behavioral needs: climbing, hiding, exploring, and gnawing."
         }
       ]
     }
