@@ -15,6 +15,9 @@ import enScienceGenetics from '@content/en/science/genetics.json';
 import enScienceCare from '@content/en/science/care.json';
 import enScienceHealth from '@content/en/science/health.json';
 import enSciencePrepare from '@content/en/science/prepare.json';
+import enScienceDiet from '@content/en/science/diet.json';
+import enScienceChoose from '@content/en/science/choose.json';
+import enScienceOrigin from '@content/en/science/origin.json';
 
 import enBloodlines from '@content/en/bloodlines.json';
 import enAdoption from '@content/en/adoption.json';
@@ -34,6 +37,9 @@ import zhScienceGenetics from '@content/zh/science/genetics.json';
 import zhScienceCare from '@content/zh/science/care.json';
 import zhScienceHealth from '@content/zh/science/health.json';
 import zhSciencePrepare from '@content/zh/science/prepare.json';
+import zhScienceDiet from '@content/zh/science/diet.json';
+import zhScienceChoose from '@content/zh/science/choose.json';
+import zhScienceOrigin from '@content/zh/science/origin.json';
 
 import zhBloodlines from '@content/zh/bloodlines.json';
 import zhAdoption from '@content/zh/adoption.json';
@@ -55,6 +61,15 @@ const EN_CONTENT_MAP = {
   'science/health': enScienceHealth,
   'science/prepare': enSciencePrepare,
 
+  // ✅ 已有：EN 注册 key
+  'science/diet': enScienceDiet,
+
+  // ✅ 已有：EN 注册 key
+  'science/choose': enScienceChoose,
+
+  // ✅ 新增：EN 注册 key
+  'science/origin': enScienceOrigin,
+
   'bloodlines': enBloodlines,
   'adoption': enAdoption,
   'contact': enContact
@@ -75,6 +90,15 @@ const ZH_CONTENT_MAP = {
   'science/care': zhScienceCare,
   'science/health': zhScienceHealth,
   'science/prepare': zhSciencePrepare,
+
+  // ✅ 已有：ZH 注册 key
+  'science/diet': zhScienceDiet,
+
+  // ✅ 已有：ZH 注册 key
+  'science/choose': zhScienceChoose,
+
+  // ✅ 新增：ZH 注册 key
+  'science/origin': zhScienceOrigin,
 
   'bloodlines': zhBloodlines,
   'adoption': zhAdoption,

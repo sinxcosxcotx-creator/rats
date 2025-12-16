@@ -6,7 +6,7 @@
     "backgroundImage": "/home/rat-daily2.jpg",
     "buttons": [
       {
-        "text": "返回上一级",
+        "text": "返回",
         "href": "/philosophy",
         "variant": "ghost"
       }

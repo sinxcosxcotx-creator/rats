@@ -5,7 +5,7 @@
     "subtitle": "Rats live fast and age quickly. Responsible keeping includes planning for illness and the end of life from the very beginning.",
     "buttons": [  
       {
-        "text": "BACK TO SCIENCE",
+        "text": "BACK",
         "href": "/science",
         "variant": "ghost"
       }

@@ -1,54 +1,254 @@
 {
   "hero": {
-    "eyebrow": "Science · Genetics",
-    "title": "Genetics for pet keepers",
-    "subtitle": "Coat color and pattern can be fun, but they are only one layer on top of temperament, health and structure.",
-    "buttons": [  
-      {
-        "text": "BACK TO SCIENCE",
-        "href": "/science",
-        "variant": "ghost"
-      }
+    "eyebrow": "Science",
+    "title": "Genetics & Coat Color Basics",
+    "subtitle": "Clarifying core genetics terms, and tracing the genetic backgrounds and mutation history behind common colors, markings, and lines.",
+    "buttons": [
+      { "text": "Back", "href": "/science", "variant": "ghost" }
     ]
   },
   "sections": [
     {
-      "id": "basics",
+      "id": "genetics-main",
       "type": "rich-text",
-      "title": "Basic concepts",
+      "title": "",
       "body": [
+        { "type": "heading", "level": 2, "text": "Basic Genetics Terms" },
+
+        { "type": "heading", "level": 3, "text": "Explanations of Core Genetics Vocabulary" },
+
+        { "type": "heading", "level": 4, "text": "Chromosome" },
         {
           "type": "paragraph",
-          "text": "Most visible traits, such as coat color or pattern, are controlled by combinations of genes. Each gene can have different versions, called alleles, which interact with each other in predictable ways."
+          "text": "Chromosome: A structure in the cell nucleus that carries genetic information, composed of DNA and proteins. Each species has a specific number of chromosomes; fancy rats (the brown rat) have 42 chromosomes in their somatic cells. Chromosomes exist in pairs—one inherited from the father and one from the mother."
+        },
+
+        { "type": "heading", "level": 4, "text": "DNA" },
+        {
+          "type": "paragraph",
+          "text": "DNA: Deoxyribonucleic acid, the molecular carrier of hereditary material. DNA contains gene sequences that determine an organism’s genetic information. The DNA double helix coils and packs into chromosomes, forming the fundamental unit for storing and transmitting hereditary information."
+        },
+
+        { "type": "heading", "level": 4, "text": "Gene" },
+        {
+          "type": "paragraph",
+          "text": "Gene: A functional segment of DNA, typically encoding a protein or regulating a trait. A locus is the specific position of a gene on a chromosome. Different versions of a gene can exist at the same locus—these are alleles."
+        },
+
+        { "type": "heading", "level": 4, "text": "Allele" },
+        {
+          "type": "paragraph",
+          "text": "Allele: Different versions of a gene located at the same gene locus. At a given locus, an individual usually carries two alleles—one from each parent. For example, at the A locus that influences coat color, there may be a wild-type Agouti (A) allele or a variant non-Agouti (a) allele. Different allele combinations determine differences in genotype and phenotype."
+        },
+
+        { "type": "heading", "level": 4, "text": "Genotype" },
+        {
+          "type": "paragraph",
+          "text": "Genotype: The set of alleles an individual carries—the genetic combination. Genotypes are often written with symbols; for example, A/a indicates one allele is A and the other is a."
+        },
+
+        { "type": "heading", "level": 4, "text": "Phenotype" },
+        {
+          "type": "paragraph",
+          "text": "Phenotype: The observable traits expressed by a genotype, such as coat color, markings, body type, and so on[4]. Importantly, phenotype is determined by both genotype and environment. Different genotypes can produce the same phenotype, and the same genotype can produce different phenotypes under different environments."
+        },
+
+        { "type": "heading", "level": 4, "text": "Homozygote" },
+        {
+          "type": "paragraph",
+          "text": "Homozygote: An individual carrying two identical alleles at a given locus (a homozygous genotype). For example, AA or aa are both homozygous[3]."
+        },
+
+        { "type": "heading", "level": 4, "text": "Heterozygote" },
+        {
+          "type": "paragraph",
+          "text": "Heterozygote: An individual carrying two different alleles at a locus, such as A/a. A homozygote passes on identical genetic information at that locus, while a heterozygote can produce different allele combinations in offspring."
+        },
+
+        { "type": "heading", "level": 4, "text": "Dominant" },
+        {
+          "type": "paragraph",
+          "text": "Dominant: A dominant allele can be expressed in the phenotype with only one copy (in the heterozygous state). Dominant alleles are often written in uppercase, such as A for the dominant Agouti allele. When a dominant allele is present, it can “mask” the phenotype of the corresponding recessive allele, so the trait can appear even in a heterozygote."
+        },
+
+        { "type": "heading", "level": 4, "text": "Recessive" },
+        {
+          "type": "paragraph",
+          "text": "Recessive: A recessive allele typically requires a homozygous state (two copies) to be expressed. Recessive alleles are often written in lowercase, such as a for the recessive non-Agouti allele. In a heterozygote (one dominant and one recessive), the recessive trait is usually masked by the dominant allele and does not show; the individual carries it without expressing it. Therefore, recessive alleles can “hide” in the genotype without affecting the phenotype (i.e., the individual is a carrier)."
+        },
+
+        { "type": "heading", "level": 4, "text": "Expression" },
+        {
+          "type": "paragraph",
+          "text": "Expression: Gene expression refers to how a gene’s effect shows up in the phenotype. When we say a gene is expressed, we mean its influence is reflected in an individual’s appearance or physiology. Dominant alleles typically require only one copy to be expressed, while recessive alleles typically require two copies. If expression conditions are not met (for example, a recessive allele is present in only one copy), the trait will not appear in the phenotype—i.e., the gene is not expressed."
+        },
+
+        { "type": "heading", "level": 4, "text": "Carrier" },
+        {
+          "type": "paragraph",
+          "text": "Carrier: Typically refers to an individual that carries a recessive allele but does not express the recessive phenotype. For example, a standard-eared fancy rat that carries one copy of the recessive Dumbo-ear allele will still have standard ears, but it is a Dumbo carrier and may pass that allele to offspring. Strictly speaking, dominant alleles don’t have a “carrier” state because one copy is enough to show. However, in real genetics, some dominant alleles may fail to appear in the phenotype due to other factors (see the “common confusions” section below); in that case, we can say the allele is present but not expressed."
+        },
+
+        { "type": "heading", "level": 4, "text": "Codominance" },
+        {
+          "type": "paragraph",
+          "text": "Codominance: A pattern where two alleles in a heterozygote are both expressed simultaneously, “coexisting” without one masking the other. A classic example in other species is the AB blood type: A and B alleles are both expressed, producing both A and B antigens. In fancy rat coat color, codominance is not common, though some spotting/marking inheritance may involve codominant-like patterns."
+        },
+
+        { "type": "heading", "level": 4, "text": "Incomplete dominance" },
+        {
+          "type": "paragraph",
+          "text": "Incomplete dominance: Also called semidominance. In a heterozygote, the phenotype is an intermediate “blend” between the two homozygous states. A classic textbook example is red flowers crossed with white flowers producing pink offspring. In fancy rats, the Rex gene (symbol Re) is an example: it shows incomplete dominance in coat texture/curling. Rex heterozygotes (Re/re) are curly-coated (typically more evenly furred), while Rex homozygotes (Re/Re) are Double Rex, with sparser, messier coats and sometimes near-hairless patches. Thus, the heterozygote shows an intermediate level of curl compared to the homozygote—typical of incomplete dominance."
+        },
+
+        { "type": "heading", "level": 4, "text": "Modifier gene" },
+        {
+          "type": "paragraph",
+          "text": "Modifier gene: Genes that do not directly determine the main trait themselves, but influence how other genes are expressed. Modifier genes can strengthen, weaken, or otherwise alter the expression of primary genes. For example, in fancy rat markings, modifiers affecting the “extent of white” can change the size or spread of white areas produced by a hooded pattern gene. Some modifiers are written in parentheses next to gene symbols. For instance, research has suggested the existence of hooded-striping modifiers that can cause the same hooded genotype to range in appearance from Irish marking to fully hooded. Modifier genes make inheritance more complex and help explain why the same trait can vary between individuals."
+        },
+
+        { "type": "heading", "level": 4, "text": "Mutation" },
+        {
+          "type": "paragraph",
+          "text": "Mutation: A heritable change in DNA sequence, which can arise from replication errors or external factors. Mutations produce new alleles and are a major source of genetic diversity. Most coat colors, markings, and traits in fancy rats ultimately trace back to historical mutations. For example, wild brown rats originally had only Agouti coloring and dark eyes, while albino (red-eyed white), blue, Russian blue, Siamese, Rex, hairless, and many other traits in fancy rats are the result of selecting, breeding, and fixing mutations over time."
+        },
+
+        { "type": "heading", "level": 4, "text": "Lethal allele" },
+        {
+          "type": "paragraph",
+          "text": "Lethal allele: An allele that causes embryonic or individual death when present in the homozygous form. Such alleles may show a trait in heterozygotes, but if an embryo inherits one copy from each parent (becoming homozygous), it often cannot survive due to developmental defects—leading to embryonic resorption or death shortly after birth[18]. In fancy rats, the Pearl gene (symbol Pe) is a confirmed lethal allele: with one copy (Pe/pe), it can produce a pearl phenotype on an appropriate background, but with two copies (Pe/Pe), the embryo is not viable. Similarly, some marking genes (for example, Dalmatian spotting, downunder) have been reported as lethal when homozygous, potentially causing extreme depigmentation and neural crest development problems. In breeding, for genes suspected or known to be lethal, two carriers should not be paired to avoid producing non-viable embryos."
+        },
+
+        { "type": "heading", "level": 2, "text": "Genetic Backgrounds and Mutation History of Common Colors, Markings, and Lines" },
+        {
+          "type": "paragraph",
+          "text": "The diverse appearance of fancy rats comes from the domestication and spread of natural mutations. Below is a brief overview of several common lines, along with what is known about their genetic backgrounds and mutation histories: –"
+        },
+
+        { "type": "heading", "level": 3, "text": "Agouti and the earliest pet rats" },
+        {
+          "type": "paragraph",
+          "text": "Agouti is the original coat color of fancy rats and the earliest pet-rat color. As early as the 19th century, the famous London rat-catcher Jack Black selected and kept some “oddly colored” brown rats (including albino, spotted, and more). He and other enthusiasts of his era are often regarded as the fathers of the modern fancy rat."
         },
         {
-          "type": "list",
-          "style": "bullet",
-          "items": [
-            "Genotype is the combination of alleles a rat carries.",
-            "Phenotype is what we can see or measure from the outside.",
-            "Some traits are dominant, some are recessive, and many are more complex."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "practical",
-      "type": "split",
-      "title": "Why genetics is not enough",
-      "layout": "image-right",
-      "image": {
-        "src": "/assets/photos/genetics-not-enough.jpg",
-        "alt": "Rats of different colors together"
-      },
-      "body": [
-        {
           "type": "paragraph",
-          "text": "It is tempting to focus on rare colors or patterns. However, color genetics does not guarantee good temperament, strong health or ethical breeding decisions."
+          "text": "By the early 1900s, Agouti and Albino rats were already appearing on the show bench."
         },
         {
           "type": "paragraph",
-          "text": "At Ratopia, we use genetics as a supporting tool. For example, we may plan a pairing that both stabilizes temperament and also introduces a color we like, but we will not compromise core values just to reach a visual goal."
+          "text": "Albino rats were actually developed even earlier in laboratories and used as experimental animals (such as the Wistar albino rat). Therefore, albino (c/c) and Agouti (A) can be considered the two oldest fancy rat colors."
+        },
+
+        { "type": "heading", "level": 3, "text": "non-Agouti (Black)" },
+        {
+          "type": "paragraph",
+          "text": "The non-Agouti allele is thought to exist at low frequency in wild populations and also appeared early in pet breeding. As early as 1906, black rats were reported on show. Black was often bred together with white markings and was then called a “broken black rat.” Black (aa) is the first known mutation at the Agouti locus; together with albino, it became a powerful example supporting Mendelian inheritance."
+        },
+
+        { "type": "heading", "level": 3, "text": "Hooded" },
+        {
+          "type": "paragraph",
+          "text": "The Hooded marking is a line of strong interest in both laboratories and the pet fancy. In experimental contexts, French scientists had already fixed the Hooded mutation in the late 19th century for genetic research, as a classic example of recessive inheritance. In the pet world, a rat club recorded Hooded markings in 1909. The hooded allele h causes depigmentation along both sides of the spine, producing a head “cap” and a dorsal stripe. It is also the foundation of many derived markings such as Irish and Berkshire. Notably, extreme “high white” hooded expression in laboratories produced an “aganglionosis” model, suggesting that excessive h/h expression together with other white-spotting genetics can trigger developmental defects."
+        },
+
+        { "type": "heading", "level": 3, "text": "Brown/Chocolate" },
+        {
+          "type": "paragraph",
+          "text": "Brown/Chocolate: Records of chocolate (b/b) fancy rats can be traced back to the early 20th century; some accounts say “chocolate” rats existed in Britain in 1905, but it was not clearly recognized and distinguished until the mid-20th century. In 1983, the United States imported chocolate rats from the UK NFRS, confirming that Chocolate is distinct from Mink."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Chocolate gene is a TYRP1-related mutation, similar to the brown mutation in mice. In the 1930s, Agouti Chocolate was sometimes called “Havana,” but the term later came to refer mostly to Mink + RED. Today, chocolate lines are relatively uncommon, but they still have a place in breeding standards."
+        },
+
+        { "type": "heading", "level": 3, "text": "Blue series" },
+        {
+          "type": "paragraph",
+          "text": "Blue series: British Blue (g) was first mentioned in literature in the 1920s–1930s. A 1929 paper reported a blue-gray mutation, and a 1936 follow-up study confirmed it resembled “blue” in other species. After World War II, this blue became established in Britain and was called “Blue.” The United States did not obtain the blue line until the late 20th century through importation. In 2004, due to the addition of Russian Blue, the NFRS renamed the classic blue as British Blue."
+        },
+        {
+          "type": "paragraph",
+          "text": "Russian Blue (d) also had independent mutation reports in the 1930s. However, it became widely popular as a pet line after being imported across regions from Europe in the 1990s—for example, Russian Blue was brought to the United States in the 1980s. Because blues were visually novel, they became broadly popular, and breeders around the world produced blues of different depths—silver blue, powder blue (an ultra-pale blue), and more—adding to the appeal of fancy rats."
+        },
+
+        { "type": "heading", "level": 3, "text": "Red/Pink Eye" },
+        {
+          "type": "paragraph",
+          "text": "Red/Pink Eye: Very early in the fancy, red-eyed dilution variants appeared. Fawn rats were already being shown in the 1920s and were called Fawn Agouti."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1935, Fawn was included in the standard. Champagne appeared around the same period. In this sense, both red-eye and pink-eye mutations are very old coat-color variations and are common across rodents. Both were also used in laboratories to identify crosses and monitor inheritance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Red-eyed Fawn was sometimes called “Cinnamon,” but in the 1970s Britain also developed Mink and Cinnamon, leading to mixed terminology. Today, standards often use Amber for pink-eyed Agouti (Amber), while Fawn refers to red-eyed Agouti, to distinguish the two."
+        },
+
+        { "type": "heading", "level": 3, "text": "Siamese and Himalayan" },
+        {
+          "type": "paragraph",
+          "text": "Siamese and Himalayan: Siamese fancy rats originated in the UK. In the 1970s, British breeders repeatedly backcrossed within albino lines to produce rats resembling Siamese cats, and by the founding of the NFRS in 1976, Siamese was included among the lines being developed."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1983, AFRMA brought Siamese from the UK into the United States (afrma.org). The first Siamese were shown in the U.S. in 1984."
+        },
+        {
+          "type": "paragraph",
+          "text": "The gene underlying Siamese was identified as the c^h mutation. Early Siamese lines were pale and somewhat lacking in type; after improvement through outcrossing to local lines, Siamese became one of the most beloved colors in fancy rats today. Himalayan is a close counterpart of Siamese and has been verified as the phenotype produced by the combination of c^h and c. Some breeders further developed Burmese series (Bu gene) from Siamese, and on these foundations also selected new lines such as Ivory and deep-brown Siamese."
+        },
+
+        { "type": "heading", "level": 3, "text": "Rex" },
+        {
+          "type": "paragraph",
+          "text": "Rex: The origin of Rex in fancy rats is clear. In 1976, British geneticist Roy Robinson produced the first Rex rats in a laboratory. In the same year, the NFRS standardized the Rex line. Rex is a dominant gene with incomplete dominance: heterozygotes have curly, fluffy coats, while Double Rex can show near-hairless patches."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rex rats spread worldwide in the 1980s. Today there are also lines selected on top of Rex, such as denser, plushier Velveteen."
+        },
+
+        { "type": "heading", "level": 3, "text": "Dumbo" },
+        {
+          "type": "paragraph",
+          "text": "Dumbo: Dumbo ears are a striking morphological mutation in fancy rats. In 1991, a rat owner in California first discovered rats in their colony with ears set lower and to the side. Breeding them with other rats confirmed the trait was heritable by 1993, and it was called “Dumbo ears.” Dumbo is a simple autosomal recessive trait, and its gene symbol is often written as dmbo."
+        },
+
+        { "type": "heading", "level": 3, "text": "Hairless" },
+        {
+          "type": "paragraph",
+          "text": "Hairless: Hairless mutations have appeared independently multiple times. At early shows, the first “hairless” rats were actually Double Rex (Re/Re), which can look nearly hairless but still retain whiskers on the face and feet. Later, true recessive hairless mutations were introduced into fancy rat breeding in the 1980s–1990s—for example, a Fuzzy hairless mutation discovered at Charles River laboratories in 1998; a nude-rat mutation also appeared in Scotland in the 1950s."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hairlessness can be controlled by multiple genes. Some types are associated with thymus absence (as in nude rats used for immunology research), while others involve only skin hair loss. Regardless of type, breeding hairless rats is difficult: hairless females often cannot rear pups due to insufficient milk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore, breeders often use foster mothers, and they also alternate the introduction of furred rats to maintain vigor. Hairless rats tolerate temperature poorly and require warmth and humidity control; their skin is easily scraped and infected, so care demands are higher."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because both hairless and tailless traits affect normal quality of life to some extent (tails help with thermoregulation and balance; fur protects the skin, etc.), breeding these two lines is ethically controversial in some regions."
+        },
+
+        { "type": "heading", "level": 3, "text": "Tailless" },
+        {
+          "type": "paragraph",
+          "text": "Tailless: Tailless (Manx) mutations have also appeared multiple times, but establishing them is very difficult. The tailless allele is recessive lethal; heterozygotes show short tails or no tails. Tailless heterozygous females often suffer dystocia due to pelvic abnormalities, so breeding commonly uses tailless males crossed to tailed heterozygous females."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even so, tailless rats still show more health problems, such as incontinence and hind-limb mobility issues, because the absence of a tail often indicates defects in spinal and neural development."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the modern fancy, breeding tailless rats is viewed with caution or opposition because it significantly reduces quality of life."
+        },
+        {
+          "type": "paragraph",
+          "text": "A small number of successful tailless lines are said to have improved health through multi-generation selection, but overall, beginners are still not recommended to attempt breeding them."
         }
       ]
     }

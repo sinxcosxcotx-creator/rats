@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "eyebrow": "Science",
+    "title": "Diet & Nutrition: Choosing What to Feed",
+    "subtitle": "Why I don’t recommend domestic “rat pellets” at this stage, which imported pellets are relatively reliable, and what the Shunamite Diet mixing system actually means in practice.",
+    "buttons": [
+      { "text": "Back", "href": "/science", "variant": "ghost" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "diet-main",
+      "type": "rich-text",
+      "title": "",
+      "body": [
+        { "type": "heading", "level": 2, "text": "On choosing what to feed" },
+        {
+          "type": "paragraph",
+          "text": "At this stage, I do not recommend any form or brand of domestically produced “fancy rat pellets.” I truly hope that one day we will have a trustworthy, well-researched pellet designed specifically for rats—but realistically, we are not there yet."
+        },
+
+        { "type": "heading", "level": 2, "text": "Why I don’t recommend domestic rat pellets" },
+        {
+          "type": "paragraph",
+          "text": "In today’s pet food market, manufacturers conducting systematic research tailored to rats’ nutritional needs are extremely rare. Even when “nutrition analysis” is provided, it often remains at a very coarse level—such as crude protein and fat percentages."
+        },
+        {
+          "type": "paragraph",
+          "text": "What’s largely missing is a rat-specific breakdown: protein source structure (animal vs. plant proportions and amino-acid needs), essential fatty-acid composition, micronutrient/vitamin bioavailability, and the different requirements across life stages (juvenile, adult, senior, breeding)."
+        },
+
+        { "type": "heading", "level": 3, "text": "The cost reality: dedicated production is expensive—and the market is small" },
+        {
+          "type": "paragraph",
+          "text": "A more practical issue is the cost structure on the production side. Building a dedicated production line for exotic pets like rats requires significant investment. Meanwhile, overall welfare awareness and long-term willingness to spend time and money learning about rat nutrition are still limited. In this market environment, few companies will take on an investment that is very likely to lose money."
+        },
+
+        { "type": "heading", "level": 3, "text": "The common result: low-cost cat/dog solutions recycled as “rat pellets”" },
+        {
+          "type": "paragraph",
+          "text": "This leads to a common reality: many so-called “rat pellets” are produced on low-cost cat/dog food lines—or even based on older formulas that already struggle to meet modern cat/dog nutritional standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a product can’t reliably meet basic cat/dog nutrition, it is unlikely to suit rats—small mammals with faster metabolism and more complex dietary structures."
+        },
+
+        { "type": "heading", "level": 2, "text": "Are there any pellets I consider reliable?" },
+        { "type": "paragraph", "text": "Yes—but only a few." },
+
+        { "type": "heading", "level": 3, "text": "Imported pellets I currently recommend (well-established and long-verified)" },
+        {
+          "type": "paragraph",
+          "text": "At the moment, I only recommend a small set of imported, well-established products: Oxbow (juvenile/adult rat food), Science Selective (rat & mouse food), and Mazuri (rat & mouse diets). Beyond these, I do not recommend other pellet products."
+        },
+        {
+          "type": "paragraph",
+          "text": "It’s also worth noting: due to customs costs, import constraints, and sometimes grey-market supply, these products can be expensive. For multi-rat households or ratteries, this becomes a long-term and heavy expense."
+        },
+
+        { "type": "heading", "level": 2, "text": "Is there a more scientific—and more cost-effective—option?" },
+        { "type": "paragraph", "text": "Yes, and it is very mature—if you are willing to learn and do the work yourself." },
+
+        { "type": "heading", "level": 3, "text": "Shunamite Diet: not a “recipe,” but a flexible system" },
+        {
+          "type": "paragraph",
+          "text": "What I’m referring to is the globally adopted Shunamite Diet mixing approach, developed by Alison Campbell. It is not a simple fixed recipe, but a complete, adjustable dietary system with observation-based feedback."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alison compiled years of practical experience and cross-discipline discussion into the book “The New Scuttling Gourmet” (432 pages), which covers nearly all core topics in fancy rat nutrition."
+        },
+
+        { "type": "heading", "level": 3, "text": "What does this mean in practice for you?" },
+        {
+          "type": "paragraph",
+          "text": "Because it tells you how to choose ingredients, how to classify them scientifically, what volume ratios make sense across categories, how priorities shift across life stages and conditions, what behavior/coat/body changes may indicate, and even recommends ingredients for a “herbal mix” bowl—allowing some degree of self-regulation."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have time, I strongly recommend reading the original book. It helps you adjust ingredients and ratios based on real-life feedback rather than rigid experience-based assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you don’t have the bandwidth right now, you can still start with the essential mixing foundations in this site’s science section."
+        },
+
+        { "type": "heading", "level": 3, "text": "Cost: with proper understanding, you can keep it around ~20 RMB per jin" },
+        {
+          "type": "paragraph",
+          "text": "Once you truly understand the logic behind mixing, you can keep costs around ~20 RMB per jin even with diverse, reliable ingredients. In practice, 20 RMB per jin is already an expensive mixing cost—yet it can still be cheaper than most pellet options on the market under near “ideal” conditions."
+        },
+
+        { "type": "heading", "level": 2, "text": "A critical reminder: don’t turn Shunamite into a rigid formula" },
+        {
+          "type": "paragraph",
+          "text": "A common and dangerous pattern I’ve seen is people oversimplifying Alison’s approach into a fixed formula—e.g., “50% base + XX% protein.” This is not ideal."
+        },
+        {
+          "type": "paragraph",
+          "text": "The core of Shunamite is not a ratio formula, but a dynamic, adjustable system centered on the individual. It allows you to adjust ingredients and ratios based on age, health, activity, and breeding status—rather than being constrained by a formula that merely looks professional."
+        },
+
+        { "type": "heading", "level": 2, "text": "Does mixing have downsides?" },
+        {
+          "type": "paragraph",
+          "text": "Yes—quite a few. Unlike pellets, mixing cannot guarantee that every bite is nutritionally identical. Individuals will differ in how quickly they consume certain items and what they prefer."
+        },
+
+        { "type": "heading", "level": 3, "text": "How to reduce risk: offer enough diversity and lower reliance on any single item" },
+        {
+          "type": "paragraph",
+          "text": "But you can reduce this effect by offering sufficient ingredient diversity and lowering the weight of any single ingredient. This also reduces picky-eating and food-competition risks: if one item is missed, others can compensate."
+        },
+
+        { "type": "heading", "level": 3, "text": "A major added benefit: better feeding enrichment" },
+        {
+          "type": "paragraph",
+          "text": "More importantly, mixing dramatically improves feeding enrichment. Rats gain exploration and enjoyment from the act of eating—something no pellet format (including compressed “biscuit-style” diets) can provide."
+        },
+
+        { "type": "heading", "level": 2, "text": "Another real-world challenge: ingredient management cost" },
+        {
+          "type": "paragraph",
+          "text": "Following Alison’s mixing approach means you’ll keep many ingredient types on hand: multiple grains, multiple animal-protein sources, multiple plant-protein sources, and many other items."
+        },
+        {
+          "type": "paragraph",
+          "text": "These ingredients are rarely used up in a single batch, consumption rates differ, and spoilage risk exists. If you have only a few rats and low turnover, my advice is to find a reliable “group.”"
+        },
+
+        { "type": "heading", "level": 3, "text": "What is a “group”? Joint buying, joint mixing, less waste" },
+        {
+          "type": "paragraph",
+          "text": "This “group” can be a trusted rattery or responsible friends. You purchase together and mix together, so the food is consumed faster and waste is reduced."
+        },
+
+        { "type": "heading", "level": 3, "text": "One more note: mixing is labor-intensive and demands responsibility" },
+        {
+          "type": "paragraph",
+          "text": "Mixing is hard work: time-consuming and responsibility-heavy. If someone does it for you, please offer appropriate financial or emotional support. Counting only “ingredient cost” while ignoring the mixer’s effort is unfair."
+        }
+      ]
+    },
+
+    {
+      "id": "diet-links",
+      "type": "grid-cards",
+      "title": "Links",
+      "subtitle": "Official product pages for the imported pellets referenced above.",
+      "columns": 3,
+      "items": [
+        {
+          "title": "Oxbow Essentials Adult Rat Food",
+          "text": "Oxbow adult rat food",
+          "href": "https://oxbowanimalhealth.com/product/essentials-adult-rat-food/"
+        },
+        {
+          "title": "Science Selective Rat & Mouse Food",
+          "text": "Science Selective rat & mouse food",
+          "href": "https://supremepetfoods.com/products/science-selective-rat-mouse-food/"
+        },
+        {
+          "title": "Mazuri Rat & Mouse Diets",
+          "text": "Mazuri rat & mouse diets",
+          "href": "https://mazuri.com/products/mazuri-rat-mouse-diets"
+        }
+      ]
+    }
+  ]
+}

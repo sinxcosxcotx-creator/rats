@@ -69,6 +69,21 @@ const AppRouter = () => {
         element={<JSONPage pageKey="science/prepare" />}
       />
 
+      <Route
+        path={ROUTES.SCIENCE_DIET}
+        element={<JSONPage pageKey="science/diet" />}
+      />
+
+      <Route
+        path={ROUTES.SCIENCE_CHOOSE}
+        element={<JSONPage pageKey="science/choose" />}
+      />
+
+      <Route
+        path={ROUTES.SCIENCE_ORIGIN}
+        element={<JSONPage pageKey="science/origin" />}
+      />
+
       {/* 血线 */}
       <Route
         path={ROUTES.BLOODLINES}

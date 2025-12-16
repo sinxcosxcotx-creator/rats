@@ -19,7 +19,16 @@ export const ROUTES = {
   SCIENCE_CARE: '/science/care',
   SCIENCE_HEALTH: '/science/health',
   SCIENCE_PREPARE: "/science/prepare",
-  
+
+  // ✅ 已有：科普专题（饮食/营养）页面
+  SCIENCE_DIET: "/science/diet",
+
+  // ✅ 已有：科普专题（该挑哪种花枝鼠）
+  SCIENCE_CHOOSE: "/science/choose",
+
+  // ✅ 新增：科普专题（大鼠起源）
+  SCIENCE_ORIGIN: "/science/origin",
+
   BLOODLINES: '/bloodlines',
   ADOPTION: '/adoption',
   CONTACT: '/contact'

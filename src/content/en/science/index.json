@@ -1,12 +1,22 @@
 {
   "hero": {
-    "eyebrow": "Ratopia science",
-    "title": "Understanding rats beyond aesthetics",
-    "subtitle": "Good decisions come from good information. This section collects our notes on genetics, husbandry and health, written for pet keepers rather than scientists.",
+    "eyebrow": "Science",
+    "title": "More important than genes is whether you truly understand them",
+    "subtitle": "Here you'll find a collection of science notes—meant to help you better understand rat genetics, care, and health.",
     "buttons": [
       {
-        "text": "What you need to prepare before adopting",
+        "text": "What should you prepare before adoption?",
         "href": "/science/prepare",
+        "variant": "primary"
+      },
+      {
+        "text": "What should you feed?",
+        "href": "/science/diet",
+        "variant": "primary"
+      },
+      {
+        "text": "Which fancy rats should you choose?",
+        "href": "/science/choose",
         "variant": "primary"
       }
     ]
@@ -15,26 +25,28 @@
     {
       "id": "overview",
       "type": "grid-cards",
-      "title": "Browse topics",
-      "subtitle": "Each topic is kept practical and focused on what matters for real rats in real homes.",
+      "title": "Start with the in-depth topics here",
+      "subtitle": "Each topic aims to give as complete an explanation as possible within its own scope.",
       "columns": 3,
       "items": [
         {
-          "title": "Genetics basics",
-          "text": "How coat color, pattern and some health traits are inherited, and why genetics should be a tool, not the main goal.",
-          
+          "title": "Origins of Rats",
+          "text": "The natural origins and global spread of the brown rat",
+          "href": "/science/origin"
+        },
+        {
+          "title": "Genetics & Coat Color Basics",
+          "text": "How are colors and markings inherited? Why can some outcomes be predicted from pairings, while others can’t?",
           "href": "/science/genetics"
         },
         {
-          "title": "Care and enrichment",
-          "text": "Cage setup, diet, social structure, enrichment and handling that support both physical and mental welfare.",
-         
+          "title": "Daily Care & Environment",
+          "text": "Housing, bedding, diet, social structure, and enrichment—how these work together to shape a rat’s body and mind",
           "href": "/science/care"
         },
         {
-          "title": "Health and ageing",
-          "text": "Common health issues in pet rats, how to spot problems early, and what quality of life means for such a short-lived species.",
-          
+          "title": "Health, Aging, and Goodbye",
+          "text": "Common conditions, senior care, and how to tell the difference between “being alive” and “living without suffering”",
           "href": "/science/health"
         }
       ]

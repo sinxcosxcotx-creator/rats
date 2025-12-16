@@ -1,0 +1,221 @@
+{
+  "hero": {
+    "eyebrow": "Science",
+    "title": "Which Fancy Rat Should You Choose?",
+    "subtitle": "A structured guide to “breeds vs. varieties”, appearance types, sex, group size, and—most importantly—source.",
+    "buttons": [
+      { "text": "Back to Science", "href": "/science", "variant": "ghost" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "choose-main",
+      "type": "rich-text",
+      "title": "",
+      "body": [
+        { "type": "heading", "level": 2, "text": "What “type” of rat should you keep?" },
+        {
+          "type": "paragraph",
+          "text": "This may be different from what you expect: fancy rats do not really have a “Breeds” concept in the way dogs do."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Chinese, the word “种” can be quite ambiguous. I’m not sure if this analogy is perfectly accurate, but here’s one way to understand it: pet dogs all belong to Canis lupus familiaris (the domestic dog), which is one Species. Within pet dogs, humans have selectively bred for a long time and developed many different breeds (Breeds)."
+        },
+        {
+          "type": "paragraph",
+          "text": "These breeds (Breeds) are not only different in appearance; they also show stable heritable differences in temperament (Temperament), instincts (Instincts), intelligence (Intelligence), and abilities (e.g., herding, hunting, guarding). There is no reproductive isolation between breeds, but the differences are far beyond looks—they reflect deeper physiological and behavioral divergence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fancy rats do not have that kind of divergence. What we have are not different species (Species), and not different breeds (Breeds), but varieties (Varieties)—it may be more appropriate to think of these as “types”. Our pet rats belong to the species Rattus norvegicus (the brown rat, also called the Norway rat). More precisely, their scientific name is Rattus norvegicus domestica, indicating a domesticated form."
+        },
+        {
+          "type": "paragraph",
+          "text": "In dogs, if two individuals from different breeds (Breeds) mate, the offspring is still the same species (domestic dog), but it no longer belongs to either parental breed. For example, if a Border Collie and a Corgi have an accidental litter, you may get a mixed dog whose body and looks combine parental traits (not necessarily the best traits)."
+        },
+        {
+          "type": "paragraph",
+          "text": "In rats, even if you breed two rats with different appearances, you do not get a “mixed breed” concept in the same sense. That’s also why, as a fancy rat breeder, I’m not entirely sure whether I should call myself a “Breeder” (a term commonly used by pedigree dog/cat breeders), even though we may be doing similar work."
+        },
+
+        { "type": "heading", "level": 3, "text": "Fancy Rats and “Fanciers”" },
+        {
+          "type": "paragraph",
+          "text": "All pet rats are called Fancy Rats. Here, “Fancy” is simply used to distinguish domesticated pet rats from wild brown rats. They are the same species (Species)—one is wild, the other domesticated."
+        },
+        {
+          "type": "paragraph",
+          "text": "In other words, “Fancy” does not mean “fancy” in the modern sense; it primarily means “kept and bred in captivity.” The word “Fancy” (with a sense of “fondness / keeping”) is widely used across animal-keeping communities, often referring to breeding, keeping, and showing hobbies—so enthusiasts are called “Fanciers.”"
+        },
+
+        { "type": "heading", "level": 3, "text": "Varieties and the “Standard” default" },
+        {
+          "type": "paragraph",
+          "text": "Rat varieties can be described across several dimensions: color (Color), markings (Markings), eye color (Eye color), ear type (Ear type), coat type (Coat type), size (Size), and tail condition (Tail / Tailless). These traits can be combined freely, creating a huge number of combinations."
+        },
+        {
+          "type": "paragraph",
+          "text": "When you fully describe a rat’s variety (Variety), you typically list each of these traits. The exception is the “Standard” default: the widely accepted baseline when no special feature is mentioned."
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, what is often described in Chinese as “upright ears” and “straight coat” are actually both Standard. In more precise communication, people usually say Standard Ears and Standard Coat rather than adding redundant wording."
+        },
+        {
+          "type": "paragraph",
+          "text": "To describe a rat’s variety properly, you should consider all seven categories. If a specific trait isn’t mentioned, it is assumed to be the standard default. For example: if you don’t explicitly say “dumbo,” it’s assumed to be top-eared; Siamese are standard red-eyed, and if a Siamese carries a black-eye gene, it should be explicitly described as a black-eyed Siamese."
+        },
+
+        { "type": "heading", "level": 3, "text": "An important warning about naming" },
+        {
+          "type": "paragraph",
+          "text": "Please do not invent new variety names casually. In responsible fancy-rat breeding, making up names should be strongly discouraged. It harms the development of the community: it often serves marketing (“rare colors”), or reflects a seller’s lack of knowledge and unwillingness to learn genetics and standard terminology."
+        },
+        {
+          "type": "paragraph",
+          "text": "A good standard should help the community breed healthier rats: it clarifies genetic traits and helps prevent important genes from being confused or lost."
+        },
+        {
+          "type": "paragraph",
+          "text": "In short: fancy rats have no breeds (Breeds)—only varieties (Varieties). Understanding and using correct terminology helps us communicate and breed more professionally."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next, we’ll start from appearance differences (ear type, coat color, markings, eye color, coat type), then explain male vs. female differences, and add important notes on “pets as gifts” and “children and waiting.”"
+        },
+
+        { "type": "heading", "level": 2, "text": "Ear type (Ear type)" },
+        {
+          "type": "paragraph",
+          "text": "Rats have only two ear types: top-eared (top ear) or dumbo. There is no such thing as “half dumbo,” and there is no third option."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dumbo rats are not fundamentally different from top-eared rats beyond ear placement. Dumbo rats do not live longer, are not friendlier, are not bigger, and are not smarter or dumber."
+        },
+        {
+          "type": "paragraph",
+          "text": "The only difference that seems more commonly seen is that during play-fighting or disputes, dumbo ears may be more prone to tearing."
+        },
+
+        { "type": "heading", "level": 2, "text": "Coat colour (Coat colour)" },
+        {
+          "type": "paragraph",
+          "text": "All rat coat colors can be grouped into two major base categories: agouti-based or self-based. Agouti is the “brown banded” look many people associate with wild rats, where each hair often has multiple bands and the belly is lighter; self-based coats are more uniform, solid colors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Any specific color variety can be understood as an agouti-based or self-based rat plus additional genes that modify how color is expressed. Common examples include Siamese, Russian blue, Topaz, Champagne, Burmese, Marten, and more."
+        },
+        {
+          "type": "paragraph",
+          "text": "To avoid confusion, in this article I use “self” as “self-based (solid base)” when talking about base categories, and when talking about whether a rat has white markings, I will write “no white markings (self)” explicitly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some appearance types require extra caution because they may be associated with health issues. For example, British blue and Topaz may involve clotting-related problems. That’s why it’s important to choose a reliable source and a breeder who proactively explains and monitors these risks."
+        },
+
+        { "type": "heading", "level": 2, "text": "Coat type (Coat type)" },
+        {
+          "type": "paragraph",
+          "text": "Common coat types include standard/smooth coat (smooth / standard coat) and rex. Rex rats have curly or wavy fur (including whiskers). Occasionally they may be slightly more prone to mild skin-related issues, but it usually does not affect quality of life."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some less common coat types also exist, such as Silken, satin, and velvet. At present, there is no clear evidence that these types are associated with specific health problems."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, two coat-related types should be avoided: Harley and hairless. They are linked to significant health concerns and are widely considered unethical to breed within reputable international fancy-rat communities."
+        },
+
+        { "type": "heading", "level": 2, "text": "Markings / white spotting (Markings)" },
+        {
+          "type": "paragraph",
+          "text": "All markings are, in essence, white markings layered on top of a base color. There are no “other-colored markings.” Marking examples include socks, Irish, Berkshire, capped, Chinchilla, and more."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roan (also called “husky” in some places) is a marking type that often fades with age. Many roans may become almost entirely white as adults, and this should be clearly explained before adoption."
+        },
+        {
+          "type": "paragraph",
+          "text": "Only one marking type is clearly associated with health issues: white markings extending to the ears, which is linked to deafness and audiogenic seizures. No reputable breeder will intentionally breed for this pattern."
+        },
+
+        { "type": "heading", "level": 2, "text": "Dwarf rats (Dwarf rats)" },
+        {
+          "type": "paragraph",
+          "text": "Dwarf rats are a relatively newer type, and only a small number of reputable breeders are working on them. Be cautious of cases where “undersized standard rats” or nutritionally stunted rats are mislabeled as dwarfs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dwarf rats cannot safely cohabit with standard-sized rats, because the size difference can turn what seems like a minor dispute into a life-threatening injury for the dwarf."
+        },
+
+        { "type": "heading", "level": 2, "text": "Eye colour (Eye colour)" },
+        {
+          "type": "paragraph",
+          "text": "Rats have three eye colors: black, red (ruby), and pink. Eye color has little to do with temperament; pink-eyed rats may have slightly poorer vision, but it is usually not a major issue."
+        },
+        {
+          "type": "paragraph",
+          "text": "So-called “blue-eyed rats” are usually a misunderstanding of a bluish tint in the sclera; it is not a rare type."
+        },
+
+        { "type": "heading", "level": 2, "text": "Which appearance type is best for me?" },
+        {
+          "type": "paragraph",
+          "text": "This is a difficult—and almost meaningless—question. Compared with appearance, a rat’s source has a much larger impact on what truly matters: health, temperament, and long-term stability."
+        },
+        {
+          "type": "paragraph",
+          "text": "For first-time owners, it’s better to prioritize ethical, reliable breeders or reputable rescue channels rather than setting strict appearance requirements. If you do have a specific “dream type,” that’s fine too—just be prepared to wait longer."
+        },
+
+        { "type": "heading", "level": 2, "text": "Males or females?" },
+        {
+          "type": "paragraph",
+          "text": "Differences between breeders’ lines can be larger than the overall male–female difference. Generally, males tend to be larger and slower, while females tend to be smaller and more active—but individual differences are very obvious."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you keep only one group, keep a single sex. Mating can happen in about 2 seconds, so never allow intact opposite-sex rats to have contact under any circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are also some differences in common health issues: males more often show hormone-related aggression and HLD; females more often have pituitary tumors, mammary lumps, and uterine infections."
+        },
+
+        { "type": "heading", "level": 2, "text": "How many should I keep?" },
+        {
+          "type": "paragraph",
+          "text": "Rats are highly social animals. Scientific research clearly shows that singly housed rats suffer significant anxiety, depression, and stress. Keeping a rat alone is a form of animal abuse."
+        },
+        {
+          "type": "paragraph",
+          "text": "At minimum, rats must be kept in pairs. For beginners, the most ideal start is three same-age youngsters: group dynamics are better, and it reduces the risk of being forced into an urgent “lonely rat” situation too early."
+        },
+
+        { "type": "heading", "level": 2, "text": "Children and waiting" },
+        {
+          "type": "paragraph",
+          "text": "Waiting for rats from a reputable breeder can be a valuable educational process for children—learning responsibility and respect for life. Buying “available immediately” rats from backyard breeders teaches the wrong values."
+        },
+
+        { "type": "heading", "level": 2, "text": "Rats as gifts" },
+        {
+          "type": "paragraph",
+          "text": "Rats should not be given as surprise gifts. A better alternative is to buy the cage and accessories for birthdays or holidays, let children participate in the preparation, and avoid forcing newly arrived youngsters to endure intense holiday noise and handling."
+        },
+
+        {
+          "type": "paragraph",
+          "text": "Appearance types do not determine personality—source does. Avoid hairless (Hairless) and tailless (Tailless). Start with at least two; ideally three to four, and plan group expansion in advance."
+        }
+      ]
+    }
+  ]
+}

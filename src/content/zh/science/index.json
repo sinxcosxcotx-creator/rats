@@ -5,8 +5,18 @@
     "subtitle": "这里整理了一些科普知识，希望这些内容能帮助你更好地理解老鼠的遗传、护理与健康。",
     "buttons": [  
       {
-        "text": "领养之前，你需要准备什么",
+        "text": "领养前，你需要准备什么？",
         "href": "/science/prepare",
+        "variant": "primary"
+      },
+      {
+        "text": "该喂食什么粮食？",
+        "href": "/science/diet",
+        "variant": "primary"
+      },
+      {
+        "text": "该选择哪种花枝鼠？",
+        "href": "/science/choose",
         "variant": "primary"
       }
     ]
@@ -20,25 +30,26 @@
       "columns": 3,
       "items": [
         {
+          "title": "大鼠起源",
+          "text": "褐家鼠的自然起源与扩散",
+          "href": "/science/origin"
+        },
+        {
           "title": "遗传与花色基础",
           "text": "颜色、花纹是怎么遗传的？为什么有些东西可以通过配对算出来，有些则不行？",
           "href": "/science/genetics"
         },
         {
           "title": "日常照顾与环境",
-          "text": "笼舍、铺垫、饮食、社交结构和丰富环境，这些东西如何一起影响老鼠的身心状态。",
+          "text": "笼舍、铺垫、饮食、社交结构和丰富环境，这些东西如何一起影响老鼠的身心状态",
           "href": "/science/care"
         },
         {
           "title": "健康、老去与告别",
-          "text": "常见疾病、老年期的照护，以及如何判断“活着”和“活得不痛苦”之间的差别。",
-          "href": "/science/health"
-        },
-        {
-          "title": "健康、老去与告别",
-          "text": "常见疾病、老年期的照护，以及如何判断“活着”和“活得不痛苦”之间的差别。",
+          "text": "常见疾病、老年期的照护，以及如何判断“活着”和“活得不痛苦”之间的差别",
           "href": "/science/health"
         }
+
       ]
     }
   ]
