@@ -7,17 +7,17 @@
       {
         "text": "领养前，你需要准备什么？",
         "href": "/science/prepare",
-        "variant": "primary"
+        "variant": "ghost"
       },
       {
         "text": "该喂食什么粮食？",
         "href": "/science/diet",
-        "variant": "primary"
+        "variant": "ghost"
       },
       {
         "text": "该选择哪种花枝鼠？",
         "href": "/science/choose",
-        "variant": "primary"
+        "variant": "ghost"
       }
     ]
   },

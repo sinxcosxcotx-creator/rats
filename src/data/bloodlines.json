@@ -8,6 +8,7 @@
     "focusTraits": ["Stable temperament", "Blue variety", "Respiratory robustness"],
     "notes": "Selected for outgoing but not hyper personalities, with a focus on clean respiratory histories and tidy coat condition."
   },
+
   {
     "id": "rr-temperament-line",
     "name": "RR-Temperament Line",
@@ -17,6 +18,7 @@
     "focusTraits": ["Human-focus", "Low reactivity"],
     "notes": "This line is built around rats that actively seek human interaction and recover quickly from stress, with an emphasis on low startle response."
   },
+
   {
     "id": "rr-temperament-line",
     "name": "RR-Temperament Line",
@@ -26,6 +28,7 @@
     "focusTraits": ["Human-focus", "Low reactivity"],
     "notes": "This line is built around rats that actively seek human interaction and recover quickly from stress, with an emphasis on low startle response."
   },
+
   {
     "id": "rr-temperament-line",
     "name": "RR-Temperament Line",
@@ -35,4 +38,5 @@
     "focusTraits": ["Human-focus", "Low reactivity"],
     "notes": "This line is built around rats that actively seek human interaction and recover quickly from stress, with an emphasis on low startle response."
   }
+
 ]

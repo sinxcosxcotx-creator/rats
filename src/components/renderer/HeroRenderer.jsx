@@ -6,6 +6,13 @@
 import React from 'react';
 import Button from '@components/ui/Button';
 
+const isFileLike = (url = '') => {
+  const s = String(url).toLowerCase();
+  return s.endsWith('.pdf') || s.endsWith('.doc') || s.endsWith('.docx');
+};
+
+const isExternal = (url = '') => /^https?:\/\//i.test(String(url));
+
 const HeroRenderer = ({ data }) => {
   const {
     eyebrow,
@@ -44,15 +51,36 @@ const HeroRenderer = ({ data }) => {
 
           {buttons.length > 0 && (
             <div className="flex flex-wrap gap-3">
-              {buttons.map((btn, idx) => (
-                <Button
-                  key={idx}
-                  variant={btn.variant || 'primary'}
-                  to={btn.href}
-                >
-                  {btn.text}
-                </Button>
-              ))}
+              {buttons.map((btn, idx) => {
+                const url = btn.href;
+
+                // 1) 外链或文件：用 <a href=...>
+                if (isExternal(url) || isFileLike(url)) {
+                  return (
+                    <Button
+                      key={idx}
+                      variant={btn.variant || 'primary'}
+                      href={url}
+                      download={!!btn.download}
+                      target={btn.target}
+                      rel={btn.rel}
+                    >
+                      {btn.text}
+                    </Button>
+                  );
+                }
+
+                // 2) 站内：用 <Link to=...>
+                return (
+                  <Button
+                    key={idx}
+                    variant={btn.variant || 'primary'}
+                    to={url}
+                  >
+                    {btn.text}
+                  </Button>
+                );
+              })}
             </div>
           )}
         </div>

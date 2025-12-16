@@ -48,7 +48,7 @@
 
         {
           "type": "paragraph",
-          "text": "截至目前，我仅推荐以下几款成熟、长期被验证的进口合成粮：Oxbow（爱宝）幼年 / 成年花枝鼠粮、Science Selective（至尊三角）花枝鼠粮、Mazuri（马祖瑞）花枝鼠粮。除此之外，暂无其他推荐。"
+          "text": "截至目前，我仅推荐以下几款成熟、长期被验证的进口合成粮：Oxbow（爱宝）幼年 / 成年花枝鼠粮、Science Selective（至尊三角）花枝鼠粮、Mazuri（马祖瑞）花枝鼠粮、澳洲蓝莓粮、比利时凡赛尔花枝鼠粮。除此之外，暂无其他推荐。"
         },
         {
           "type": "paragraph",
@@ -153,7 +153,18 @@
           "title": "Mazuri Rat & Mouse Diets",
           "text": "Mazuri（马祖瑞）花枝鼠粮系列",
           "href": "https://mazuri.com/products/mazuri-rat-mouse-diets"
+        },
+        {
+          "title": "Rodent Origins",
+          "text": "澳洲蓝莓风味花枝鼠粮",
+          "href": "https://vetafarm.com.au/product/rodent-origins/"
+        },
+        {
+          "title": "Versele-laga complete rat & mouse",
+          "text": "比利时凡赛尔花枝鼠粮",
+          "href": "https://www.versele-laga.com/en/vl/complete/products/complete-ratmouse"
         }
+
       ]
     }
   ]

@@ -1,53 +1,79 @@
 {
   "hero": {
     "eyebrow": "Adoption",
-    "title": "Rats currently looking for homes",
-    "subtitle": "We only list rats that are ready or nearly ready to leave. Some may be held longer for evaluation.",
+    "title": "Rats Currently Available or Soon to Be Available for Adoption",
+    "subtitle": "To avoid excessive maintenance and frequent updates, this section presents a selection of rats from Ratopia who have already moved on to their new homes, along with some shared photos from their adopters. Detailed adoption announcements will be released on other social media platforms. If you are interested in adoption, please read our Philosophy and Science pages first, then complete the Ratopia Adoption Agreement.",
     "buttons": [
       {
-        "text": "Read our philosophy",
+        "text": "Learn About Our Philosophy First",
         "href": "/philosophy",
         "variant": "ghost"
       },
       {
-        "text": "What to prepare before adopting",
+        "text": "What You Should Know Before Adoption",
         "href": "/science",
         "variant": "ghost"
       },
       {
-        "text": "Learn about our bloodlines",
+        "text": "Explore Our Bloodlines",
         "href": "/bloodlines",
         "variant": "ghost"
+      },
+      {
+        "text": "View the Adoption Agreement (PDF)",
+        "href": "/adopt/adoption-agreement.pdf",
+        "variant": "ghost",
+        "download": true
+      },
+      {
+        "text": "Fill Out the Adoption Agreement (Word)",
+        "href": "/adopt/adoption-agreement.docx",
+        "variant": "ghost",
+        "download": true
       }
     ]
   },
   "sections": [
     {
-      "id": "available",
-      "type": "mouse-grid",
-      "title": "Available and reserved rats",
-      "subtitle": "Details such as temperament and background can be discussed further by message.",
-      "columns": 2
-    },
-    {
       "id": "adoption-notes",
       "type": "rich-text",
-      "title": "Before you apply",
+      "title": "Before You Formally Apply for Adoption, You Should:",
       "body": [
         {
           "type": "paragraph",
-          "text": "We prefer to place rats in pairs or compatible groups unless there is a strong reason otherwise. Single rats are only placed into existing groups or under special circumstances."
+          "text": "Please complete the required personal information and send the document to my email address (listed on the Contact page). This is a key part of the adoption review process. Before the adoption is finalized, the agreement will be explained in detail and formally signed. The adoption process is relatively involved, so please take the agreement seriously. Thank you for your cooperation."
+        },
+        {
+          "type": "paragraph",
+          "text": "I strongly prefer to place rats in pairs or small groups rather than adopting them out individually. This has two main benefits: first, they can integrate into a new environment together and reduce the risk of being bullied by an existing group; if integration fails, they can still rely on each other for companionship. Second, it significantly reduces the likelihood of single housing, which is fundamentally harmful. If you decide to adopt from us, please be fully aware of and accept this principle."
         },
         {
           "type": "list",
           "style": "bullet",
           "items": [
-            "Please be prepared to share information about your housing, diet and previous experience.",
-            "It is okay if you are new, as long as you are willing to learn.",
-            "We reserve the right to decline placements that we feel are not a good fit."
+            "Do you have any intention of becoming an ethical breeder in the future? If so, feel free to elaborate—like-minded individuals are always welcome to collaborate.",
+            "Do you accept our breeding philosophy, including practices such as controlled inbreeding and culling (as discussed in our Philosophy and Science sections)?",
+            "Are you willing to accept pet transportation? At Ratopia’s current stage, rats are not sold; adopters only cover necessary transportation fees and material costs.",
+            "Are you comfortable with pups leaving the rattery at 6–8 weeks of age? This period is necessary for adequate socialization and for evaluating future breeding candidates.",
+            "What is your current setup (cage, bedding, diet, and time availability)? Are you willing to make adjustments if needed?",
+            "Are you willing to provide ongoing care updates and feedback? This is very important for the rattery, and your cooperation is essential.",
+            "Is there a reliable and financially accessible veterinary clinic or veterinarian near the rats’ future living environment?",
+            "Are you prepared for their relatively short lifespan and the increased care required during their senior stage?",
+            "..."
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If at any point I feel that a particular adoption may not be a good fit, please do not be discouraged. This is not a judgment of you as a person, but rather an assessment of whether you and the rats are suited to each other in this specific case. You are always welcome to apply again after improving the environment or gaining additional knowledge."
         }
       ]
+    },
+    {
+      "id": "available",
+      "type": "mouse-grid",
+      "title": "Rats Who Have Graduated from Ratopia",
+      "subtitle": "Each rat is a life companion to their caretaker. Below are a few snapshots from their everyday lives.",
+      "columns": 2
     }
   ]
 }

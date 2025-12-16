@@ -7,17 +7,17 @@
       {
         "text": "What should you prepare before adoption?",
         "href": "/science/prepare",
-        "variant": "primary"
+        "variant": "ghost"
       },
       {
         "text": "What should you feed?",
         "href": "/science/diet",
-        "variant": "primary"
+        "variant": "ghost"
       },
       {
         "text": "Which fancy rats should you choose?",
         "href": "/science/choose",
-        "variant": "primary"
+        "variant": "ghost"
       }
     ]
   },
