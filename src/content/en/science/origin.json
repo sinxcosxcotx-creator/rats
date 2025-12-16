@@ -26,7 +26,7 @@
         },
 
         { "type": "heading", "level": 3, "text": "II. Species Origins and Global Spread of Laboratory Rats" },
-        { "type": "heading", "level": 4, "text": "1. The Natural Origins of the Brown Rat" },
+        { "type": "heading", "level": 5, "text": "The Natural Origins of the Brown Rat" },
         {
           "type": "paragraph",
           "text": "Although early documentation of the brown rat (Rattus norvegicus) is incomplete, there is broad academic consensus regarding its origin and dispersal route. The species is native to temperate regions of Asia, with a range spanning China and Mongolia. As human civilizations expanded, the brown rat—highly adapted to living alongside human settlements—spread rapidly and ultimately achieved a global distribution."
@@ -42,7 +42,7 @@
         },
 
         { "type": "heading", "level": 3, "text": "III. From Wild Pest to Captive Keeping: The Historical Background of Early Domestication" },
-        { "type": "heading", "level": 4, "text": "1. Albino Mutations and Rat-Baiting Culture" },
+        { "type": "heading", "level": 5, "text": "Albino Mutations and Rat-Baiting Culture" },
         {
           "type": "paragraph",
           "text": "The entry of the brown rat into captive-keeping systems likely began with the capture of albino individuals. From the late 18th century to the mid-19th century, “rat-baiting” was popular in France, England, and later in the Americas."
@@ -61,7 +61,7 @@
         },
 
         { "type": "heading", "level": 3, "text": "IV. The Birth of Laboratory Rats: Early Scientific Practice in the 19th Century" },
-        { "type": "heading", "level": 4, "text": "Early Attempts in Europe" },
+        { "type": "heading", "level": 5, "text": "Early Attempts in Europe" },
         {
           "type": "paragraph",
           "text": "Regardless of the precise details, the brown rat can be regarded as the first mammal in human history to be systematically domesticated primarily for scientific research purposes. Before 1850, Europe had already seen sporadic attempts to use rats in nutrition experiments. In 1856, Philipeaux published the first adrenalectomy experiments in albino rats, marking the formal starting point of laboratory-rat research."
@@ -72,7 +72,7 @@
         },
 
         { "type": "heading", "level": 3, "text": "V. Foundations of the American Laboratory Rat System" },
-        { "type": "heading", "level": 4, "text": "Donaldson and Meyer: A Convergence of Key Figures" },
+        { "type": "heading", "level": 5, "text": "Donaldson and Meyer: A Convergence of Key Figures" },
         {
           "type": "paragraph",
           "text": "In the 1890s, the Department of Neurology at the University of Chicago began using albino rats systematically for neuroanatomical research. The Swiss neuropathologist Adolf Meyer brought albino rats from the University of Geneva to the United States and successfully persuaded H. H. Donaldson to adopt them as a model for neurological research."
@@ -124,7 +124,7 @@
           "text": "Donaldson began his academic career at Yale University and later earned his PhD at Johns Hopkins University. His early work spanned multiple institutions in Europe and the United States, and ultimately crystallized in his 1895 book “The Growth of the Brain.” From 1892 to 1906 he taught at the University of Chicago, during which time he suffered lifelong disability due to tuberculosis of the hip. In 1906, at Greenman’s invitation, Donaldson became the scientific director at the Wistar Institute and also served as a professor of neurology at the University of Pennsylvania."
         },
 
-        { "type": "heading", "level": 4, "text": "Scientific Justification for Albino Rats as a Research Model" },
+        { "type": "heading", "level": 5, "text": "Scientific Justification for Albino Rats as a Research Model" },
         {
           "type": "paragraph",
           "text": "Donaldson brought four pairs of albino rats from Chicago to the Wistar Institute. Inspired by Adolf Meyer, he became convinced that albino rats were an ideal model for studying growth and neural development. He therefore assembled an interdisciplinary team and launched a systematic research program."
@@ -151,7 +151,7 @@
           "text": "Together, these studies formed the foundational framework for research on growth and development in laboratory rats."
         },
 
-        { "type": "heading", "level": 4, "text": "The Milestone Significance of the Book “The Rat”" },
+        { "type": "heading", "level": 5, "text": "The Milestone Significance of the Book “The Rat”" },
         {
           "type": "paragraph",
           "text": "Donaldson published nearly a hundred papers during his lifetime. His landmark work, “The Rat: Data and Reference Tables for the Albino Rat and the Norway Rat,” was first published in 1915 and reissued in 1924. The second edition spans 469 pages and includes 212 data tables, 72 figures, and more than 2,050 references, making it the most comprehensive compilation of rat research literature prior to 1930."
@@ -162,7 +162,7 @@
         },
 
         { "type": "heading", "level": 3, "text": "IX. The Continuation of the Donaldson School: The Birth of Inbred Lines and Strain Formation" },
-        { "type": "heading", "level": 4, "text": "1. Helen Dean King and Inbred Rats" },
+        { "type": "heading", "level": 5, "text": "1. Helen Dean King and Inbred Rats" },
         {
           "type": "paragraph",
           "text": "Before Donaldson’s death, his students, assistants, and colleagues had already published more than 360 papers on rats. One especially important figure was Helen Dean King (1869–1955). From 1907 to 1949, she worked at the Wistar Institute and was among the most productive scientists in the history of laboratory rats."
@@ -200,7 +200,6 @@
           "text": "His students Karl Lashley and Curt Paul Richter continued and expanded this tradition. From 1919 to 1977, Richter conducted long-term research on rats’ spontaneous activity, biological rhythms, stress, nutritional choice, and domestication. His laboratory published around 250 papers and became an important origin of psychobiology."
         },
 
-        { "type": "paragraph", "text": "⸻" },
 
         { "type": "heading", "level": 3, "text": "XII. Nutrition and Biochemistry: A Disciplinary Revolution Driven by Rats" },
         {
