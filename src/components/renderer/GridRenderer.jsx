@@ -6,7 +6,6 @@
 import React from 'react';
 
 const GridRenderer = ({ columns = 2, children }) => {
-  // 简单根据 columns 设置不同的 grid 类
   const gridColsClass =
     columns === 1
       ? 'grid-cols-1'
@@ -15,7 +14,8 @@ const GridRenderer = ({ columns = 2, children }) => {
       : 'grid-cols-1 md:grid-cols-2 lg:grid-cols-3';
 
   return (
-    <div className={`grid ${gridColsClass} gap-4 md:gap-6`}>
+    // ✅ 目录胶囊更好看：gap 稍微收紧
+    <div className={`grid ${gridColsClass} gap-3 md:gap-4`}>
       {children}
     </div>
   );

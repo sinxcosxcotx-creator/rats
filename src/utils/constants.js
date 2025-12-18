@@ -26,8 +26,18 @@ export const ROUTES = {
   // ✅ 已有：科普专题（该挑哪种花枝鼠）
   SCIENCE_CHOOSE: "/science/choose",
 
-  // ✅ 新增：科普专题（大鼠起源）
+  // ✅ 已有：科普专题（大鼠起源）
   SCIENCE_ORIGIN: "/science/origin",
+
+  // ✅ 已有：科普专题（大鼠个体行为观察 / 大鼠群体行为观察）
+  // 注意：按你的要求，这里不使用 "-" 连字符
+  SCIENCE_BEHAVIOR_INDIVIDUAL: "/science/behaviorindividual",
+  SCIENCE_BEHAVIOR_GROUP: "/science/behaviorgroup",
+
+  // ✅ 新增：科普专题（老鼠啃咬 / 老鼠合笼）
+  // 注意：按你的要求，这里不使用 "-" 连字符
+  SCIENCE_BITING: "/science/biting",
+  SCIENCE_INTRODUCTIONS: "/science/introductions",
 
   BLOODLINES: '/bloodlines',
   ADOPTION: '/adoption',

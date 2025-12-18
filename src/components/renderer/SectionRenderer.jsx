@@ -9,10 +9,13 @@ import BlockRenderer from './BlockRenderer';
 const SectionRenderer = ({ data }) => {
   if (!data) return null;
 
-  const { title, subtitle, type } = data;
+  const { id, title, subtitle } = data;
 
   return (
-    <section className="max-w-content mx-auto px-4 md:px-6 lg:px-8">
+    <section
+      id={id || undefined}
+      className="max-w-content mx-auto px-4 md:px-6 lg:px-8 scroll-mt-24"
+    >
       {/* 文字头部 */}
       {(title || subtitle) && (
         <header className="mb-6 md:mb-8">

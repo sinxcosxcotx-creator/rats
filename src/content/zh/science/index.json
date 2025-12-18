@@ -1,9 +1,11 @@
 {
   "hero": {
     "eyebrow": "鼠舍科普",
-    "title": "比基因更重要的，是你真的了解他们",
-    "subtitle": "这里整理了一些科普知识，希望这些内容能帮助你更好地理解老鼠的遗传、护理与健康。",
-    "buttons": [  
+    "title": "饲养过程中，你需要知道哪些知识内容？",
+    "subtitle": "以下整理了一些科普内容，形式内容多样，部分内容翻整理翻译自Pet Rat Care by、Isamu Rat Care、Ratguide、American Fancy Rat & Mouse Association、National Fancy Rat Society、The New Scuttling Gourmet、Once upon a Mischief、Rat Variety Guide等书籍、网站、鼠舍、机构。因内容整合以及语言转化，行文过程中会时参考自身以及不同主页内容，最终形成中文版终稿，无法精确在文章中指出引用内容，有需求的朋友可以在文末查看对应原文链接。",
+    "backgroundImage": "/home/rat-daily2.jpg",
+
+    "buttons": [
       {
         "text": "领养前，你需要准备什么？",
         "href": "/science/prepare",
@@ -31,21 +33,41 @@
       "items": [
         {
           "title": "大鼠起源",
-          "text": "褐家鼠的自然起源与扩散",
+          "text": "褐家鼠的自然起源、发展过程与以及实验大鼠对人类科研历史中的伟大贡献",
           "href": "/science/origin"
         },
         {
-          "title": "遗传与花色基础",
-          "text": "颜色、花纹是怎么遗传的？为什么有些东西可以通过配对算出来，有些则不行？",
+          "title": "大鼠个体行为",
+          "text": "大鼠在日常生活中的自我表现观察指南，帮助你更好判断他们动作的含义",
+          "href": "/science/behaviorindividual"
+        },
+        {
+          "title": "大鼠群体行为",
+          "text": "大鼠在日常生活中作为群体而言都会有哪些动作表现，这些意味着什么？",
+          "href": "/science/behaviorgroup"
+        },
+        {
+          "title": "老鼠做出“叼”“咬”的动作分类",
+          "text": "大鼠在与人的互动中或多或少会使用牙齿进行一些互动，但根本逻辑并不一定不相同",
+          "href": "/science/biting"
+        },
+        {
+          "title": "合笼：新成员到家如何与老成员会面？",
+          "text": "合笼是大鼠作为宠物而言，一生中非常重要（同时压力最大）的时刻，作为主人应该怎么做？",
+          "href": "/science/introductions"
+        },
+        {
+          "title": "大鼠遗传与花色基础",
+          "text": "介绍基础的遗传学概念以及大鼠一些常见花色、花纹等突变历史，方便你了解花枝相关类型的遗传规律以及历史溯源",
           "href": "/science/genetics"
         },
         {
-          "title": "日常照顾与环境",
+          "title": "大鼠日常护理",
           "text": "笼舍、铺垫、饮食、社交结构和丰富环境，这些东西如何一起影响老鼠的身心状态",
           "href": "/science/care"
         },
         {
-          "title": "健康、老去与告别",
+          "title": "健康与疾病，我们该如何告别",
           "text": "常见疾病、老年期的照护，以及如何判断“活着”和“活得不痛苦”之间的差别",
           "href": "/science/health"
         }

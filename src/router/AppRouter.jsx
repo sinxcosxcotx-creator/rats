@@ -5,7 +5,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import JSONPage from '@pages/JSONPage';
-import NotFound from '@pages/NotFound'; // 👈 新增
+import NotFound from '@pages/NotFound'; // 👈 自定义 404
 import { ROUTES } from '@utils/constants';
 import useScrollToTop from '@utils/useScrollToTop';
 
@@ -16,10 +16,7 @@ const AppRouter = () => {
   return (
     <Routes>
       {/* 主页：内容来自 src/content/home.json */}
-      <Route
-        path={ROUTES.HOME}
-        element={<JSONPage pageKey="home" />}
-      />
+      <Route path={ROUTES.HOME} element={<JSONPage pageKey="home" />} />
 
       {/* 鼠舍理念：src/content/philosophy/index.json */}
       <Route
@@ -84,12 +81,31 @@ const AppRouter = () => {
         element={<JSONPage pageKey="science/origin" />}
       />
 
+      {/* 已有：行为专题 */}
+      <Route
+        path={ROUTES.SCIENCE_BEHAVIOR_INDIVIDUAL}
+        element={<JSONPage pageKey="science/behaviorindividual" />}
+      />
+      <Route
+        path={ROUTES.SCIENCE_BEHAVIOR_GROUP}
+        element={<JSONPage pageKey="science/behaviorgroup" />}
+      />
+
+      {/* ✅ 新增：老鼠啃咬 / 老鼠合笼 */}
+      <Route
+        path={ROUTES.SCIENCE_BITING}
+        element={<JSONPage pageKey="science/biting" />}
+      />
+      <Route
+        path={ROUTES.SCIENCE_INTRODUCTIONS}
+        element={<JSONPage pageKey="science/introductions" />}
+      />
+
       {/* 血线 */}
       <Route
         path={ROUTES.BLOODLINES}
         element={<JSONPage pageKey="bloodlines" />}
       />
-
 
       {/* 待领养 */}
       <Route

@@ -1,0 +1,431 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Science",
+    "title": "Introductions",
+    "subtitle": "From “on edge” to “inseparable”: how to safely and smoothly integrate a new rat into an existing group",
+    "buttons": [
+      {
+        "text": "Back to Science Index",
+        "href": "/science",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "toc",
+      "type": "grid-cards",
+      "title": "Quick Navigation",
+      "subtitle": "",
+      "columns": 3,
+      "items": [
+        { "title": "Why are introductions difficult?", "text": "What should you pay attention to during introductions?", "href": "#sectionA" },
+        { "title": "The four stages of introductions", "text": "What does a successful introduction typically go through?", "href": "#sectionB" },
+        { "title": "What to consider before you start", "text": "Which factors can affect the introduction process?", "href": "#sectionC" },
+        { "title": "Overview of four methods", "text": "What introduction methods can you use?", "href": "#sectionD" },
+        { "title": "Carrier / Small-Space Method", "text": "The most widely used method", "href": "#sectionE" },
+        { "title": "Neutral-Space Method", "text": "A predecessor to the carrier method", "href": "#sectionF" },
+        { "title": "High-Supervision Method", "text": "You control the pace and keep the situation stable", "href": "#sectionG" },
+        { "title": "Cage-Swap Method", "text": "Stricter requirements and narrower applicability", "href": "#sectionH" }
+      ]
+    },
+
+    {
+      "id": "sectionA",
+      "type": "rich-text",
+      "title": "Why introductions are difficult",
+      "subtitle": "Understanding stress and group order",
+      "body": [
+        { "type": "heading", "level": 3, "text": "From “on edge” to “inseparable”: how to safely and smoothly integrate a new rat into an existing group" },
+        { "type": "paragraph", "text": "Introductions are among the most stressful events in a rat’s life—on the same tier as losing a close companion, major colony conflict, or severe illness. Yet if we want rats to live stably with companions, introductions are often unavoidable. As their human partners, what we can do is reduce stress as much as possible and make the transition smoother." },
+        { "type": "paragraph", "text": "Rats rely heavily on stable group order. Wild colonies often have complex family structures and clear hierarchies; individuals excluded from that system or isolated by the group may “break down.” There are even records of otherwise healthy rats appearing to “die of loneliness” after being rejected. Fancy rats usually do not reach such extremes, but the principle still holds: a stable group tends to make rats healthier and happier. Even rats with strong adaptability can find changes in hierarchy or environment extremely taxing. Understanding what happens during introductions helps you choose a more suitable method." }
+      ]
+    },
+    {
+      "id": "back_sectionA",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    },
+
+    {
+      "id": "sectionB",
+      "type": "rich-text",
+      "title": "The four stages of introductions",
+      "subtitle": "",
+      "body": [
+        { "type": "heading", "level": 3, "text": "Four stages a successful introduction usually goes through" },
+        { "type": "paragraph", "text": "A successful introduction usually follows several key stages in order. The process is surprisingly similar to how human teams form:" },
+
+        { "type": "heading", "level": 3, "text": "1) First contact" },
+        { "type": "paragraph", "text": "Rats first learn about each other through scent. Urine and body odor carry an enormous amount of information—one brief sniff can reveal dominance tendencies, health status, what the other ate, where they’ve been, and more. At this stage you’ll see lots of sniffing at urine marks and each other’s bodies; some may lick a small amount of urine to gather more information. Social pressure is not usually very high yet—more curiosity—but it quickly moves into the next stage." },
+
+        { "type": "heading", "level": 3, "text": "2) Establishing order" },
+        { "type": "paragraph", "text": "This is when the new hierarchy and rules are established. For rats, rank within the group nearly defines their “identity,” what resources they can access, and how they will navigate group life going forward. They figure out who not to mess with, who they can push a little, and who they can rely on under stress. This stage often includes standoffs, fights, and forcing submission—the goal is to confirm “who is stronger.” It is also the highest-stress, highest-risk part of the entire introduction. Ideally it should be kept as short as possible, and you should minimize injury risk throughout." },
+
+        { "type": "paragraph", "text": "Most introduction methods fall into two broad approaches:" },
+        { "type": "paragraph", "text": "Either reduce the intensity of daily social stress—often making the process longer;" },
+        { "type": "paragraph", "text": "Or allow higher pressure for a shorter time to reach stability quickly—trading short-term stress for long-term calm, reducing total exposure." },
+
+        { "type": "heading", "level": 3, "text": "3) Adjustment" },
+        { "type": "paragraph", "text": "The group begins running normally, major conflict drops sharply, but tension can still be present. Most issues are minor skirmishes—often the higher-ranking rat reminding others to “follow the rules,” or a lower-ranking rat testing boundaries. You may see them start sleeping together, but often still clustered by original sub-groups (newcomers with newcomers, old residents with old residents), or they may all pile together without being especially “sweet.” The essence of this stage is adapting to a new normal: learning each other’s body language and the group’s communication “habits/dialect.” That’s why related rats or rats raised together often integrate faster—their scents are closer, and behavior patterns more similar. Stress is lower than in the hierarchy stage, but overall stress (including for existing members) is still higher than usual." },
+
+        { "type": "heading", "level": 3, "text": "4) Stability" },
+        { "type": "paragraph", "text": "Eventually the group becomes a real “family.” The cage runs more smoothly, rats are more confident, and they can move freely between different cuddle piles—beyond the old “fixed” best-friend cliques—leading to a more relaxed and happier atmosphere. This stability often lasts a long time until something disrupts the hierarchy again, such as illness, a sudden challenge to the top rat, or the loss of a cage mate." }
+      ]
+    },
+    {
+      "id": "back_sectionB",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    },
+
+    {
+      "id": "sectionC",
+      "type": "rich-text",
+      "title": "What to consider before you start",
+      "subtitle": "",
+      "body": [
+        { "type": "heading", "level": 3, "text": "What should you consider before choosing an introduction strategy?" },
+        { "type": "paragraph", "text": "To reduce stress, you generally have two paths: shorten the total process, or lower the intensity of stress in each session. Which is better depends on the rats you have—age, sex, hormone levels, past experiences, confidence, temperament, health status, and the current group’s size and dynamics can all make the “best method” very different." },
+
+        { "type": "heading", "level": 3, "text": "Age" },
+        { "type": "paragraph", "text": "Age is especially critical for buck introductions. Before about 13–14 weeks, a young buck’s scent is noticeably different from an adult’s. As the coat becomes coarser and thicker and the rat becomes more “male,” body odor changes—this is a sign testosterone is coming online. Even humans can smell the difference (juveniles smell lighter/milkier; adult bucks often smell earthier/stronger); to rats with sensitive noses, it’s extremely obvious." },
+        { "type": "paragraph", "text": "Before this “scent boundary,” adult bucks usually don’t treat juveniles as a serious threat—they’re more likely to teach them “you’re at the bottom.” Juveniles also tend to submit more readily, so things are often calm. Does may sometimes show similar behavior and even seem to “mother” youngsters, but they’re less predictable unless they’re naturally very maternal. Juvenile-to-juvenile introductions (both under ~12–14 weeks) are usually the easiest and may take only minutes." },
+        { "type": "paragraph", "text": "Be cautious with very small or fragile juveniles: introductions can be rough. Adults can tolerate that stress more easily, but juveniles are more likely to get hurt. Generally, introducing rats younger than ~7–8 weeks is not recommended. They should also be physically robust enough; as a rough reference, try not to introduce buck juveniles far below ~200g, or doe juveniles far below ~175g. This gives them the physical “margin” to handle pulling and stress. This also matches the rattery’s “graduation timing” and “graduation requirements”: juveniles do not leave the rattery before six weeks of age; and rattery rats are only adopted in pairs or larger groups. For juveniles, this is both more humane and also reduces real-world risks during introductions, including bloodshed." },
+        { "type": "paragraph", "text": "Senior rats (especially bucks) often lose interest in “cage politics” and power displays as they age—linked to testosterone decline and reduced activity—often making introductions easier. But also consider: seniors are more fragile, more easily injured, and may be more vulnerable to stress." },
+
+        { "type": "heading", "level": 3, "text": "Sex" },
+        { "type": "paragraph", "text": "Bucks and does often differ in how they approach newcomers, largely because their “priority systems” differ:" },
+        { "type": "paragraph", "text": "Bucks care more about dominance and hierarchy position, so “locking in my place” matters a lot (not necessarily aiming for the top), which makes their behavior more rule-like and predictable;" },
+        { "type": "paragraph", "text": "Does also have hierarchy, but it is often more about resource allocation; individual temperament plays a larger role, so the process can be smoother—but also more unpredictable, including cases of “they just don’t click,” leading to isolation or rejection." },
+        { "type": "paragraph", "text": "So does sometimes allow more flexible strategy adjustments; bucks often benefit from clarifying rank sooner rather than later." },
+
+        { "type": "heading", "level": 3, "text": "Hormone levels" },
+        { "type": "paragraph", "text": "Bucks often have higher hormone levels around ~6–12 months (sometimes earlier or later depending on bloodline). You may see increasing assertiveness, greasier coats, more dramatic dominance behavior, or even aggression toward rats or humans. Most bucks are just a bit moody in adolescence and settle down. But during higher-hormone periods, they can be especially focused on “I need to be on top and everyone must acknowledge it,” making introductions harder." },
+        { "type": "paragraph", "text": "As bucks age, hormones tend to stabilize and gradually decline. However, a sudden shift in group hierarchy (e.g., a dominant alpha dies or becomes ill) can trigger a “replacement” surge. If the group is otherwise stable and there is no obvious conflict, you may not need to delay introductions. But if the group is already unstable due to rank disputes, it’s usually not recommended to add a newcomer at that time." },
+        { "type": "paragraph", "text": "Does have hormonal fluctuations on an estrus cycle of roughly 4–5 days, and begin cycling from around ~6 weeks. Timing introductions around estrus can be very helpful, especially if progress is stuck: estrus can strongly shift group dynamics and act as a powerful “attention diversion,” because the whole group may focus on the doe in heat and mounting may become more common. For particularly difficult does, you can try starting introductions during estrus (common signs include ear fluttering, arched back posture, and the classic lordosis response when the back/rump is touched)." },
+        { "type": "paragraph", "text": "Doe-to-doe introductions can also trigger partial or full “synchronized estrus,” so short-term “group chaos” is not uncommon." },
+        { "type": "paragraph", "text": "If a doe’s hormones are out of control (e.g., ovarian issues) and aggression keeps rising, that’s not normal estrus. Consider a spay evaluation before introductions because conditions like ovarian cysts may be involved. Also note: pregnant does, and bucks shortly after mating, may have more intense hormonal effects—avoid these periods when possible." },
+
+        { "type": "heading", "level": 3, "text": "Past experience (socialization and territoriality)" },
+        { "type": "paragraph", "text": "Rats that have never lived with other rats, or have been housed alone long-term (especially isolated during youth), are much harder to introduce. Rat social communication is complex: body language, behavior patterns, scent, and ultrasonic sounds we can’t hear. Different groups also develop “dialect” differences. Rats lacking that experience often misread signals, and others misread them. If possible, let such a rat live for a while with one or two exceptionally patient, tolerant rats to help it “relearn how to be a rat,” and then merge into a larger group later. Observing their behavior in a small setting also helps you predict whether larger introductions will be problematic." },
+        { "type": "paragraph", "text": "Another major variable is territoriality. It may come from early negative experiences, or be learned and reinforced later (e.g., when a juvenile shows aggression and the owner removes the “trigger,” effectively rewarding the behavior). For individuals with strong cage territoriality, it’s not suitable to drop them straight into a tight space without knowing both sides well—the carrier method can be very dangerous in that scenario. Often it’s safer to reduce territoriality first, such as considering neutering (more commonly effective for bucks), or gradually correcting the behavior through training and management. That said, some highly territorial rats become calmer in a smaller space because there is less territory to control; if you are confident they will not cause harm, the carrier method may still be worth trying." },
+
+        { "type": "heading", "level": 3, "text": "Confidence level" },
+        { "type": "paragraph", "text": "In introductions, the least confident rat is often the one most likely to create trouble: it tends to “overdo it” in conflict to prove strength. Learning to identify such individuals in a group can be very valuable. Practically, you can introduce enough confident rats first (including a confident alpha), then introduce the less confident individual later. Confident members often intervene when true bullying (as distinct from normal rank friction) occurs, and can stabilize the situation faster." },
+        { "type": "paragraph", "text": "A newcomer who is both insecure and wants to be alpha can also be very difficult: they refuse to submit but don’t truly dare to challenge the leader, creating a long standoff. Common signs include screaming, standing upright on hind legs, and using the rump to shove others away. In such deadlocks, increasing “environmental novelty” can sometimes break the pattern—e.g., taking them for a short walk in a carrier, or a brief car ride. Unfamiliar smells and movement can divert attention and loosen the standoff, though it’s not a permanent solution." },
+
+        { "type": "heading", "level": 3, "text": "Individual temperament" },
+        { "type": "paragraph", "text": "Temperament can make or break introductions—this is part of what makes rats so fascinating. Does are especially influenced by personality; their likes and dislikes can have more complex emotional causes. Knowing how your rats normally interact helps you predict what might help and what might backfire. But don’t be surprised if they behave differently during their first introduction than in daily life—introduction stress is far from their baseline. After each rat has gone through one introduction, you’ll usually understand their future reaction patterns much better, including what helps and what worsens things." },
+
+        { "type": "heading", "level": 3, "text": "Health" },
+        { "type": "paragraph", "text": "Introducing weak or sick rats requires extra caution: stress can significantly reduce resistance to infection and disease. Your top priority should be controlling stress. If a rat has a mild chronic condition that worsens under stress, you can sometimes provide medical support during the introduction and, while maintaining safety, aim to finish the process sooner. Also consider stamina and opponent selection: a very frail rat facing energetic young rats may find a tight-space method too intense. By contrast, introducing two older, low-energy rats is often smoother no matter the method." },
+        { "type": "paragraph", "text": "Also remember: a long, drawn-out introduction isn’t always “gentler.” For some individuals, prolonged uncertainty is more torturous. You need to balance what they can tolerate: a short, intense stressor vs. many smaller stressors over time. In extreme cases—if a rat is very ill—you may need to choose not to introduce at all, or be extremely selective about future companions." },
+
+        { "type": "heading", "level": 3, "text": "Existing group size and dynamics" },
+        { "type": "paragraph", "text": "Many people assume bigger groups are harder to introduce into, but in reality they can be easier: a newcomer may be “intimidated” by a large lineup and submit sooner; larger groups may also be more accustomed to members coming and going, so overall stress shifts less." },
+        { "type": "paragraph", "text": "However, for rats that have lived alone for a long time, a big group can backfire—starting with a small subgroup and then merging may be better (still temperament-dependent). Group dynamics matter a lot: stable groups absorb newcomers more easily; unstable groups are more prone to bloodshed or accidents. If the original group is already under high stress, adding a newcomer can push stress to another peak. Stressed rats—like stressed humans—can react more extremely to the same stimuli, making serious conflict and accidents more likely. A safer approach is to wait for the group to stabilize before introducing a new member." }
+      ]
+    },
+    {
+      "id": "back_sectionC",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    },
+
+    {
+      "id": "sectionD",
+      "type": "rich-text",
+      "title": "Overview of four introduction methods",
+      "subtitle": "",
+      "body": [
+        { "type": "heading", "level": 3, "text": "Four common introduction methods" },
+
+        { "type": "heading", "level": 3, "text": "1) Carrier method (very common)" },
+        { "type": "paragraph", "text": "Start in a small neutral space, or go straight into a clean, tight space (e.g., a carrier) and stay there until the group stabilizes. Once each step looks safe and stable, gradually expand the space and add furnishings in stages, finally transitioning to the main cage. The typical rule is: once they’re together, don’t separate again unless there is blood. This method works very well in the vast majority of cases." },
+
+        { "type": "heading", "level": 3, "text": "2) Neutral-space method" },
+        { "type": "paragraph", "text": "Let the rats meet on neutral territory (a place unfamiliar to every rat). Allow mild friction, but interrupt or separate fights that may cause injury. After some time together, separate them and return each group to their original cages. Repeat multiple times until they stop caring about each other or begin to interact positively. Then move to a thoroughly cleaned cage and repeat, or if progress is smooth, move straight to cohabitation." },
+
+        { "type": "heading", "level": 3, "text": "3) High-supervision method" },
+        { "type": "paragraph", "text": "Build contact in a medium-size neutral space with close supervision throughout. Even minor aggression or roughness is promptly interrupted; the rest of the time is normal interaction and increased human presence. After they’ve spent most of a day out together—able to relax, sleep, and interact calmly—transition into the carrier method, or move straight into a larger neutral cage." },
+
+        { "type": "heading", "level": 3, "text": "4) Cage-swap method" },
+        { "type": "paragraph", "text": "Usually used as a preparatory step before the neutral-space method. First place the two cages near each other, but not so close that they can bite through the bars, so they can get used to each other’s scent. Then swap them into each other’s cages for a period. You can swap back again, or move directly into the neutral-space method depending on results." }
+      ]
+    },
+    {
+      "id": "back_sectionD",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    },
+
+    {
+      "id": "sectionE",
+      "type": "rich-text",
+      "title": "Carrier / Small-Space Method",
+      "subtitle": "",
+      "body": [
+        { "type": "heading", "level": 3, "text": "Carrier / Small-Space Method" },
+
+        { "type": "heading", "level": 3, "text": "What is this method?" },
+        { "type": "paragraph", "text": "The core idea is: at the beginning, either put the rats directly into a small, relatively enclosed space, or start with a brief meeting in a small neutral area (like a sofa or tabletop) so you can more clearly observe the earliest progress. Then move them into an empty, very tight space—small enough that they must stay close and can hardly avoid each other." },
+        { "type": "paragraph", "text": "Once you see each step is clearly stable and sufficiently relaxed, expand the enclosure in stages and gradually add furnishings, until they can coexist calmly in a larger space. A common rule is: once they’re together, don’t separate again unless there is clear, serious injury." },
+        { "type": "paragraph", "text": "Some minor “rank-setting” friction is allowed; if there is obvious aggression or violent fighting, you should try to interrupt, and only consider separating if interruption fails." },
+
+        { "type": "heading", "level": 3, "text": "Why it works" },
+        { "type": "paragraph", "text": "The smaller the space, the less territory there is to “claim/defend,” so dominance behavior usually doesn’t have to escalate to extremes. At the same time, they can’t keep avoiding each other, so rank issues are often “negotiated” faster." },
+        { "type": "paragraph", "text": "A small space also means fewer opportunities for high-speed chases, which lowers injury risk—many introduction injuries happen when one rat tries to flee and gets caught." },
+        { "type": "paragraph", "text": "The core philosophy is to clarify hierarchy within a controlled range as quickly as possible, shortening the time spent under high stress." },
+
+        { "type": "heading", "level": 3, "text": "Advantages" },
+        { "type": "paragraph", "text": "This is a relatively high-intensity introduction style, but it is usually faster than other methods. It is especially suitable for bucks and for individuals clearly driven by rank. Outside of the situations listed below, it works in most scenarios and is often a good first-choice starting point." },
+
+        { "type": "heading", "level": 3, "text": "Limitations and risks" },
+        { "type": "paragraph", "text": "It most often gets stuck in a few types of cases:" },
+        { "type": "paragraph", "text": "Strongly aggressive individuals or rats with heavy territoriality may injure others during the introduction;" },
+        { "type": "paragraph", "text": "The group includes a very weak/sick rat, while the other side includes energetic, clumsy companions;" },
+        { "type": "paragraph", "text": "The whole group is highly conflict-avoidant—unwilling to truly settle rank, yet also not progressing toward friendliness—leading to a prolonged stalemate;" },
+        { "type": "paragraph", "text": "Some rats that have lived alone for a long time have rusty social “language” and may need strategy adjustments." },
+        { "type": "paragraph", "text": "Also: be extremely cautious in hot weather, especially with poorly ventilated carriers or acrylic hamster-style enclosures. Rats (especially adult bucks) can overheat; in severe cases it can be fatal." },
+
+        { "type": "heading", "level": 3, "text": "Tips and cautions" },
+        { "type": "paragraph", "text": "At this stage, it helps to scatter food evenly across the carrier or other small introduction space. It encourages them to move and weave around each other; this often supports bonding better than guarding a single food bowl." },
+        { "type": "paragraph", "text": "Depending on how long the process lasts, avoid large free-roam time—especially don’t let them run freely in a very large area. If the introduction is longer but stable, short daily sessions in a small neutral area are usually fine." },
+        { "type": "paragraph", "text": "Before moving into the main cage and reaching solid stability, avoid enclosed hides (like ceramic houses or enclosed “space pods”), and avoid tubes. Dead corners can trap a rat, trigger excessive defense, and even escalate into serious conflict." },
+        { "type": "paragraph", "text": "If you get clearly stuck in the smallest space, you can take the carrier/small cage to a completely unfamiliar-smelling place (a short car ride, outdoors if weather permits, or even a friend’s home). Novelty can divert attention and sometimes encourages them to “band together” against the outside world." },
+        { "type": "paragraph", "text": "Some combinations do worse when starting in a neutral space; going straight into a carrier may fit better." },
+
+        { "type": "heading", "level": 3, "text": "How to do it (steps)" },
+
+        { "type": "heading", "level": 3, "text": "1) Prepare small spaces in different “tiers”" },
+        { "type": "paragraph", "text": "Ideally prepare several transition spaces in different sizes so you can step up gradually, and if needed, “skip a tier” or “go back one step.” Choose sizes based on group size and difficulty:" },
+        { "type": "paragraph", "text": "A practical minimum baseline: the starting space should at least allow the rats to lie down fully, with a bit of floor still visible. This isn’t a hard rule, just a useful reference." },
+        { "type": "paragraph", "text": "The starting space can be completely clean with no resident or newcomer scent; or you can leave a little scent from an expected “dominant” individual so they feel safer and calmer. But note: some rats become more defensive once they see the space as “theirs,” so you’ll need to judge based on behavior." },
+        { "type": "paragraph", "text": "Keep the space as empty as possible: besides water and bedding (ideally two water sources), add nothing else. You can scatter a small amount of food on the floor to divert attention, but don’t use a food bowl and don’t add hammocks or other furniture. Use your usual bedding or litter; towels/fleece are not recommended because fabric can be used as cover." },
+        { "type": "paragraph", "text": "Prepare a spray bottle or towel for interruption. Unless you are experienced and willing to be bitten (sometimes badly), do not separate a fight with bare hands—rats in a fight won’t realize “it’s you,” and may bite hard out of fear or rage." },
+
+        { "type": "heading", "level": 3, "text": "2) (Optional) Start in a small neutral area" },
+        { "type": "paragraph", "text": "Whether you need this depends on the situation:" },
+        { "type": "paragraph", "text": "If you judge the introduction will be very easy (e.g., related juveniles joining an adult group), it’s usually unnecessary;" },
+        { "type": "paragraph", "text": "If you worry a rat may suddenly “explode” in a larger space, this step may also be unsuitable." },
+        { "type": "paragraph", "text": "The value of this step is giving you time to “read” their state (assuming you know what to watch for)." },
+        { "type": "paragraph", "text": "If you do it: take the carrier and rats to a room where they don’t usually free-roam, set up a small, rat-safe neutral area (tabletop, sofa, bed, or a towel-lined bathtub), and place the rats there. If you have a confident, dominant alpha, it’s often best to let the alpha and the newcomer go first. After things stabilize, add the gentlest rat from the group, then add others one by one in your expected order from “easiest → hardest.” This reduces the chance of overwhelming the newcomer, and because the alpha accepts the newcomer early, the alpha may mediate later if another rat goes too far." },
+        { "type": "paragraph", "text": "If you skip this step, go straight to the next one." },
+
+        { "type": "heading", "level": 3, "text": "3) Choose the location and reserve enough time" },
+        { "type": "paragraph", "text": "If you expect things won’t be too tense, you can do it in their usual room. If it may be tricky, choose a more unfamiliar environment (a friend’s home, a room they rarely enter, near an open window for ventilation in hot weather, etc.)." },
+        { "type": "paragraph", "text": "For smooth introductions, you usually don’t need to over-stage every step. But if you’re unsure, moving step-by-step is safer. At the start you should be able to supervise for at least a few hours, and over the next few days, avoid leaving for long periods." },
+
+        { "type": "heading", "level": 3, "text": "4) Into the carrier/cage, adjust flexibly based on behavior" },
+        { "type": "paragraph", "text": "Place the rats into the carrier/small cage. Typically place the newcomer first, then add one or two rats you trust most; or, depending on stress levels, place everyone in at once. Close the door, but don’t latch it so tightly that you can’t open quickly if needed." },
+        { "type": "paragraph", "text": "At first they may freeze, look confused, or hesitate; then sniffing quickly increases. Two common paths follow:" },
+
+        { "type": "heading", "level": 3, "text": "A. Tension escalates clearly (everyone goes on alert)" },
+        { "type": "paragraph", "text": "One or two may puff up, “huff,” stomp, lower the head, and stand sideways to look larger and more dangerous. This often means a real fight is close—watch closely." },
+        { "type": "paragraph", "text": "If they fight like a “tornado in a parking lot,” you can spray a bit of water, or make a sharp sound nearby/on top of the carrier to “snap” them out of attack mode. Often that stops it. If not, you may need to cover with a towel or remove the most aroused individual." },
+        { "type": "paragraph", "text": "If a rat stays highly aroused and repeatedly postures (not including normal light pinning/grooming, or slight puffing while crouched in a corner), you can try removing it carefully (use a towel/gloves if needed), give it a firm petting/hold to help it come down from the “overheated” state, and redirect attention." },
+        { "type": "paragraph", "text": "If puffing and intense arousal persist, consider stepping down to a smaller tier (if appropriate). You can also redirect attention with mild carrier movement, carrying them around, a short car ride, or taking them somewhere with very unfamiliar smells (in spring/summer when it’s not too hot, a shaded outdoor spot may help)." },
+
+        { "type": "heading", "level": 3, "text": "B. Low intensity" },
+        { "type": "paragraph", "text": "They may simply focus on sniffing; or a larger/higher-ranking rat may flip and pin others (sometimes with mild puffing). This level of pressure is usually normal rank-setting, especially when adults are “educating” bouncy juveniles (e.g., a juvenile has no manners and jumps onto a resident). Unless it clearly escalates into violent fighting, interfere as little as possible." },
+        { "type": "paragraph", "text": "You may also see defensive/standoff postures: a rat that feels threatened (often after being “disciplined”) backs into a corner, stands upright or sits up, bares teeth, holds forepaws forward, screams, and warns off others. If the other rats aren’t puffed up or visibly angry, you can usually leave it—this posture can’t be sustained long and will gradually soften. Gentle distraction can also help it end sooner." },
+
+        { "type": "heading", "level": 3, "text": "Injuries: when to continue and when to pause" },
+        { "type": "paragraph", "text": "Injuries can happen at this stage or later. Whether to pause/stop depends on severity and behavior. The most common are:" },
+        { "type": "paragraph", "text": "A tuft of fur pulled out (usually not a concern);" },
+        { "type": "paragraph", "text": "Or small tears/scratches." },
+        { "type": "paragraph", "text": "Rat teeth are sharp, so wounds can look dramatic—skin split open, muscle visible, or an ear torn. But rats heal fast; in most cases, clean and monitor." },
+        { "type": "paragraph", "text": "Unless:" },
+        { "type": "paragraph", "text": "Bleeding is heavy and doesn’t stop within a few minutes;" },
+        { "type": "paragraph", "text": "Or there is “severe tissue exposure,” such as an accidental bite to the scrotum with tissue protrusion." },
+        { "type": "paragraph", "text": "These require urgent handling and at minimum a pause in introductions for the injured individual." },
+        { "type": "paragraph", "text": "If there are multiple wounds or deep punctures (high abscess risk), stop introductions immediately and consider neutering the aggressor." },
+        { "type": "paragraph", "text": "Also watch for stress worsening existing illness, especially in seniors or already-unwell rats. If you see a clear decline or flare-up, you may need to pause, resume after recovery, or switch strategies." },
+
+        { "type": "heading", "level": 3, "text": "5) Once stable, let them process on their own for a while" },
+        { "type": "paragraph", "text": "When things cool down and they start sleeping in a pile, let them maintain that state without frequent disturbance. Stay within earshot, but it’s better to leave the room—rats can sense your tension, and that often makes things worse." },
+        { "type": "paragraph", "text": "It’s not recommended to keep them in your bedroom overnight for “stakeout.” It may feel reassuring, but poor sleep will impair your judgment later. If this stage is truly violent, you should separate and reassess anyway." },
+        { "type": "paragraph", "text": "“Stakeout” usually works less well than letting them stabilize without an anxious audience. Rats rely heavily on scent communication and also read signals of calm from you." },
+        { "type": "paragraph", "text": "They may “argue again” occasionally. If you hear squeaks or banging, check in—but unless it’s truly serious, don’t separate. Over the next day or two, the established dominant rats often “set the rules” a few more times before things truly settle. This stage may end in an hour or last several days—variation is huge. In hot weather or very stuck cases, you may need to rethink the approach." },
+
+        { "type": "heading", "level": 3, "text": "6) Move to a larger space" },
+        { "type": "paragraph", "text": "The standard for moving up is clear relaxation around each other. A cuddle pile is a useful indicator, but if some rats still tiptoe around others while awake, you may need more time." },
+        { "type": "paragraph", "text": "After stability for at least a few hours in the current tier, you can consider moving up. The new space should still be “minimal”: bedding plus at least two water sources, nothing else at first. Bring some bedding from the previous carrier tier into the new space so it carries the scent of “we already established order here,” which helps transitions." },
+        { "type": "paragraph", "text": "Space expansion can sometimes reignite tension (or they may barely care and go right back to sleep). Try to upgrade when you can watch for about an hour—often the highest-risk window. If they can’t settle, don’t be afraid to step back down. Once the initial wave passes, you should leave the room; hovering increases stress." },
+
+        { "type": "heading", "level": 3, "text": "7) Add furnishings gradually, at this group’s pace" },
+        { "type": "paragraph", "text": "After they’ve spent time in the larger tier and clearly relaxed again, you can try adding a hammock that is open on all sides. In some groups, one or two individuals may become restless from lack of exercise; you can consider adding a very large wheel to burn energy. But a wheel can also become a hiding spot and create new issues—if conflicts appear, be ready to remove it." },
+        { "type": "paragraph", "text": "From there, whether you add more items step-by-step, fully furnish the cage, or move into the final main cage depends on their behavior:" },
+        { "type": "paragraph", "text": "If the whole process has had almost no “flare-ups,” moving straight to a fully furnished main cage may be fine;" },
+        { "type": "paragraph", "text": "If every change triggers tension, you need a slower, more granular progression with enough time between steps for stability." },
+        { "type": "paragraph", "text": "There is no single correct answer—adjust as you go. You can step back, or skip certain steps to test. The key is monitoring their tension levels with each other." }
+      ]
+    },
+    {
+      "id": "back_sectionE",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    },
+
+    {
+      "id": "sectionF",
+      "type": "rich-text",
+      "title": "Neutral-Space Method",
+      "subtitle": "",
+      "body": [
+        { "type": "heading", "level": 3, "text": "Neutral-Space Method" },
+
+        { "type": "heading", "level": 3, "text": "What is this method?" },
+        { "type": "paragraph", "text": "Let the rats meet on truly neutral ground—somewhere no one has “home turf.” In some cases, rats themselves are further “neutralized”: for example, dabbing a little medicated oil (menthol-type scent) on each rat to mask their individual odors so they smell more similar." },
+        { "type": "paragraph", "text": "Most of the time, low-intensity friction is allowed. But as soon as fighting may cause injury, you must interrupt, and if necessary, separate. After they spend time together, separate them and return them to their original cages. Repeat multiple times until they stop caring about each other, or can already coexist peacefully. Then move them into a thoroughly cleaned cage with little “sense of ownership” and continue similarly; if progress is excellent, you can also move straight to cohabitation." },
+
+        { "type": "heading", "level": 3, "text": "Why it works" },
+        { "type": "paragraph", "text": "Because the meeting space belongs to no one, rats usually have less impulse to “defend territory,” so conflict intensity is often lower. Repeated short meetings can gradually build familiarity while trying to prevent direct escalation. Since every rat is in the same situation, it’s a more “equal” starting point." },
+        { "type": "paragraph", "text": "If all rats smell more alike (e.g., via scent masking), the newcomer is less likely to be immediately “singled out by smell,” which can make some combinations easier." },
+
+        { "type": "heading", "level": 3, "text": "Advantages" },
+        { "type": "paragraph", "text": "For rats that aren’t as driven by rank and colony power, this can be a gentler method. It may also be better for weak, sick, or mobility-limited rats, because it allows higher-intensity care and faster intervention when needed." },
+
+        { "type": "heading", "level": 3, "text": "Limitations and risks" },
+        { "type": "paragraph", "text": "Masking a rat’s natural odor can sometimes do the opposite—triggering some rats to “prove themselves,” especially insecure individuals who become more sensitive and overstimulated. Unless you truly need it, it’s generally not recommended to start with scent masking." },
+        { "type": "paragraph", "text": "Also, the key mechanic here is “meet repeatedly—then separate.” In some combinations, this causes stress to accumulate over time, especially in buck groups (though it’s individual-dependent). The rats learn “the other is always there,” yet never get the chance to truly resolve rank. For some rats, this unresolved tension becomes increasingly irritating, making each meeting harder. If each meeting becomes more tense and less controllable, stop this method and switch strategies." },
+        { "type": "paragraph", "text": "A practical issue is that it usually takes longer overall. If a rat has chronic illness that is clearly stress-sensitive, a faster method may be preferable, with antibiotics or other medication support when needed." },
+
+        { "type": "heading", "level": 3, "text": "Tips and cautions" },
+        { "type": "paragraph", "text": "In a neutral space, you can hide a little food in advance and place interesting but non-enclosed objects to help distract. You can scatter food, but avoid using a single small food dish (unless it’s large enough for everyone to eat together). Also avoid tossing in just a few “so delicious the rats’ heads wobble” treats—those are easy to fight over." },
+        { "type": "paragraph", "text": "If the first meeting goes very well, you can sometimes consider moving directly into the carrier method instead of separating again." },
+        { "type": "paragraph", "text": "If you don’t want to use menthol/peppermint masking, another approach is bathing all rats together: this changes their scents and also puts them through a shared stress event before introductions, bringing them into a more similar “state,” sometimes reducing excessive dominance displays. In most cases, though, neither is strictly necessary." },
+        { "type": "paragraph", "text": "In some situations, standing too close can make rats treat the human as a resource worth guarding. So unless you need to intervene, step back a little and observe." },
+
+        { "type": "heading", "level": 3, "text": "How to do it" },
+
+        { "type": "heading", "level": 3, "text": "1) Set up the neutral space and start the first contact" },
+        { "type": "paragraph", "text": "Prepare two carriers (or two cages) to hold the two groups separately, and have a towel or spray bottle ready just in case." },
+        { "type": "paragraph", "text": "Choose a neutral area: ideally big enough to explore, but not so large they can completely avoid each other. Common options include: a tabletop or sofa in an unfamiliar room, a bed covered with a large blanket, or even a bathtub (line the bottom with a towel—slippery surfaces can scare rats)." },
+        { "type": "paragraph", "text": "Add some “open” items like rocks, cardboard (for chewing), wooden chew toys, etc., but do not add any enclosed structures—especially tunnels or enclosed pods that create dead corners and trigger competition." },
+        { "type": "paragraph", "text": "As with the carrier method, it’s best to use a room they don’t usually free-roam in. If you have a confident, dominant alpha, start with the alpha and the newcomer. After stability, add the gentlest group member, then add others one by one in your expected order from “easiest → hardest.” This avoids overwhelming the newcomer and, because the alpha accepts early, the alpha often helps control the situation if someone goes too far later." },
+        { "type": "paragraph", "text": "Some friction at this stage is normal and helpful. You may see pinning (holding down/flipping), forceful grooming, chasing, or even brief “boxing” bumps. Screaming or pitiful squeaks may appear, and in general it’s necessary to let them complete some of these interactions—if you interrupt too early, it becomes harder to clarify “who calls the shots.”" },
+        { "type": "paragraph", "text": "Watch closely for signs of excessive aggression: for example, full-body puffing like a “hedgehog,” side-on approaches, head lowered, tail swishing, teeth grinding, etc. You don’t have to separate immediately, but try to interrupt escalation quickly: a louder sound, or gently blowing toward them can snap them out of attack mode. The principle is to avoid injuries while not blocking normal friction—one common rule of thumb is: “If there’s no blood, don’t declare failure too early.”" },
+        { "type": "paragraph", "text": "When things quiet down and residents start ignoring the newcomer (the newcomer may crouch in a corner), add the next rat, and continue until all individuals are included. Note: similar behaviors can reappear at any stage; handle them by the same principles." },
+
+        { "type": "heading", "level": 3, "text": "2) Repeat short meetings and gradually lengthen time" },
+        { "type": "paragraph", "text": "When they spend most of the time ignoring each other and exploring, you can relax slightly—but keep watching. Let them stay together at least 1–2 hours, ideally until they’re tired and willing to rest." },
+        { "type": "paragraph", "text": "If friction begins turning into more intense, harder-to-interrupt attacks, or if a rat becomes increasingly aroused, end the session early and give them a break. After the session, return them to their respective cages." },
+        { "type": "paragraph", "text": "Aim for at least once per day; twice per day can work, as long as they have enough time in between to rest, eat, and sleep." },
+        { "type": "paragraph", "text": "If each session becomes more tense and anxious than the previous one, don’t force it: stop this method, let them cool off for 1–2 weeks, and switch to another introduction approach. This usually means “repeated meetings + separation” is not reducing stress, but accumulating it." },
+
+        { "type": "heading", "level": 3, "text": "3) After they can coexist calmly" },
+        { "type": "paragraph", "text": "When you observe they’ve gotten used to each other’s presence—mostly ignoring each other, or even interacting in a relaxed, low-pressure way—you should move to a more direct plan: either transition into the carrier method, or move directly into the final main cage." },
+        { "type": "paragraph", "text": "If you choose to move straight into the final cage, make sure it is as “neutral” as possible at the start: deep-clean it, use new toys or thoroughly washed items, and ensure there are no dead corners, no tubes, and no structures that are easy to fight over or that can trap a rat." }
+      ]
+    },
+    {
+      "id": "back_sectionF",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    },
+
+    {
+      "id": "sectionG",
+      "type": "rich-text",
+      "title": "High-Supervision Method",
+      "subtitle": "",
+      "body": [
+        { "type": "heading", "level": 3, "text": "High-Supervision Method" },
+
+        { "type": "heading", "level": 3, "text": "What is this method?" },
+        { "type": "paragraph", "text": "This approach usually starts in a medium-size neutral area where the rats begin building contact. After that, the keeper provides continuous supervision: even minor roughness or small-scale aggression is promptly interrupted; the rest of the time is normal interaction—petting, playing, companionship—so they treat the time together as “part of normal life.”" },
+        { "type": "paragraph", "text": "This method relies heavily on the keeper’s ability to control the situation. You need to be a manager who can “hold the room,” and the rats should generally recognize your authority. In this period, you temporarily function as the “head” of the group—intervening when appropriate and allowing freedom when not needed." },
+        { "type": "paragraph", "text": "The process may last several hours, so choose a day when you can clear your schedule. The area must be safe for long-duration free-roam; there must be no unattended time, and food and water must be easily accessible. Once the rats have spent most of a day together outside, can relax and sleep, and interactions are clearly calmer, transitioning into the carrier method often works very well; or you can move to a larger neutral cage to continue." },
+
+        { "type": "heading", "level": 3, "text": "Why it works" },
+        { "type": "paragraph", "text": "The underlying idea is that rats often calm down more easily when they don’t feel they must “control the situation” themselves. The presence of a strong, steady human can dilute tension and suppress sparks of conflict, creating a more relaxed atmosphere." },
+        { "type": "paragraph", "text": "More importantly, the earlier you intervene, the more you prevent escalation into high-tension states—and the more you reduce the chances of weaker individuals being overwhelmed or injured." },
+
+        { "type": "heading", "level": 3, "text": "Advantages" },
+        { "type": "paragraph", "text": "This is often an excellent option when you need to introduce senior or frail rats into a group of more active companions, because you can protect them continuously and keep conflict at low intensity." },
+        { "type": "paragraph", "text": "If you already have a decent idea of how rank will likely settle (so the rats feel less need to radically redraw hierarchy), progress can be smoother." },
+        { "type": "paragraph", "text": "If the newcomer is not yet familiar to you, the high-frequency interaction during this process can also serve as a period of socialization and human-bonding." },
+
+        { "type": "heading", "level": 3, "text": "Limitations and risks" },
+        { "type": "paragraph", "text": "The time cost is high, and it demands clear confidence and control from the keeper: you must stay attentive for long periods and handle situations decisively and steadily." },
+        { "type": "paragraph", "text": "If the group includes an especially dominant or aggressive individual, there is some risk of being bitten." },
+        { "type": "paragraph", "text": "If your rats usually “handle” you, or if the group includes an individual that is aggressive toward you (at that point, shouldn’t you be sending them to the “Palace Service Office” already?), this method is likely unsuitable—because in their eyes, you are not the one who “decides.”" },
+
+        { "type": "heading", "level": 3, "text": "Tips and cautions" },
+        { "type": "paragraph", "text": "Treat this as an extended free-roam play session. Prepare supplies in advance, and ideally have someone who can cover you briefly (e.g., when you need to eat or use the restroom)." },
+        { "type": "paragraph", "text": "High-frequency interaction, consistent handling, appropriate play, and calm intervention when needed can make the process smoother." },
+        { "type": "paragraph", "text": "Keep a towel or spray bottle at hand in case things escalate. Compared with separating a fight with bare hands, these are safer and less likely to result in accidental bites." },
+
+        { "type": "heading", "level": 3, "text": "How to do it (steps)" },
+
+        { "type": "heading", "level": 3, "text": "1) Choose the area and prepare for long-term supervision" },
+        { "type": "paragraph", "text": "Pick a neutral area suitable for free-roam—ideally somewhere you can sit for a whole day without suffering. Ideally the space has two semi-independent but connected zones so rats can shift between “close contact” and “a bit more distance,” such as tabletop + sofa, bed + floor." },
+        { "type": "paragraph", "text": "From start to finish, someone must be able to watch them (you or another person who can intervene hands-on). Have a towel or spray bottle ready to interrupt serious conflict—though in an ideal run you won’t need it." },
+        { "type": "paragraph", "text": "Set up two water sources (bowls are fine), add some small open-ended enrichment, but avoid dead corners and enclosed structures, and avoid narrow passages or enclosed hides that can be fought over." },
+
+        { "type": "heading", "level": 3, "text": "2) Bring in the two groups separately and anchor the newcomer’s activity zone" },
+        { "type": "paragraph", "text": "Bring both groups to the area in two carriers. Place the established group on the side farther from you, and place the newcomer in the zone where you are." },
+        { "type": "paragraph", "text": "Try to keep the newcomer mostly on your side rather than running into the other zone; the established group can move freely between zones." },
+
+        { "type": "heading", "level": 3, "text": "3) Let the established group approach gradually while you actively control the situation" },
+        { "type": "paragraph", "text": "Allow the established group to approach and make contact with the newcomer. Watch closely: as soon as you see a rat begin posturing (puffing, clear aggressive stances, etc.), pick that rat up and move it to the other zone to “cool down.” If helpful, you can add a firm verbal cue like “No,” but simple removal is often enough." },
+        { "type": "paragraph", "text": "Be decisive and steady when picking up and moving. Your role is similar to a “head rat’s management”: teaching what behavior is allowed and what you will immediately stop." },
+        { "type": "paragraph", "text": "Sustain this state as long as possible. If you need to rest or step away briefly, put both groups back into their carriers. A single long session (over an hour) is often more effective than many short sessions; if possible, spending most of a day together can be even better (you can even queue up a TV series and prepare for a marathon)." },
+
+        { "type": "heading", "level": 3, "text": "4) Move into the next phase once they “get used to each other”" },
+        { "type": "paragraph", "text": "When you observe that they mostly ignore each other and can coexist calmly, transition into the carrier method to continue, or move into a neutral cage to complete stabilization." }
+      ]
+    },
+    {
+      "id": "back_sectionG",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    },
+
+    {
+      "id": "sectionH",
+      "type": "rich-text",
+      "title": "Cage-Swap Method",
+      "subtitle": "",
+      "body": [
+        { "type": "heading", "level": 3, "text": "Cage-Swap Method" },
+
+        { "type": "heading", "level": 3, "text": "What is this method?" },
+        { "type": "paragraph", "text": "This is usually used as a preparatory step before formal introductions, most often before the neutral-space method. First, house the two rats (or two groups) separately in their own cages. Place the cages side by side, but keep enough distance to ensure they cannot bite each other through the bars." },
+        { "type": "paragraph", "text": "Once they gradually get used to each other’s scent, swap them into each other’s cages for a period of time. After that, you can swap back again for a while, or proceed directly into the neutral-space introduction stage." },
+
+        { "type": "heading", "level": 3, "text": "Why it works" },
+        { "type": "paragraph", "text": "The core purpose is early scent acclimation. Through repeated exposure to each other’s scent, rats develop familiarity with the other’s presence. Over time, the cage environment also blends toward a more “group scent,” reducing novelty before the first face-to-face meeting." },
+
+        { "type": "heading", "level": 3, "text": "Advantages" },
+        { "type": "paragraph", "text": "This method may help in certain specific situations, such as:" },
+        { "type": "paragraph", "text": "Rats with lower hormone levels, or individuals that are older and frailer;" },
+        { "type": "paragraph", "text": "Some rats that are not very fluent in social interaction but are not in a hormone peak—used as a relatively gentle transition (though in general other methods are still recommended first)." },
+        { "type": "paragraph", "text": "A doe that has just lost a companion and is extremely depressed: she cannot immediately accept a new partner, but cannot be housed alone long-term because she has already started refusing food. Having her continuously smell another rat’s scent became a key motivator for her to re-engage with life. In this special case, a “scent-first” approach truly helped." },
+
+        { "type": "heading", "level": 3, "text": "Limitations and risks" },
+        { "type": "paragraph", "text": "This method is not suitable for dominant, highly territorial rats, and is especially not suitable for bucks." },
+        { "type": "paragraph", "text": "Entering a cage filled with “other rats’ scent” often strongly provokes them: the rival’s scent is everywhere, yet they cannot resolve the question of “who’s in charge” face-to-face. This unresolved state easily accumulates tension and can make the first real meeting much worse later." },
+
+        { "type": "heading", "level": 3, "text": "Tips and alternative ideas" },
+        { "type": "paragraph", "text": "In some cases, simply placing cages closer together so they can smell each other—without doing a full cage swap—can work better." },
+        { "type": "paragraph", "text": "However, it’s worth emphasizing again: this is still not recommended for bucks or especially dominant individuals. It’s more of a cautious supplementary option when other methods aren’t going smoothly, not a standard first-choice approach." }
+      ]
+    },
+    {
+      "id": "back_sectionH",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [{ "title": "Back to Quick Navigation", "text": "", "href": "#toc" }]
+    }
+  ]
+}
