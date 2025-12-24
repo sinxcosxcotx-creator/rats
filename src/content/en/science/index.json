@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Science",
+    "title": "What knowledge do you need during the keeping process?",
+    "subtitle": "The following section compiles a range of educational materials in different formats. Some content is整理、整合并翻译自 multiple sources including books, websites, ratteries, and organizations such as Pet Rat Care, Isamu Rat Care, RatGuide, the American Fancy Rat & Mouse Association, the National Fancy Rat Society, The New Scuttling Gourmet, Once Upon a Mischief, and Rat Variety Guide.\n\nDue to content integration and language adaptation, the final Chinese version also incorporates observations and perspectives drawn from my own experience and from various original sources. As a result, it is not always possible to precisely attribute individual passages within the text. Readers who wish to consult the original materials may find the corresponding source links listed at the end of each article.",
+    "backgroundImage": "/science/home.jpg",
+    "buttons": [
+      {
+        "text": "What should you prepare before adoption?",
+        "href": "/science/prepare",
+        "variant": "ghost"
+      },
+      {
+        "text": "What should you feed?",
+        "href": "/science/diet",
+        "variant": "ghost"
+      },
+      {
+        "text": "Which type of fancy rat should you choose?",
+        "href": "/science/choose",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "type": "grid-cards",
+      "title": "In-depth educational content starts here",
+      "subtitle": "Each topic aims to provide as complete an explanation as possible within its own scope.",
+      "columns": 3,
+      "items": [
+        {
+          "title": "The Origin of Rats",
+          "text": "The natural origin and development of the brown rat, and the significant contributions of laboratory rats to the history of human scientific research",
+          "href": "/science/origin"
+        },
+        {
+          "title": "Individual Rat Behavior",
+          "text": "A practical guide to observing rats’ everyday behaviors, helping you better interpret the meaning behind their actions",
+          "href": "/science/behaviorindividual"
+        },
+        {
+          "title": "Group Behavior in Rats",
+          "text": "How rats behave as a group in daily life, and what these behaviors may indicate",
+          "href": "/science/behaviorgroup"
+        },
+        {
+          "title": "Classifying “Grabbing” and “Biting” Behaviors",
+          "text": "Rats often use their teeth during interactions with humans, but the underlying motivations and meanings can differ greatly",
+          "href": "/science/biting"
+        },
+        {
+          "title": "Introductions: How New Rats Meet Established Groups",
+          "text": "Introductions are among the most important—and most stressful—moments in a pet rat’s life. What should an owner do?",
+          "href": "/science/introductions"
+        },
+        {
+          "title": "Rat Genetics and Coat Color Basics",
+          "text": "An introduction to fundamental genetic concepts and the history of common rat coat colors and patterns, helping you understand inheritance rules and their historical background",
+          "href": "/science/genetics"
+        },
+        {
+          "title": "Daily Rat Care",
+          "text": "Housing, bedding, diet, social structure, and environmental enrichment—and how these factors together influence a rat’s physical and psychological well-being",
+          "href": "/science/care"
+        },
+        {
+          "title": "Health, Disease, and How We Say Goodbye",
+          "text": "Common illnesses, care during old age, and how to distinguish between merely being alive and living without unnecessary suffering",
+          "href": "/science/health"
+        }
+      ]
+    }
+  ]
+}

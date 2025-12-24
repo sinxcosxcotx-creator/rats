@@ -1,0 +1,70 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Philosophy",
+    "title": "Husbandry Philosophy",
+    "subtitle": "At Ratopia Rattery, I treat husbandry as a highly professional, non-reducible long-term responsibility. Rats are not “low-maintenance small pets”, but companion animals with complex behavioral needs, clear social structures, and significant individual differences. Any approach that reduces keeping to “providing space + basic feeding” will, over time, translate into health risks and welfare problems.",
+    "backgroundImage": "/philosophy/raise/1.jpg",
+    "buttons": [
+      {
+        "text": "Back",
+        "href": "/philosophy",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "What is Ratopia’s husbandry philosophy?",
+      "body": [
+        { "type": "heading", "level": 3, "text": "Space" },
+
+        {
+          "type": "paragraph",
+          "text": "For me, the value of living space is not about “how many rats can fit inside”, but about whether it is a complete living environment that the animals can actively use—clearly zoned, functionally rich, and designed for real behavior.\n\nA reasonable setup should allow rats to express core behaviors: self-directed movement and exploration, vertical climbing and horizontal running, safe hiding and private retreat, and social interaction within the group.\n\nMeeting only a minimal floor area where “movement is not restricted” is not enough to sustain these behaviors in a stable, long-term way. High-density keeping may look manageable in the short term, but it often appears later as chronic stress: increased immune burden, more frequent conflict, behavioral withdrawal, or abnormal behaviors. These are not rare accidents—they are structural consequences of insufficient space.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Enrichment" },
+
+        {
+          "type": "paragraph",
+          "text": "When it comes to enrichment, the most important point is to recognize that enrichment is not emotional self-satisfaction—it is a response to behavioral needs. Rats have strong cognitive capacity and high environmental sensitivity. A lack of stimulation does not make them “calmer”; it more often leads to behavioral degradation and psychological dulling. For that reason, I treat environmental enrichment as a basic condition of proper husbandry, not an optional add-on.\n\nEnrichment is not the same as randomly increasing the number of toys. It should be built around these principles: provide three-dimensional structures for climbing, moving through, and hiding; offer safe materials that allow chewing, dismantling, and exploration; keep the environment relatively stable while introducing low-frequency, predictable changes.\n\nThe goal is not to create constant stimulation, but to preserve space for exploration, learning, and choice under conditions of safety—so that normal behavioral expression can be maintained.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Feeding" },
+
+        {
+          "type": "paragraph",
+          "text": "In feeding, I oppose using “eats a lot”, “grows fast”, or “looks big and strong” as measures of success. Scientific diet management should serve long-term metabolic health and disease-risk control—not short-term appearance.\n\nIn daily keeping, we pay more attention to the combined state of: body condition and muscle ratio, willingness to move and overall endurance, coat and skin quality, and stability of appetite and fecal output.\n\nOverfeeding, high-calorie treats, and uncontrolled supplementation significantly increase the risks of obesity, metabolic disruption, and tumor development. These problems are often delayed in onset; once they become visible, they are difficult to reverse.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Stress" },
+
+        {
+          "type": "paragraph",
+          "text": "It is also important to understand that rats are extremely sensitive to environmental change and stress. Frequent relocation, excessive handling, and unnecessary disturbance can accumulate into chronic psychological pressure—and this pressure often does not show up immediately as obvious symptoms.\n\nI follow a minimal-stress management principle:\n\nMaintain a relatively stable schedule and environment, reduce non-essential human interference, and minimize forced handling during cleaning, checks, and interaction.\n\nLong-term, stable feelings of safety are a key foundation for behavioral health and immune stability.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Individual differences" },
+
+        {
+          "type": "paragraph",
+          "text": "I explicitly reject treating all rats as if they belong to a single, uniform “husbandry template”.\n\nDifferences in temperament, activity needs, social preferences, and stress tolerance are real variables—not noise to be ignored.\n\nHusbandry is not a fixed procedure. It is a dynamic process that must be continuously adjusted based on the animal’s responses. Respecting differences does not mean neglect; it means more careful observation and more restrained intervention.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "Responsibility" },
+
+        {
+          "type": "paragraph",
+          "text": "Finally, I want to address “husbandry responsibility”. Responsibility does not end when the animal’s life is in its healthy, active phase—it is only truly completed at the end of life.\n\nSenior care, chronic disease management, and dignity in the final stage are all part of keeping, not burdens to be avoided.\n\nThat is why I emphasize this consistently: the ability to provide long-term, stable, low-risk care should come before any decision to keep animals at all—let alone to breed them.\n\n"
+        },
+
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "eyebrow": "Contact",
+    "title": "How to Reach Me",
+    "subtitle": "If you are interested in adoption, please make sure to visit the adoption page first to scan the QR code and complete the adoption questionnaire. The adoption agreement can also be downloaded from that page.\n\nFor other inquiries, when contacting me through the channels below, please clearly state your purpose and background to facilitate effective communication."
+  },
+  "sections": [
+    {
+      "id": "how-to-contact",
+      "type": "rich-text",
+      "title": "Contact Channels and Notes",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "For reasons related to disease prevention and personal privacy, the rattery does not publicly disclose a physical address or phone number at this time. Communication is currently conducted primarily through social media direct messages and email."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Email: sinxcosxcotx@gmail.com",
+            "Social platform: Hperpetual Lee (Facebook)",
+            "WeChat: Ocean_y_h"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Before contacting me, please be aware of the following:"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Adoption-related inquiries should be made only after completing the adoption questionnaire.",
+            "Questions that are already clearly addressed on the website or in the adoption agreement will generally not be explained again in detail.",
+            "For urgent medical situations, please contact a qualified exotic animal veterinary clinic directly rather than seeking advice via private messages."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please understand that I cannot guarantee fixed or immediate response times. Reply speed may vary depending on daily circumstances, and more complex inquiries may require additional time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Messages that involve pressuring for responses, emotional coercion, boundary violations, or content that clearly conflicts with animal welfare principles or legal boundaries will not receive a response."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you for your understanding and respect."
+        }
+      ]
+    }
+  ]
+}

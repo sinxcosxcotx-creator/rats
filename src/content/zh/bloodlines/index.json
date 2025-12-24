@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "eyebrow": "鼠舍血线",
+    "title": "Ratopia目前正在维护经营的血线",
+    "subtitle": "血线不是某一只动物，也不是一个好听的名字，而是一组在时间上连续、在遗传上有关联、并且被人为持续选择与记录的个体集合。它体现的是繁育者长期的判断、取舍与方向，而不是一次性的繁殖结果。\n\n血线的意义不在于“看起来专业”，而在于降低不确定性。通过观察同一血系中性格、健康和行为特征的反复出现，繁育者可以更清楚地识别风险、评估倾向，并减少完全依赖运气的决策。血线让选择不再只凭感觉，而是建立在可追溯的记录之上。",
+    "backgroundImage": "/lines/hero.jpg"
+
+  },
+  "sections": [
+    {
+      "id": "toc",
+      "type": "grid-cards",
+      "title": "血线入口",
+      "subtitle": "Ratopia血线的公开信息都将在这里展示，在这里你可以看到血线的来源、血线的发展、血线目前可能存在的问题。如果你领养到了鼠舍的小家伙，并且对家谱图很感兴趣，我会给你发送相关pedigree。",
+      "columns": 3,
+      "items": [
+        { "title": "Siamese", "text": "SINCE 2024", "href": "/bloodlines/line1" },
+        { "title": "建设中", "text": "建设中", "href": "/bloodlines/line2" },
+        { "title": "建设中", "text": "建设中", "href": "/bloodlines/line3" }
+      ]
+    }
+  ]
+}

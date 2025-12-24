@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "eyebrow": "Adoption",
+    "title": "Rats Currently or Soon Available for Adoption",
+    "subtitle": "Due to the nature of website maintenance, this section is not updated at a very high frequency. Here we showcase some rats from Ratopia who have already gone to their new homes, along with a few photo updates shared by their caretakers. Detailed adoption information will be published on our other social media platforms. If you are interested in adoption, please make sure you have read through our philosophy and educational materials first, then complete the adoption questionnaire (QR code provided on the side). The adoption agreement can be reviewed in advance. On mobile devices, please download the file and open it in a browser.",
+    "backgroundImage": "/adopt/Adoption-questionnaire.jpg",
+    "buttons": [
+      {
+        "text": "Learn Our Philosophy First",
+        "href": "/philosophy",
+        "variant": "ghost"
+      },
+      {
+        "text": "What You Should Know Before Adoption",
+        "href": "/science",
+        "variant": "ghost"
+      },
+      {
+        "text": "Explore Our Bloodlines",
+        "href": "/bloodlines",
+        "variant": "ghost"
+      },
+      {
+        "text": "View Adoption Agreement (PDF)",
+        "href": "/adopt/adoption-agreement.pdf",
+        "variant": "ghost",
+        "download": true
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "adoption-notes",
+      "type": "rich-text",
+      "title": "Before You Formally Apply for Adoption, You Need To:",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "After completing the required personal information, please send it to my email address (listed on the contact page). This will serve as an important basis for the adoption review process. Before any formal adoption begins, the agreement will be explained in detail and signed accordingly. The adoption process is relatively complex, so please take the agreement seriously. Thank you for your cooperation."
+        },
+        {
+          "type": "paragraph",
+          "text": "I strongly prefer to place rats in pairs or small groups rather than as single individuals. This approach has two major benefits: first, they can integrate into a new environment together and avoid potential bullying from an existing group, and if the original group fails to accept them, they still have companions. Second, this greatly reduces the risk of single housing, which is fundamentally harmful to rats. If you decide to adopt from us, you must fully understand and accept this principle."
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Do you have any intention of becoming an ethical breeder? If so, feel free to elaborate. I am always happy to collaborate with like-minded individuals.",
+            "Do you accept my breeding philosophy, including practices such as controlled inbreeding and culling, which are discussed in our philosophy and educational materials?",
+            "Are you willing to accept pet transport? At the current stage, Ratopia does not sell rats. Adopters who choose transport are only required to cover the relevant transport fees and necessary material costs.",
+            "Do you accept that young rats will leave Ratopia at around 6–8 weeks of age? I need sufficient time to observe their development, ensure proper socialization, and select future breeding candidates.",
+            "What are your current cage setup, bedding, diet, and daily time arrangement like? Are you willing to make adjustments if necessary?",
+            "Are you willing to provide essential care feedback? This is extremely important to Ratopia, and your cooperation is required.",
+            "Is there a reliable and financially affordable veterinary clinic or veterinarian near the rats’ future living environment?",
+            "Are you prepared to face their relatively short lifespan and to invest more care and effort during their senior years?",
+            "..."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If during communication I determine that a particular adoption is not suitable, please do not be discouraged. This is not a judgment of you as a person, but simply an assessment of whether this specific pairing is appropriate at this time. You are always welcome to improve your setup, continue learning, and submit another application in the future."
+        }
+      ]
+    },
+    {
+      "id": "available",
+      "type": "mouse-grid",
+      "title": "Outstanding Rats Graduated from Ratopia",
+      "subtitle": "Every rat is a life companion to their caretaker. Below are a few snapshots from their daily lives.",
+      "columns": 2
+    }
+  ]
+}

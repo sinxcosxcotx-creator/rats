@@ -1,0 +1,119 @@
+{
+  "hero": {
+    "eyebrow": "Science & Care",
+    "title": "Before Adoption",
+    "subtitle": "Before adopting, we hope you will carefully read the notes and care guidelines below. They cover the preparations you’ll need before we officially meet.",
+    "buttons": [
+      {
+        "text": "Back",
+        "href": "/science",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "commitment",
+      "type": "rich-text",
+      "title": "",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Rats are truly incredible pets, but in the public imagination they carry an unfair—and completely unreasonable—reputation. Even so, rats are not suitable for everyone. Before deciding to keep them, you should take some time to think carefully: not only “Are rats right for you?”, but also “Can you become the kind of guardian they need?”"
+        },
+        { "type": "heading", "level": 3, "text": "Time and Space" },
+        {
+          "type": "paragraph",
+          "text": "In some ways, rats are like “miniature dogs”: playful, affectionate, highly social, and very intelligent. They will take up a lot of your time—keeping rats often requires far more long-term investment than many people expect before they start. Just as dogs benefit from walks, rats benefit greatly from regular “free-roam / out-of-cage time”: letting them come out to explore and exercise in a safe, interesting area of your home. This means you need a space where:"
+        },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "You don’t mind them peeing on things or making a mess;",
+            "There are no dangerous wires or plants they can chew;",
+            "There are no gaps or hidden corners where they can escape—or squeeze into and “disappear.”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "And never underestimate them—rats can, and absolutely will: jump down from things, jump up onto things, and find ways into narrow spaces you think are “impossible to enter”! If you cannot commit enough time to interact frequently and provide free-roam opportunities, you may need to reconsider whether rats are truly the right pet for you. Free-roam time matters because it allows rats to express a range of natural behaviors and provides stimulation both physically and mentally."
+        },
+        {
+          "type": "paragraph",
+          "text": "You also need space for the cage. Rat cages are usually much larger than people imagine; the common small cages you see on many platforms are generally not enough to meet rats’ needs—rats require more space. While you can place the cage in a bedroom, rats are crepuscular animals: they are most alert and active around dawn and dusk, so they can be very noisy and disturb your sleep. I recommend placing the cage in the living room or another shared area with more foot traffic. That way, when you pass by, they can ask you for treats or cuddles, and these “fragmented little interactions” can be maximized."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many people set aside a dedicated “rat room,” usually those who keep a larger number of rats or breeders. A rat room means you can make special preparations for the whole room: cages stay in place, and many keepers use that room as the free-roam area as well. If you can provide these conditions, that’s wonderful—but you must still ensure rats receive the time and care they need, because when you can’t see the group directly, it’s easy to overlook problems."
+        },
+        {
+          "type": "paragraph",
+          "text": "You also need to confirm that you are capable of keeping more than two rats. Later sections will discuss how to maintain group structure. So a more realistic approach is: in time, space, and budget, plan for at least the scale of “about 4 rats.”"
+        },
+
+        { "type": "heading", "level": 3, "text": "Children and Rats" },
+        {
+          "type": "paragraph",
+          "text": "Rats can be a great choice for families with children because they are interactive pets. Unlike some other small rodents, rats enjoy engaging with their humans. If children are properly taught how to hold, pet, and interact, they can become wonderful companions for the rats. Younger children need to reach a certain age/developmental stage where they can follow adult instructions—such as how to hold/pet correctly, not putting fingers into the cage, and reliably closing cage doors—before they can interact safely. Rats can be good pets for younger children, but generally they are better suited to slightly older children through the teenage years."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rats from responsible breeders are extremely unlikely to bite. However, rats should absolutely not be left to a child to “take care of independently”—they must always be supervised by a responsible adult, who leads: regular health checks and continuous monitoring of daily care. If the adults in the household have no interest in rats, then even if the child really wants them and is responsible, rats may not be a good fit for that family. Monitoring health requires interest and knowledge; and children do not have adult-level financial independence, so it is crucial that the adults in the child’s life are committed enough to prioritize veterinary expenses."
+        },
+
+        { "type": "heading", "level": 3, "text": "Other Pets" },
+        {
+          "type": "paragraph",
+          "text": "Rats are prey animals (prey animal). Keeping them separated from other species in the home and ensuring their safety is essential. You can keep other pets, but you must ensure they are always kept apart. For example, cats and dogs should not be able to approach the cage, sit on top of it, pounce at the sides, or sniff at the bars—let alone make direct contact with rats. Even if you believe you know your pets and your rats very well, you cannot predict: a predator’s sudden instinctive hunting drive when facing prey, or a rat’s sudden instinctive self-defense reaction when facing a predator."
+        },
+        {
+          "type": "paragraph",
+          "text": "You don’t want to experience “a frightened rat biting a friendly dog’s nose,” nor do you want to discover—when you weren’t paying attention—that your rat has lost a leg because a dog bit through the cage bars. Taking rats out for so-called “interaction” is equally unsafe. Accidents happen very fast; as a responsible guardian, you should ensure that no pet is placed in danger."
+        },
+
+        { "type": "heading", "level": 3, "text": "Smell" },
+        {
+          "type": "paragraph",
+          "text": "Rats do have a smell: a slightly musky, rodent-specific scent; near cage-cleaning time, you may also notice a bit of urine smell. If you want a pet with “absolutely no smell,” you may need to reconsider whether any living animal is truly right for you. Just as dogs have “dog smell,” rats have “rat smell,” and even humans have our own body odor! You can do many things to reduce the smell to a level most people barely notice, but it is impossible to eliminate it completely. You also should not want to erase their scent entirely, because scent is very important to rats: they use it to navigate their environment, to “map” their world, and to identify “their own” versus “strangers/threats.” If you have an extremely sensitive sense of smell, or if your home has no area where you can accept “rat smell,” then you may need to reconsider whether rats are right for you."
+        },
+
+        { "type": "heading", "level": 3, "text": "Potential Health Risks and Allergies" },
+        {
+          "type": "paragraph",
+          "text": "For some people, rats can indeed carry potential health risks. Some viruses are believed to be “endemic” in rats, meaning many rat keepers may be exposed at some point. After exposure, keepers may develop antibodies; for some, testing may be the only way they learn they were “exposed,” because they had no symptoms. Most keepers will not realize they “caught something,” or they may assume it was a cold/flu; for people with normal immune function, the risk is extremely low. However, for immunocompromised individuals, it is important to make informed choices based on information. You can search online and read further about “hantavirus (hantavirus)” and other “zoonotic diseases (zoonotic diseases, diseases that can spread between humans and rats).”"
+        },
+        {
+          "type": "paragraph",
+          "text": "This information may sound scary and even discouraging, but it is equally important to recognize: the health risk posed by pet rats is not greater than keeping dogs or cats. In reality, rat communities often understand these risks better than the general public (by contrast, the public is often less aware of risks related to dogs), so “risk awareness” is stronger. This higher knowledge level is often because: people tend to keep multiple rats at once; and because rats have relatively short lifespans, keepers encounter health issues more frequently. For typical keepers, as long as you follow reasonable hygiene measures (for example, washing your hands after handling pets) and do not let them “groom” around or inside your mouth (they really love to try—this is referred to as “rodent dental/oral care”), you will not be carrying higher risk than with other common pets."
+        },
+        {
+          "type": "paragraph",
+          "text": "A more common situation is allergies: you may be allergic to rat dander, saliva, or their bedding/substrate. If you already have a history of allergies, before deciding to keep rats, it’s best to go to a rat show or find another way to handle and cuddle rats first, to see whether you react. Allergic reactions can vary widely: from mild sneezing, runny nose, and hives triggered when they walk on bare skin, to severe asthma attacks and breathing difficulty. If you are allergic to bedding, you can try alternatives with lower allergen potential. If you are allergic but still very determined to keep rats, a once-daily over-the-counter antihistamine may work; more severe reactions can also be treated with stronger medications prescribed by a doctor. Wearing long sleeves and higher collars when interacting with rats can significantly reduce hives (itchy, red, raised bumps); and regularly trimming their nails can also help."
+        },
+
+        { "type": "heading", "level": 3, "text": "Costs" },
+        {
+          "type": "paragraph",
+          "text": "The cost of keeping rats should absolutely not be underestimated. Building a cage setup with an appropriate level of enrichment is not cheap; and for many people, we eventually spend every extra bit on fresh, interesting enrichment. While ongoing daily basic care may not be extremely expensive, veterinary visits can be costly. The average rat lifespan is only slightly over 2 years, which means that when they enter old age, you may need multiple vet visits, and may eventually need to pay for humane euthanasia—these can all add up."
+        },
+
+        { "type": "heading", "level": 3, "text": "Emotional Impact" },
+        {
+          "type": "paragraph",
+          "text": "Even if money is not a problem, the emotional impact of “losing pets this frequently” can be very heavy. Because their lifespans are short, you may face emotional blows more often than owners of longer-lived larger pets. The hard part is not only the moment of loss; when a pet gets sick, you may repeatedly consider care plans, medication schedules, and make time for vet visits… these accumulate and create intense psychological load. In addition, not all veterinarians are familiar with rats, which adds extra pressure—you are not only worried about the rat itself, but may also worry: the vet does not know enough about rats, the advice is incorrect, or the treatment is not what the rat truly needs."
+        },
+
+        { "type": "heading", "level": 3, "text": "A Reality Check" },
+        {
+          "type": "paragraph",
+          "text": "Finally, you need calm, realistic expectations about what pet rats are actually like. You may see many videos on TikTok or Xiaohongshu: rats adorably sleeping on their humans, or sitting quietly while being petted. But those videos do not reflect most day-to-day interactions—they show only a very small slice of life with rats. Rats gain huge joy from climbing, exploring, chewing, and all kinds of “making a mess”: they like to steal things, chew furniture, lick inside your nostrils, gently nibble your nails, bounce around, and play-fight. You may occasionally meet individuals who love cuddling, but in my experience this usually occurs only in some individuals, or becomes more obvious when they are older. What matters is understanding: these mischievous, energetic, interactive behaviors may be even better than being quiet and cuddly—because they are closer to what rats “naturally should be.” It’s just that these behaviors are less likely to become social media content."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you live in a rental home, or live with other people, before keeping rats you need to obtain permission from the property owner (landlord); and out of courtesy, you should also confirm that roommates accept it. Otherwise, once the landlord finds out, you may be required to move, or you may have to rehome your rats."
+        }
+      ]
+    }
+  ]
+}

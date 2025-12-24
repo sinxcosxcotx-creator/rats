@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "eyebrow": "血线档案",
+    "title": "建设中",
+    "subtitle": "",
+    "backgroundImage": "/lines/line2/1.jpg",
+
+    "buttons": [
+      { "text": "返回血线目录", "href": "/bloodlines", "variant": "ghost" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "type": "rich-text",
+      "title": "介绍",
+      "body": [
+        {
+          "type": "paragraph",
+          "text":""
+        },
+        {
+          "type": "paragraph",
+          "text":""        }
+      ]
+    },
+
+
+
+    {
+      "id": "content",
+      "type": "rich-text",
+      "title": "记录",
+      "body": [
+        { "type": "heading", "level": 3, "text": "" },
+        { "type": "heading", "level": 3, "text": "" },
+        { "type": "heading", "level": 3, "text": "" }
+      ]
+    },
+    {
+      "id": "photos",
+      "type": "gallery",
+      "title": "照片",
+      "images": [
+        { "src": "/lines/line2/2.jpg", "alt": "2" },
+        { "src": "/lines/line2/3.jpg", "alt": "3" },
+        { "src": "/lines/line2/4.jpg", "alt": "4" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Bloodlines",
+    "title": "Bloodlines Currently Maintained by Ratopia",
+    "subtitle": "A bloodline is not a single animal, nor is it merely a catchy name. It refers to a group of individuals that are continuous over time, genetically related, and deliberately selected and documented by a breeder. What a bloodline represents is the breeder’s long-term judgment, choices, and direction, rather than the outcome of any single breeding.\n\nThe value of a bloodline does not lie in “looking professional,” but in reducing uncertainty. By observing the repeated appearance of temperament, health, and behavioral traits within the same genetic line, breeders can more clearly identify risks, evaluate tendencies, and reduce reliance on pure chance. Bloodlines allow decisions to be made not by intuition alone, but on the basis of traceable records.",
+    "backgroundImage": "/lines/hero.jpg"
+  },
+  "sections": [
+    {
+      "id": "toc",
+      "type": "grid-cards",
+      "title": "Bloodline Index",
+      "subtitle": "All publicly available information on Ratopia bloodlines is presented here. You can view the origin of each bloodline, its development over time, and any known or potential issues at its current stage. If you have adopted a rat from the rattery and are interested in pedigree charts, I will provide the relevant pedigree information upon request.",
+      "columns": 3,
+      "items": [
+        { "title": "Siamese", "text": "SINCE 2024", "href": "/bloodlines/line1" },
+        { "title": "Under Construction", "text": "Under Construction", "href": "/bloodlines/line2" },
+        { "title": "Under Construction", "text": "Under Construction", "href": "/bloodlines/line3" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Home",
+    "philosophy": "Philosophy",
+    "science": "Science",
+    "bloodlines": "Bloodlines",
+    "adoption": "Adoption",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Ratopia Rattery",
+    "heroSubtitle": "Ethical fancy rat breeding grounded in temperament and long-term health."
+  },
+  "footer": {
+    "tagline": "Ethical fancy rat breeding · Temperament · Health · Transparency"
+  }
+}

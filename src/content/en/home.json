@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "eyebrow": "Ratopia Rattery",
+    "title": "Welcome to Ratopia!",
+    "subtitle": "Ratopia Rattery is dedicated to keeping and breeding rats that are healthy, gentle in temperament, and relatively long-lived. The rattery is located in southwestern China.\n\nThe breeding goal of Ratopia is to develop rats that are confident, people-oriented, emotionally engaged, gentle, and approachable, while also maintaining sound overall health and balanced body structure.\n\nAt present, the main coat varieties bred include Siamese, Agouti, Cinnamon, Fawn, and Amber.\n\nTop-eared rats are the primary focus, with Dumbo ears being less common.\n\nStandard body type is the main direction, while dwarf rats are also being preserved in parallel.",
+    "backgroundImage": "/home/rat-hero.jpg",
+    "buttons": [
+      {
+        "text": "Learn About Our Philosophy",
+        "href": "/philosophy",
+        "variant": "ghost"
+      },
+      {
+        "text": "Explore Educational Resources",
+        "href": "/science",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "about-shelter",
+      "type": "split",
+      "title": "About Ratopia",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ratopia Rattery was established in 2023. However, the website itself is still undergoing continuous debugging and refinement, so I cannot be certain at what point in time, or in what state, you are viewing it."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the early stages of the rattery, this website is intended only for limited public display and circulation. If you encounter any functional or content-related issues while browsing, you are welcome to contact me through the “Contact” page and provide honest feedback about your experience. Such feedback is extremely important to me and will directly influence future revisions and the overall direction of the site."
+        },
+        {
+          "type": "paragraph",
+          "text": "The name “Ratopia” is derived from the word “Utopia.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "On a more personal and emotional level, this name represents a blessing for the rats that have already passed away. I hope that after the end of life, they no longer suffer from illness, nor are they further harmed or implicated by human choices, negligence, or profit-driven behavior."
+        },
+        {
+          "type": "paragraph",
+          "text": "On a more practical level, the name also represents an attempt at implementation. Within the current environment of rat keeping and breeding, I am trying to establish a system that comes as close as possible to what I consider an “ideal state.” Based on continuous learning in genetics, husbandry systems, and animal welfare, I repeatedly adjust and refine my own breeding philosophy and methods, attempting to correct mistakes and recalibrate along the way within the existing community context. This may appear idealistic, but I still wish to test whether it is practically achievable."
+        },
+        {
+          "type": "paragraph",
+          "text": "When rats are no longer viewed purely as objects with high commodity value, but instead understood as living beings with clear needs, requiring medical support and capable of expressing emotions, I hope to observe how this shift in perception affects husbandry practices, breeding decisions, and the relationship between humans and animals."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is the purpose of building this rattery website?"
+        },
+        {
+          "type": "paragraph",
+          "text": "I have not given myself a predetermined answer to this question. At present, I am more inclined to let time and practice themselves respond."
+        },
+        {
+          "type": "paragraph",
+          "text": "So far, the website mainly serves as a platform for conveying ideas and values. I am also gradually working to develop it into a more systematic information hub related to fancy rats, which will include selected and translated overseas materials and reference resources. You may find external links within the site that are worth further reading, and if needed, you can access the original sources directly."
+        },
+        {
+          "type": "paragraph",
+          "text": "For more specific information about Ratopia Rattery, you can explore other pages on the website to learn about my breeding philosophy, practical methods, and stage-based breeding outcomes. If you have adopted a rat from my rattery, you may also privately request access to the corresponding pedigree records."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fact, there are already relatively mature exotic pet information and communication platforms overseas, with frequent updates, accumulated case data, and more comprehensive medical information. I sincerely hope you can use these resources to improve your own husbandry and care practices. However, access to some of these platforms may require additional technical conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, different associations and organizations maintain websites and databases with varying focuses. If you have specific needs, you may contact me by email, and I will compile and forward appropriate reference links. Due to limited personal capacity, responses may not always be timely, and I appreciate your understanding."
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "type": "gallery",
+      "title": "A Glimpse of Daily Life",
+      "images": [
+        {
+          "src": "/home/1.jpg",
+          "caption": "1"
+        },
+        {
+          "src": "/home/2.jpg",
+          "caption": "2"
+        },
+        {
+          "src": "/home/3.jpg",
+          "caption": "3"
+        },
+        {
+          "src": "/home/4.jpg",
+          "caption": "4"
+        }
+      ]
+    }
+  ]
+}

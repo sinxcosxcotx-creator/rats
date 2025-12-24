@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "eyebrow": "Bloodline Archive",
+    "title": "Siamese / Russian Blue Siamese",
+    "subtitle": "Siamese fancy rats originated in the United Kingdom. In the 1970s, British breeders produced rats with Siamese-like point coloration through repeated outcrossing with albino lines, and the variety was formally included in breeding programs when the NFRS was founded in 1976.\n\nIn 1983, AFRMA introduced Siamese rats from the UK to the United States, and the first group was shown in the US in 1984.\n\nThe genetic basis of Siamese coloration was later identified as the c^h mutation. Early Siamese lines were pale in color and generally weak in body type, but improvements were made through outcrossing with local lines, eventually leading to the popular Siamese varieties seen today. Himalayan rats share the same genetic origin and have been confirmed to be the result of the c^h and c allele combination.\n\nSome breeders further developed Siamese-derived Burmese varieties (Bu gene), and on this foundation also selected for expressions such as Ivory and Cream.",
+    "backgroundImage": "/lines/line1/1.jpg",
+    "buttons": [
+      { "text": "Back to Bloodlines", "href": "/bloodlines", "variant": "ghost" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "type": "rich-text",
+      "title": "Introduction",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "In early 2024, upon a friend’s recommendation, I purchased my first male Russian Blue Siamese hooded fancy rat in Nantong, Jiangsu, for approximately 500 RMB. His name was Duoduo.\n\nObjectively speaking, for a considerable period of time Duoduo served as a core individual within the group and demonstrated fairly strong social competence. When new pups were introduced, he was generally tolerant and accommodating. Even when faced with exploratory “provocations” from juveniles, he was able to establish clear group order without resorting to excessive pressure. However, when adult individuals needed to be introduced at a later stage, Duoduo began to struggle.\n\nAfter raising this issue with the previous breeder, the solution I was given was to house Duoduo alone in order to relieve group stress. This suggestion was not an isolated case. Through feedback from friends, I learned that the same breeder had offered similar advice to multiple owners. This gradually led me to realize that in their breeding practice, aggression risks related to hormonal factors may not have been genuinely confronted or effectively selected against. It is even possible that, over a long period of time, temperament stability was compromised in pursuit of certain external traits.\n\nAs I continued to study and review reference materials, I began to notice deeper underlying issues.\n\nMultiple traits exhibited by Duoduo increasingly convinced me that he was likely a product of extreme selective breeding. The “short face” trait that the previous breeder had emphasized for many years and promoted as a selling point was particularly pronounced in Duoduo. At the same time, because selection resources were excessively concentrated on cranial structure, his overall body conformation showed clear imbalance. The sunken shoulders in a relaxed state, as well as the sharp, angular, and insufficiently rounded hindquarters, were far from ideal. As a Siamese rat, Duoduo’s hooded pattern could even be described as failing exhibition standards. None of this information was proactively disclosed in the breeder’s promotion or communication at the time, where descriptions largely remained at vague statements such as “excellent quality.”\n\nHis health status was equally concerning. Several rats purchased from the same rattery by friends later died from pneumonia, heart failure, or unknown causes, which left me persistently uneasy about Duoduo’s future. Eventually, those concerns became reality. On August 16, 2025, Duoduo passed away due to acute heart failure."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is worth noting that as of December 2025, owners who kept female rats from the original breeder have not observed any signs of mammary tumors, although this conclusion is limited by sample size and incomplete information. At present, all females on this Siamese line have likewise shown no mammary tumors or obvious aggressive tendencies. At the same time, however, the dams’ lactation capacity has been relatively poor, resulting in litter weights that are noticeably lower than those of any other bloodline. In practical breeding, this has even led to cases where pups required assisted feeding via gavage, reflecting that this issue had already become a significant challenge for the original breeder.\n\nA UK rattery, Isamu, has uploaded a video on YouTube discussing selective breeding strategies, in which the balance between selection against mammary tumors and maintaining adequate lactation is also addressed. Through collaborative efforts with partners, this issue appears to have been managed with relatively positive results.\n\nUp to now, because no fancy rat bloodline on the market has been sufficiently validated in terms of health, temperament, and long-term stability, I find it difficult to place full trust in any existing line based solely on promises or short-term performance. This means that even with substantial effort, it has been hard to encounter an individual that truly fits my framework as a breeding foundation.\n\nBased on this reality, I began my own attempt at developing a Siamese bloodline.\n\nAt present, my Siamese line remains at a very early and immature stage. For the time being, I do not open Siamese individuals to public adoption, except to personally trusted friends or fellow breeders. I hope that one day, after sufficient time has passed and health, temperament, and lifespan have been systematically validated, I will be able to confidently present Siamese fancy rats that are genuinely physically sound, temperamentally stable, and capable of a good quality of life."
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "type": "rich-text",
+      "title": "Records",
+      "body": [
+        { "type": "heading", "level": 3, "text": "2025-02-03 | F1 Introduction of Top-Eared Individuals" },
+        { "type": "heading", "level": 3, "text": "2025-07-11 | F2 Consolidation of the BE Gene" },
+        { "type": "heading", "level": 3, "text": "2025-12 | F3 Adjustment of Top Ear Set and Elimination of Dumbo" }
+      ]
+    },
+    {
+      "id": "photos",
+      "type": "gallery",
+      "title": "Photos",
+      "images": [
+        { "src": "/lines/line1/2.jpg", "alt": "2" },
+        { "src": "/lines/line1/3.jpg", "alt": "3" },
+        { "src": "/lines/line1/4.jpg", "alt": "4" }
+      ]
+    }
+  ]
+}

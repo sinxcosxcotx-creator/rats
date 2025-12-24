@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Philosophy",
+    "title": "Ratopia’s Core Principles",
+    "subtitle": "The rattery’s core principles function as its guiding values in overall operation and management. Here, you can learn about Ratopia’s three primary principles as well as the accompanying Q&A section. These principles are not intended to suit every rattery or breeder. I maintain an attitude of seeking common ground while respecting differences, and welcome fellow breeders and adopters to discuss and reflect on the individual components of these ideas together.",
+    "backgroundImage": "/philosophy/home.jpg"
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "Overview",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": "Ratopia’s “rattery philosophy” consists of three main modules—husbandry, medical care, and breeding—along with a Q&A section. Husbandry focuses on space, enrichment, feeding, and stress management. Medical care emphasizes restraint under uncertainty and opposes excessive intervention. Breeding is grounded in record-keeping and risk control, and explicitly rejects extreme selective practices. The Q&A section addresses common points of controversy while clarifying boundaries and responsibilities. Together, these four components form a practical framework that is executable, reviewable, and open to evaluation."
+        }
+      ]
+    },
+    {
+      "id": "links",
+      "type": "grid-cards",
+      "columns": 1,
+      "items": [
+        {
+          "title": "Husbandry Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/raise"
+        },
+        {
+          "title": "Medical Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/medical"
+        },
+        {
+          "title": "Breeding Philosophy",
+          "text": "View full content",
+          "href": "/philosophy/breed"
+        },
+        {
+          "title": "Q&A",
+          "text": "View full content",
+          "href": "/philosophy/Q&A"
+        }
+      ]
+    }
+  ]
+}

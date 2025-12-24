@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "eyebrow": "Bloodline Archive",
+    "title": "Under Construction",
+    "subtitle": "",
+    "backgroundImage": "/lines/line2/1.jpg",
+    "buttons": [
+      { "text": "Back to Bloodlines", "href": "/bloodlines", "variant": "ghost" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "type": "rich-text",
+      "title": "Introduction",
+      "body": [
+        {
+          "type": "paragraph",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "content",
+      "type": "rich-text",
+      "title": "Records",
+      "body": [
+        { "type": "heading", "level": 3, "text": "" },
+        { "type": "heading", "level": 3, "text": "" },
+        { "type": "heading", "level": 3, "text": "" }
+      ]
+    },
+    {
+      "id": "photos",
+      "type": "gallery",
+      "title": "Photos",
+      "images": [
+        { "src": "/lines/line2/2.jpg", "alt": "2" },
+        { "src": "/lines/line2/3.jpg", "alt": "3" },
+        { "src": "/lines/line2/4.jpg", "alt": "4" }
+      ]
+    }
+  ]
+}

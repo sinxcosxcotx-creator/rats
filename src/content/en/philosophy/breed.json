@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "eyebrow": "Rattery Philosophy",
+    "title": "Breeding Philosophy",
+    "subtitle": "At Ratopia Rattery, I treat breeding as a highly human-directed—and irreversible—act of selection.\n\nIt is not a simple continuation of “natural reproduction”, but a process in which humans decide which traits are kept, which risks are amplified, and which lives are allowed to enter the future. Precisely because breeding is not “natural”, it cannot be neutral, and it cannot be effortless. I refuse to romanticize breeding as “the continuation of life”, and I also refuse to reduce it to “output and efficiency”. In my view, breeding is a technical practice that carries responsibility toward a future population: every pairing is a wager on temperament, health, structure, and risk; every act of negligence returns—at a higher cost—in the next generations.",
+    "backgroundImage": "/philosophy/breed/1.jpg",
+    "buttons": [
+      {
+        "text": "Back",
+        "href": "/philosophy",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "rich-text",
+      "title": "What is Ratopia’s breeding philosophy?",
+      "body": [
+        { "type": "heading", "level": 3, "text": "On culling" },
+
+        {
+          "type": "paragraph",
+          "text": "Any goal-oriented selection program inevitably faces trade-offs. Denying the existence of culling does not eliminate it—it merely pushes it into less visible and less controllable forms: widespread poor growth, higher rates of chronic illness, or the full transfer of problems onto future keepers.\n\nI choose to acknowledge this reality directly, and to move culling forward in the process—defined, categorized, and structured—rather than disguising it after the fact.\n\n"
+        },
+
+        {
+          "type": "paragraph",
+          "text": "1. Hard culling:\n\nHard culling mainly occurs early in life (usually within the first month). This window is not arbitrary—it reflects both the biology of rats and the practical realities of breeding.\n\nRats can produce large litters, but a dam’s milk supply, recovery capacity, and energy have clear limits. When the number of pups significantly exceeds what the mother can sustain, “everyone survives” may be only an appearance. The underlying outcome is often long-term competition for nutrition, slower overall development, weaker immune foundations, and a markedly higher risk of disease later.\n\nIn that situation, refusing to control numbers does not solve the ethical problem—it simply delays it, shifting the question from “who survives” to “how well anyone can survive long-term”, while forcing every pup to share the same hidden costs.\n\nFor this reason, when necessary I will carry out early litter-size control so that the pups who remain can receive adequate nutrition, stable developmental rhythms, and a stronger foundation for long-term health.\n\nHard culling may also occur under certain conditions, including:\n\nClear failure to thrive (FTT); severe and irreversible developmental abnormalities; or when, during pairing, pregnancy, or the postpartum period, the parents reveal significant temperament or health issues that make the entire litter a systemic and unacceptable risk.\n\n"
+        },
+
+        {
+          "type": "paragraph",
+          "text": "2. Soft culling:\n\nSoft culling means explicitly removing an individual from the breeding program and not continuing that line. This is the most frequently used—and most important—form of risk control in our practice. Unlike hard culling, it does not involve ending a life; it is a deliberate restriction of breeding eligibility.\n\nIts core message can be stated simply: not every animal that survives and appears healthy is suitable for breeding.\n\nSoft culling is strongly considered when we see any of the following:\n\nUnstable temperament, including aggression or high reactivity; uncertain health status even if no obvious disease is present; structural conformation that cannot support long-term activity and physical load; repeated or unacceptable risk signals within the genetic background.\n\nThe essence of soft culling is stopping “possible problems” in the current generation rather than hoping “the next generation will be better”.\n\nIn my philosophy, ending a line is not a failure. Continuing to breed while knowing the risks is what is truly irresponsible.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "On inbreeding" },
+
+        {
+          "type": "paragraph",
+          "text": "In fast-reproducing species like rats and mice—where generations turn over quickly and genetics reveal themselves rapidly—inbreeding is not an abnormality but an unavoidable technical tool. The question is never simply “whether to inbreed”, but whether inbreeding is done within records, purpose, and boundaries. I oppose “unconscious inbreeding”, and I also oppose treating “never inbreeding at all” as moral superiority."
+        },
+
+        {
+          "type": "paragraph",
+          "text": "Inbreeding refers to high-intensity pairings such as parent–offspring or full-sibling matings. This is only used on a very small scale and under highly controlled conditions, with prerequisites that include:\n\nComplete, continuous, and traceable pedigree records; explicit calculation and monitoring of the inbreeding coefficient; and a clear validation goal—rather than breeding simply for the sake of “continuing the line”.\n\nThe purpose of inbreeding is straightforward: to deliberately increase genetic pressure so that hidden defects become visible earlier.\n\nThis logic closely parallels the way laboratory inbred strains are established: in research, inbreeding is used to achieve genetic uniformity; in companion-animal breeding, it is used to test stability and to identify and settle risks.\n\nIf a line cannot withstand inbreeding pressure, then the problem is not “caused by inbreeding”. The problem was already present—only masked by randomness."
+        },
+
+        {
+          "type": "paragraph",
+          "text": "Linebreeding is our long-term core strategy. It allows us to consolidate temperament, health, and structural traits that have already been validated, while keeping risk within manageable bounds. By breeding within a line, we reduce random variation, make outcomes more predictable, and make long-term evaluation and correction more feasible."
+        },
+
+        {
+          "type": "paragraph",
+          "text": "By contrast, outcrossing without a clear objective or complete records is not automatically safer.\n\nIn many cases, outcrossing merely delays or shifts problems—and may even introduce new, uncontrollable variables. Therefore, I do not reject outcrossing, but I strongly reject treating it as a universal “reset the gene pool” solution.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "On breeding goals" },
+
+        {
+          "type": "paragraph",
+          "text": "In practice, what matters most is not “what we want to obtain”, but what we are willing to give up.\n\nIf a breeding program cannot answer the question “which outcomes will not be kept even if they appear”, it will eventually be driven by the market, probability, or wishful thinking.\n\nI explicitly reject a path that uses any single visible trait as the primary engine of breeding. The reason is simple: in rodents—where generations turn over quickly and genetics express fast—any trait that is amplified in isolation will be paid for by sacrifices elsewhere. Without a clear priority order, those sacrifices often happen unconsciously.\n\nTherefore, in real decisions I follow a one-way order of judgment:\nFirst, assess whether temperament is stable, predictable, and compatible with long-term living;\nsecond, assess whether health shows consistency across generations;\nthird, assess whether structure supports long-term movement and physical load;\nand only then consider appearance and other phenotypes.\n\nTemperament problems, once introduced into a breeding program, are almost impossible to fully eliminate later. Health problems often emerge with delay. Structural issues magnify over time. And appearance issues are simply appearance issues.\n\nI deliberately avoid keeping individuals that are “good in most ways, but have a bit of a temperament problem” for breeding—because in experience, that “bit of a problem” often amplifies into systemic risk in the next generations.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "On extreme selection" },
+
+        {
+          "type": "paragraph",
+          "text": "Extreme selection is often the most noticeable path in the short term, and the easiest to receive immediate market feedback. But in rodent breeding, extreme selection almost never comes with a single isolated cost.\n\nWhen one trait is repeatedly pushed to an extreme, what usually follows is hidden deterioration in other traits, increased fragility of the overall genetic background, and reduced tolerance to environment, stress, and disease.\n\nThese issues may not concentrate in the first generation. Instead, they often erupt after several generations—when the line has already lost room to correct.\n\nRejecting extreme selection is not “conservatism”. It is an understanding that extreme choices create path dependence: once you go far enough, the cost of turning back multiplies, and sometimes there is no way back.\n\nFor this reason, I care more about whether a population remains stable after multiple generations than whether one generation looks “outstanding”. I would rather give up short-term eye-catching results than bet on an irreversible direction.\n\n"
+        },
+
+        { "type": "heading", "level": 3, "text": "On breeding itself and responsibility" },
+
+        {
+          "type": "paragraph",
+          "text": "I do not treat breeding as a natural right.\nIn our system, not entering the breeding program is the default.\n\nThis does not mean an individual is unhealthy or not excellent. It means breeding is a high-risk act: it magnifies individual problems into population problems, and turns a choice made today into long-term consequences.\n\nTherefore, in practice I always start with the question “do we have sufficient reason to breed”, rather than “why not breed”.\n\nThis means not every healthy, well-tempered individual will be bred; not every generation must produce offspring; and proactively ending a line is a normal decision, not a signal of failure.\n\nIf a breeding program must constantly “prove that it is breeding”, then it has likely already been captured by breeding itself."
+        },
+
+        {
+          "type": "paragraph",
+          "text": "Responsibility does not end when pups are born, leave the rattery, or are adopted.\n\nMany of the most important issues—temperament stability, chronic health risk, genetic defects—only become visible on a longer timescale. For this reason, I do not assume that “every breeding decision is correct”. Instead, I assume errors will occur, and the difference is simply whether we are willing to bear the consequences.\n\nBearing consequences means acknowledging that a pairing or direction was wrong; stopping that direction completely when necessary; and refusing to maintain an existing plan through excuses, minimization, or shifting responsibility.\n\nIn my philosophy, what is truly unacceptable is not failure, but continuing forward while knowingly ignoring problems."
+        },
+
+        {
+          "type": "paragraph",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "hero": {
+    "eyebrow": "Science",
+    "title": "Origins of Rats",
+    "subtitle": "From the natural origins and spread of the brown rat to the institutionalization of laboratory rats and the scientific revolutions they enabled: a path repeatedly validated by science.",
+    "buttons": [
+      { "text": "Back", "href": "/science", "variant": "ghost" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "origin-main",
+      "type": "rich-text",
+      "title": "",
+      "body": [
+        { "type": "heading", "level": 2, "text": "Origins of Rats" },
+
+        { "type": "heading", "level": 3, "text": "I. The Status and Significance of Rats in Modern Science" },
+        {
+          "type": "paragraph",
+          "text": "Looking back on the history of rats as pets and as experimental animals, one can hardly avoid being struck by the extraordinary contributions made by generations of scientists who used this species to drive biomedical progress. The brown rat (Rattus norvegicus) has played key roles across many fields, including neuroscience, aging research, cancer, diabetes, endocrinology, hypertension, immunology, infectious diseases, nutrition, obesity, pharmacology, physiology, reproductive biology, toxicology, and transplantation medicine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Among the 94 Nobel Prizes in Physiology or Medicine awarded between 1901 and 2015 that were based on experimental-animal research, 30 involved studies that directly used laboratory rats. To date, approximately 1.5 million related scientific publications have been produced, placing rats alongside laboratory mice as one of the most important model organisms."
+        },
+
+        { "type": "heading", "level": 3, "text": "II. Species Origins and Global Spread of Laboratory Rats" },
+        { "type": "heading", "level": 5, "text": "The Natural Origins of the Brown Rat" },
+        {
+          "type": "paragraph",
+          "text": "Although early documentation of the brown rat (Rattus norvegicus) is incomplete, there is broad academic consensus regarding its origin and dispersal route. The species is native to temperate regions of Asia, with a range spanning China and Mongolia. As human civilizations expanded, the brown rat—highly adapted to living alongside human settlements—spread rapidly and ultimately achieved a global distribution."
+        },
+        { "type": "paragraph", "text": "Its spread roughly followed this trajectory:" },
+        {
+          "type": "paragraph",
+          "text": "It entered Europe in the early 18th century; reached Britain in 1728–1730; arrived in North America on immigrant ships in 1755; and by 1775 had already spread throughout the northeastern United States."
+        },
+        {
+          "type": "paragraph",
+          "text": "The common name “Norway rat” does not reflect its place of origin; it derives only from the species epithet norvegicus and is not directly related to its geographic distribution."
+        },
+
+        { "type": "heading", "level": 3, "text": "III. From Wild Pest to Captive Keeping: The Historical Background of Early Domestication" },
+        { "type": "heading", "level": 5, "text": "Albino Mutations and Rat-Baiting Culture" },
+        {
+          "type": "paragraph",
+          "text": "The entry of the brown rat into captive-keeping systems likely began with the capture of albino individuals. From the late 18th century to the mid-19th century, “rat-baiting” was popular in France, England, and later in the Americas."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this bloody spectacle, 100 to 200 newly captured wild brown rats were thrown into an arena to be killed by dogs. Judges recorded the time it took for the dog to eliminate the rats, and gamblers placed bets accordingly. To sustain the events, large numbers of brown rats were continuously captured and kept in confinement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Historical records note that event organizers often kept albino individuals separately for display or breeding. These display rats—frequently handled by humans and gradually domesticated—may have become one of the earliest population sources introduced into laboratories."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1862, a bull terrier named “Jaco” set a record by killing 100 rats in 5 minutes and 28 seconds."
+        },
+
+        { "type": "heading", "level": 3, "text": "IV. The Birth of Laboratory Rats: Early Scientific Practice in the 19th Century" },
+        { "type": "heading", "level": 5, "text": "Early Attempts in Europe" },
+        {
+          "type": "paragraph",
+          "text": "Regardless of the precise details, the brown rat can be regarded as the first mammal in human history to be systematically domesticated primarily for scientific research purposes. Before 1850, Europe had already seen sporadic attempts to use rats in nutrition experiments. In 1856, Philipeaux published the first adrenalectomy experiments in albino rats, marking the formal starting point of laboratory-rat research."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1863, the British surgeon Savory published research on the nutritional value of proteins in mammals. Between 1877 and 1885, the German scholar Crampe conducted the first systematic comparisons of breeding characteristics between albino rats and wild rats."
+        },
+
+        { "type": "heading", "level": 3, "text": "V. Foundations of the American Laboratory Rat System" },
+        { "type": "heading", "level": 5, "text": "Donaldson and Meyer: A Convergence of Key Figures" },
+        {
+          "type": "paragraph",
+          "text": "In the 1890s, the Department of Neurology at the University of Chicago began using albino rats systematically for neuroanatomical research. The Swiss neuropathologist Adolf Meyer brought albino rats from the University of Geneva to the United States and successfully persuaded H. H. Donaldson to adopt them as a model for neurological research."
+        },
+        {
+          "type": "paragraph",
+          "text": "After the course ended, the remaining rats were used to establish a breeding colony, and their descendants gradually became the core experimental material for Donaldson’s group. In 1894, Colin Stewart at Clark University studied how alcohol, diet, and air pressure affected rat activity and gradually shifted toward using albino lines."
+        },
+        {
+          "type": "paragraph",
+          "text": "To this day, it remains unclear whether the earliest albino rats in North America originated from European laboratory lines or from mutant descendants of local wild rats. What is clear, however, is that Donaldson and Meyer successfully established rats as a central organism in biomedical research."
+        },
+
+        { "type": "heading", "level": 3, "text": "VI. The Wistar Institute: The True Beginning of the Institutionalization of Laboratory Rats" },
+        {
+          "type": "paragraph",
+          "text": "In the history of biomedicine, the Wistar Institute in Philadelphia holds an irreplaceable position. On one hand, it is the oldest independent biomedical research institution in the United States; on the other—and more importantly—it systematically laid the scientific foundation for rats as laboratory animals."
+        },
+        {
+          "type": "paragraph",
+          "text": "The institute was named after the anatomist Caspar Wistar (1761–1818). His “A System of Anatomy” was among the earliest authoritative anatomy textbooks in the United States. In 1808, he founded the “Wistar Museum of Anatomy,” and after his death, its collections were donated to the University of Pennsylvania."
+        },
+        {
+          "type": "paragraph",
+          "text": "With coordination from medical school dean James Tyson, Caspar’s grand-nephew and lawyer, General Isaac Wistar (1827–1905), helped establish the Wistar Institute of Anatomy and Biology, which was formally founded in 1892. The main building was constructed on land allocated by the University of Pennsylvania at a cost of $125,000; it opened in May 1894 and still stands on the original site today."
+        },
+
+        { "type": "heading", "level": 3, "text": "VII. The Greenman Era: The Institute’s “Golden Age”" },
+        {
+          "type": "paragraph",
+          "text": "The first two directors of the institute served relatively short terms. In 1905, the physician Milton Jay Greenman (1866–1937) became the third director and led the institute for 32 years until his death. Although Greenman was known for administrative strength, it was under his leadership that the Wistar Institute completed a fundamental transformation—from a specimen-based institution into a research center."
+        },
+        {
+          "type": "paragraph",
+          "text": "Soon after taking office, Greenman assembled a scientific advisory committee composed of ten top professors of anatomy and zoology from leading universities across the United States. At the first meeting in April 1905, the committee unanimously decided that the institute’s research would focus on neurology, comparative anatomy, and embryology, and recommended Henry H. Donaldson as the first scientific director."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1908, the institute acquired five authoritative biology journals and printing equipment, establishing the Wistar Press and further solidifying its role as an academic hub."
+        },
+
+        { "type": "heading", "level": 3, "text": "VIII. Henry H. Donaldson: The System Builder of the Laboratory Rat Model" },
+        {
+          "type": "paragraph",
+          "text": "Henry Herbert Donaldson (1857–1938) holds a status in the history of laboratory rats comparable to Clarence Cook Little’s role in laboratory mice through the later Jackson Laboratory. In 1906, Donaldson and his team launched a standardized breeding program for albino rats, aiming to provide a highly reproducible model for research on nervous system development."
+        },
+        {
+          "type": "paragraph",
+          "text": "Donaldson began his academic career at Yale University and later earned his PhD at Johns Hopkins University. His early work spanned multiple institutions in Europe and the United States, and ultimately crystallized in his 1895 book “The Growth of the Brain.” From 1892 to 1906 he taught at the University of Chicago, during which time he suffered lifelong disability due to tuberculosis of the hip. In 1906, at Greenman’s invitation, Donaldson became the scientific director at the Wistar Institute and also served as a professor of neurology at the University of Pennsylvania."
+        },
+
+        { "type": "heading", "level": 5, "text": "Scientific Justification for Albino Rats as a Research Model" },
+        {
+          "type": "paragraph",
+          "text": "Donaldson brought four pairs of albino rats from Chicago to the Wistar Institute. Inspired by Adolf Meyer, he became convinced that albino rats were an ideal model for studying growth and neural development. He therefore assembled an interdisciplinary team and launched a systematic research program."
+        },
+        { "type": "paragraph", "text": "The core outputs of his team included:" },
+        {
+          "type": "list",
+          "style": "bullet",
+          "items": [
+            "Growth curves of body length and body weight",
+            "Relationships between brain/spinal cord development and body weight/body length",
+            "Effects of domestication, age, exercise, and inbreeding on the nervous system",
+            "Effects of gonadectomy on neural development",
+            "Development of the cerebral cortex and cerebellar cortex",
+            "Distribution of blood supply in the brain",
+            "Chemical composition of brain tissue",
+            "Neuron soma size, axon length, and fiber segment structure",
+            "Capacity for nerve fiber regeneration",
+            "Systematic growth curves of the skull, skeleton, viscera, and endocrine glands"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Together, these studies formed the foundational framework for research on growth and development in laboratory rats."
+        },
+
+        { "type": "heading", "level": 5, "text": "The Milestone Significance of the Book “The Rat”" },
+        {
+          "type": "paragraph",
+          "text": "Donaldson published nearly a hundred papers during his lifetime. His landmark work, “The Rat: Data and Reference Tables for the Albino Rat and the Norway Rat,” was first published in 1915 and reissued in 1924. The second edition spans 469 pages and includes 212 data tables, 72 figures, and more than 2,050 references, making it the most comprehensive compilation of rat research literature prior to 1930."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the book, Donaldson made it clear that he did not choose rats because “the rat is a prince under a spell,” but because mammals with similar dietary habits are often highly comparable physiologically. He argued that the growth pattern of the rat nervous system is the same as in humans, only about 30 times faster; a 3-year-old rat can be viewed as equivalent to a 90-year-old human. This equivalence runs through the entire life course, allowing experimental findings—after appropriate conversion—to be transferred to humans."
+        },
+
+        { "type": "heading", "level": 3, "text": "IX. The Continuation of the Donaldson School: The Birth of Inbred Lines and Strain Formation" },
+        { "type": "heading", "level": 5, "text": "1. Helen Dean King and Inbred Rats" },
+        {
+          "type": "paragraph",
+          "text": "Before Donaldson’s death, his students, assistants, and colleagues had already published more than 360 papers on rats. One especially important figure was Helen Dean King (1869–1955). From 1907 to 1949, she worked at the Wistar Institute and was among the most productive scientists in the history of laboratory rats."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 1909, King began brother–sister inbreeding of albino rats. By 1920, two independent lines had reached the 38th inbred generation. One of these lines ultimately continued to the 135th generation and became known as the PA (King Albino) strain. Many modern laboratory rat strains trace their origins to this system."
+        },
+        {
+          "type": "paragraph",
+          "text": "She also captured wild brown rats and developed what later became the BN (Brown Norway) strain, and she identified and documented multiple mutations."
+        },
+
+        { "type": "heading", "level": 3, "text": "X. The Modern Origins of Experimental Facilities and Husbandry Systems" },
+        {
+          "type": "paragraph",
+          "text": "The Wistar Institute not only shaped the genetic system of rats, but also became the first to systematically explore experimental animal facilities, cage design, feed, and husbandry workflows."
+        },
+        {
+          "type": "paragraph",
+          "text": "Through the efforts of Greenman and his assistant F. Louise Duhring, the institute developed highly successful husbandry practices. In 1913, the rat population was moved into dedicated facilities; in 1922, a “colony building” in the modern sense was constructed. Its design already embodied concepts such as separation of clean and dirty traffic flows, functional zoning, and biosecurity-minded materials—serving as a prototype for modern animal facilities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Husbandry practices, disease control, and breeding management were documented in detail in the book “The Breeding and Care of the Albino Rat.”"
+        },
+
+        { "type": "heading", "level": 3, "text": "XI. Rats in Neuroscience and Behavior Science" },
+        {
+          "type": "paragraph",
+          "text": "The systematic use of laboratory rats in behavioral research began in the late 19th century at Clark University and developed rapidly under the influence of John B. Watson. Watson’s work laid the foundation of behaviorist psychology, and rats became his core research subject."
+        },
+        {
+          "type": "paragraph",
+          "text": "His students Karl Lashley and Curt Paul Richter continued and expanded this tradition. From 1919 to 1977, Richter conducted long-term research on rats’ spontaneous activity, biological rhythms, stress, nutritional choice, and domestication. His laboratory published around 250 papers and became an important origin of psychobiology."
+        },
+
+
+        { "type": "heading", "level": 3, "text": "XII. Nutrition and Biochemistry: A Disciplinary Revolution Driven by Rats" },
+        {
+          "type": "paragraph",
+          "text": "The success of rats in nutrition research stems from their rapid growth and the fast dilution of nutrient reserves, making deficiency states easy to induce. In 1907, Elmer V. McCollum was the first to use rats systematically to study nutritional requirements, and together with Marguerite Davis he discovered fat-soluble vitamin A and water-soluble vitamin B."
+        },
+        {
+          "type": "paragraph",
+          "text": "Later, Osborne and Mendel established the core methodology of modern nutrition and biochemistry through purified-diet experiments. Many key findings—including the relationship between vitamin D deficiency and rickets—were completed with laboratory rats as the experimental foundation."
+        }
+      ]
+    }
+  ]
+}
