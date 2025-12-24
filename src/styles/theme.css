@@ -1,0 +1,10 @@
+/* src/styles/theme.css */
+/* Ratopia 设计相关 CSS 变量 */
+
+:root {
+  --ratopia-radius-xl: 1.5rem;
+  --ratopia-radius-xxl: 2rem;
+
+  --ratopia-transition-fast: 150ms;
+  --ratopia-transition-normal: 200ms;
+}

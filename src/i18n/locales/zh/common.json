@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "主页",
+    "philosophy": "鼠舍理念",
+    "science": "鼠舍科普",
+    "bloodlines": "鼠舍血线",
+    "adoption": "待领养",
+    "contact": "联系我们"
+  },
+  "home": {
+    "heroTitle": "Ratopia 鼠舍",
+    "heroSubtitle": "以性格、健康与透明为核心的宠物鼠繁育。"
+  },
+  "footer": {
+    "tagline": "以性格与健康为核心 · 科学繁育 · 诚实透明"
+  }
+}

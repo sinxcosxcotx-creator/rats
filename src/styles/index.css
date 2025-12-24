@@ -1,0 +1,47 @@
+/* src/styles/index.css */
+/* Tailwind 核心指令：一定要放在最前面 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 全局基础样式 */
+
+html,
+body {
+  @apply min-h-screen font-sans;
+}
+
+/* 深色背景 + 稍微有点质感的渐变 */
+body {
+  margin: 0;
+  color: #e5e7eb; /* text-gray-200-ish */
+  background:
+    radial-gradient(circle at top left, rgba(56, 189, 248, 0.12), transparent 55%),
+    radial-gradient(circle at top right, rgba(168, 85, 247, 0.14), transparent 55%),
+    radial-gradient(circle at bottom, rgba(15, 23, 42, 0.85), #020617);
+}
+
+/* 让文本选择也有一点主题色 */
+::selection {
+  background: rgba(168, 85, 247, 0.35);
+  color: #f9fafb;
+}
+
+/* 简单的滚动条美化（非必须，可按需删掉） */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.4);
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.7);
+}
